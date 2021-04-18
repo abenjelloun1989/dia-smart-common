@@ -1,0 +1,1 @@
+This is a mandatory folder shared between dia-smart projects for images
