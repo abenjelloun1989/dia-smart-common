@@ -1,0 +1,3184 @@
+﻿alim_code;alim_nom_fr;alim_carbo;alim_image_url;code
+20810;Cresson, feuille, cru, prélevé à la Martinique;traces;;20810
+6105;Boeuf, faux-filet, rôti/cuit au four;traces;;6105
+6131;Boeuf, hampe, grillée/poêlée;traces;;6131
+6141;Boeuf, joue, braisée ou bouillie;traces;;6141
+6151;Boeuf, jarret, bouilli/cuit à l'eau;traces;;6151
+6161;Boeuf, tende de tranche, grillée/poêlée;traces;;6161
+6162;Boeuf, tende de tranche, rôtie/cuite au four;traces;;6162
+6200;Boeuf, steak ou bifteck, grillé;traces;;6200
+6205;Boeuf, onglet, grillé;traces;;6205
+6207;Boeuf, rumsteck, grillé;traces;;6207
+6208;Boeuf, boule de macreuse, grillée/poêlée;traces;;6208
+6211;Boeuf, bavette d'aloyau, grillée/poêlée;traces;;6211
+6214;Boeuf, boule de macreuse, rôtie/cuite au four;traces;;6214
+6230;Boeuf, à bourguignon ou pot-au-feu, cuit;traces;;6230
+6241;Boeuf, collier, braisé;traces;;6241
+6310;Boeuf, queue, bouillie/cuite à l'eau;traces;;6310
+6512;Veau, carré, sauté/poêlé;traces;;6512
+6520;Veau, escalope, cuite;traces;;6520
+6523;Veau, noix, grillée/poêlée;traces;;6523
+6524;Veau, noix, rôtie;traces;;6524
+6562;Veau, épaule, grillée/poêlée;traces;;6562
+6563;Veau, épaule, braisée ou bouillie;traces;;6563
+6581;Veau, jarret, braisé ou bouilli;traces;;6581
+6582;Veau, tête, bouillie/cuite à l'eau;traces;;6582
+6591;Veau, collier, braisé ou bouilli;traces;;6591
+28009;Porc, palette, crue;traces;;28009
+28103;Porc, rouelle de jambon, cuite;traces;;28103
+28203;Porc, filet mignon, cuit;traces;;28203
+28461;Porc, escalope de jambon, cuite;traces;;28461
+21501;Agneau, côtelette, grillée;traces;;21501
+21508;Agneau, collier, braisé ou bouilli;traces;;21508
+21509;Agneau, côte filet, grillée/poêlée;traces;;21509
+21518;Agneau, gigot, grillé/poêlé;traces;;21518
+21519;Agneau, gigot, braisé;traces;;21519
+21520;Agneau, selle, partie maigre, grillée/poêlée;traces;;21520
+6906;Cheval, tende de tranche, grillée/poêlée;traces;;6906
+6907;Cheval, faux-filet, grillé/poêlé;traces;;6907
+6908;Cheval, entrecôte, grillée/poêlée;traces;;6908
+6909;Cheval, faux-filet, rôti/cuit au four;traces;;6909
+6910;Cheval, tende de tranche, rôtie/cuite au four;traces;;6910
+36205;Canard, magret, grillé/poêlé;traces;;36205
+6001;Boeuf, côte, crue;traces;;6001
+6536;Veau, steak haché 15% MG, cru;traces;;6536
+6580;Veau, pied, cru;traces;;6580
+6590;Veau, collier, cru;traces;;6590
+36020;Poulet éviscéré sans abats, cru;traces;;36020
+21001;Mouton, viande, crue;traces;;21001
+21004;Mouton, pied, cru;traces;;21004
+21005;Mouton, tête, crue;traces;;21005
+21006;Mouton, gigot, cru;traces;;21006
+21514;Agneau, collier, cru;traces;;21514
+6903;Cheval, tende de tranche, crue;traces;;6903
+6904;Cheval, faux-filet, cru;traces;;6904
+6905;Cheval, entrecôte, crue;traces;;6905
+36203;Canard, cuisse avec peau, sans os, crue;traces;;36203
+8010;Rillettes de Tours;traces;;8010
+8025;Rillettes pur oie;traces;;8025
+8109;Confit de canard, viande (cuisse), sans peau, réchauffé;traces;;8109
+8501;Andouille de Guéméné;traces;;8501
+8512;Andouille de Vire;traces;;8512
+26003;Carrelet ou plie, cuit à la vapeur;traces;;26003
+26008;Églefin, cuit à la vapeur;traces;;26008
+26012;Hareng, frit;traces;;26012
+26014;Hareng, grillé/poêlé;traces;;26014
+26015;Lieu noir, cuit;traces;;26015
+26017;Limande-sole, cuite à la vapeur;traces;;26017
+26019;Maquereau, rôti/cuit au four;traces;;26019
+26020;Maquereau, frit;traces;;26020
+26021;Merlan, frit;traces;;26021
+26022;Merlan, cuit à la vapeur;traces;;26022
+26023;Cabillaud, rôti/cuit au four;traces;;26023
+26024;Morue, salée, bouillie/cuite à l'eau;traces;;26024
+26025;Cabillaud, cuit à la vapeur;traces;;26025
+26026;Mulet, rôti/cuit au four;traces;;26026
+26031;Raie, rôtie/cuite au four;traces;;26031
+26033;Roussette ou petite roussette ou saumonette, cuite;traces;;26033
+26038;Saumon, cuit à la vapeur;traces;;26038
+26041;Thon, rôti/cuit au four;traces;;26041
+26059;Sole, cuite à la vapeur;traces;;26059
+26060;Sole, rôtie/cuite au four;traces;;26060
+26061;Sole, bouillie/cuite à l'eau;traces;;26061
+26062;Sole, frite;traces;;26062
+26073;Raie, cuite au court-bouillon;traces;;26073
+26081;Lotte ou baudroie, grillée/poêlée;traces;;26081
+26093;Espadon, rôti/cuit au four;traces;;26093
+26094;Turbot, rôti/cuit au four;traces;;26094
+26120;Merlu, cuit à l'étouffée;traces;;26120
+26126;Églefin, grillé/poêlé;traces;;26126
+26136;Sardine, grillée;traces;;26136
+26147;Vivaneau, cuit;traces;;26147
+26148;Rascasse, cuite à la vapeur;traces;;26148
+26192;Lieu jaune ou colin, cuit;traces;;26192
+26211;Saumon, cuit au micro-ondes, élevage;traces;;26211
+26217;Saumon, bouilli/cuit à l'eau, élevage;traces;;26217
+26222;Dorade grise, ou daurade grise, ou griset, rôtie/cuite au four;traces;;26222
+26229;Saumon, grillé/poêlé;traces;;26229
+26230;Saumon, élevage, rôti/cuit au four;traces;;26230
+26234;Julienne ou Lingue, cuite;traces;;26234
+26247;Flétan du Groënland ou flétan noir ou flétan commun, cuit à la vapeur;traces;;26247
+26248;Sole, poêlée;traces;;26248
+27000;Anguille, rôtie/cuite au four;traces;;27000
+27001;Anguille, bouillie/cuite à l'eau;traces;;27001
+27002;Brochet, rôti/cuit au four;traces;;27002
+27004;Carpe, rôtie/cuite au four;traces;;27004
+27005;Perche, rôtie/cuite au four;traces;;27005
+27006;Truite, rôtie/cuite au four;traces;;27006
+27007;Truite, cuite à la vapeur;traces;;27007
+27014;Truite arc en ciel, élevage, rôtie/cuite au four;traces;;27014
+27015;Truite arc en ciel, élevage, cuite à la vapeur;traces;;27015
+27018;Panga, Pangasius, ou poisson-chat du Mékong, filet, cuit;traces;;27018
+27030;Bar commun ou loup, rôti/cuit au four;traces;;27030
+27031;Dorade (Daurade) royale, cuite au four;traces;;27031
+26001;Bar rayé ou bar d'Amérique, cru;traces;;26001
+26006;Lieu ou colin d'Alaska, cru;traces;;26006
+26009;Flétan de l'Atlantique ou flétan blanc, cru;traces;;26009
+26011;Hareng, cru;traces;;26011
+26018;Lotte ou baudroie, crue;traces;;26018
+26036;Saumon, cru, élevage;traces;;26036
+26042;Turbot sauvage, cru;traces;;26042
+26043;Cabillaud, cru;traces;;26043
+26044;Merlu, cru;traces;;26044
+26047;Lieu noir, surgelé, cru;traces;;26047
+26048;Merlu, filet, surgelé, cru;traces;;26048
+26051;Maquereau, cru;traces;;26051
+26052;Raie, crue;traces;;26052
+26053;Thon, cru;traces;;26053
+26055;Carrelet ou plie, cru;traces;;26055
+26057;Limande, crue;traces;;26057
+26058;Sole, crue;traces;;26058
+26063;Rascasse, crue;traces;;26063
+26064;Thon albacore ou thon jaune, cru;traces;;26064
+26065;Sardine, crue;traces;;26065
+26068;Thon listao ou Bonite à ventre rayé, cru;traces;;26068
+26069;Thon rouge, cru;traces;;26069
+26072;Bar commun ou loup, cru, sans précision;traces;;26072
+26074;Roussette ou petite roussette ou saumonette, crue;traces;;26074
+26075;Bar ou loup de l'Atlantique, cru;traces;;26075
+26076;Thon germon ou thon blanc, cru;traces;;26076
+26079;Anchois commun, cru;traces;;26079
+26080;Dorade royale, ou daurade ou vraie daurade, crue, sauvage;traces;;26080
+26082;Espadon, cru;traces;;26082
+26083;Éperlan, cru;traces;;26083
+26084;Cardine franche, crue;traces;;26084
+26085;Rouget-barbet de roche, cru;traces;;26085
+26088;Dorade royale ou daurade ou vraie daurade, crue, élevage;traces;;26088
+26091;Mulet, cru;traces;;26091
+26092;Truite de mer, crue;traces;;26092
+26095;Merlan, cru;traces;;26095
+26098;Morue, salée, sèche;traces;;26098
+26099;Dorade grise, ou daurade grise, ou griset, crue;traces;;26099
+26100;Bogue, crue;traces;;26100
+26101;Bonite, crue;traces;;26101
+26102;Maquereau espagnol ou maquereau blanc ou billard, cru;traces;;26102
+26103;Denté, cru;traces;;26103
+26104;Saint-Pierre, cru;traces;;26104
+26106;Grondin, cru;traces;;26106
+26107;Corb, cru;traces;;26107
+26108;Capelan, cru;traces;;26108
+26109;Dorade rose, ou daurade rose, crue;traces;;26109
+26110;Rouget-barbet de roche, vapeur;traces;;26110
+26111;Saupe, crue;traces;;26111
+26113;Chinchard, cru;traces;;26113
+26122;Églefin, cru;traces;;26122
+26127;Congre, cru;traces;;26127
+26128;Grenadier (de roche), cru;traces;;26128
+26129;Lieu jaune ou colin, cru;traces;;26129
+26130;Julienne ou Lingue, crue;traces;;26130
+26133;Tacaud, cru;traces;;26133
+26134;Lieu noir, cru;traces;;26134
+26135;Limande-sole, crue;traces;;26135
+26141;Foie de morue, cru;traces;;26141
+26146;Vivaneau, cru;traces;;26146
+26153;Sabre, cru;traces;;26153
+26154;Flétan du Groënland ou flétan noir ou flétan commun, cru;traces;;26154
+26157;Carangue, cru;traces;;26157
+26159;Coulirou, cru;traces;;26159
+26161;Saumon, cru, sauvage;traces;;26161
+26162;Requin, cru;traces;;26162
+26166;Orphie commune, crue;traces;;26166
+26168;Lompe, crue;traces;;26168
+26170;Brème, cru;traces;;26170
+26171;Omble chevalier, cru;traces;;26171
+26172;Loup tacheté, cru;traces;;26172
+26173;Sprat, cru;traces;;26173
+26174;Turbot, cru;traces;;26174
+26175;Corégone lavaret, cru;traces;;26175
+26178;Mérou, cru;traces;;26178
+26194;Lingue bleue ou Lingue, crue;traces;;26194
+26200;Sole tropicale ou Sole langue, crue;traces;;26200
+26201;Turbot d'élevage, cru;traces;;26201
+26205;Bar commun ou loup (Méditerranée), cru, sauvage;traces;;26205
+26206;Bar commun ou loup (Méditerranée), cru, élevage;traces;;26206
+26208;Baudroie rousse ou Lotte, crue;traces;;26208
+26210;Sébaste du nord, ou grand sébaste, ou dorade sébaste, ou daurade sébaste, crue;traces;;26210
+26213;Hoki, tout lieu de pêche, cru;traces;;26213
+26214;Grenadier bleu ou hoki de Nouvelle-Zélande, cru;traces;;26214
+26219;Grondin perlon, cru;traces;;26219
+26233;Merlu blanc du Cap, surgelé, cru;traces;;26233
+26235;Chinchard maigre, cru;traces;;26235
+26236;Chinchard gras, cru;traces;;26236
+26237;Hareng maigre, cru;traces;;26237
+26238;Hareng gras, cru;traces;;26238
+26240;Joëls (petits poissons entiers) pour friture, crus;traces;;26240
+26241;Empereur, filet, sans peau, cru;traces;;26241
+26244;Rouget-barbet, filet avec peau, surgelé, cru (Thaïlande, Sénégal…);traces;;26244
+27003;Carpe, crue, élevage;traces;;27003
+27008;Truite d'élevage, crue;traces;;27008
+27009;Truite arc en ciel, crue, élevage;traces;;27009
+27010;Perche, crue;traces;;27010
+27011;Brochet, cru;traces;;27011
+27012;Esturgeon, cru;traces;;27012
+27016;Anguille, crue;traces;;27016
+27017;Pangasius ou Poisson-chat, cru;traces;;27017
+27019;Tilapia, cru;traces;;27019
+27021;Truite saumonée, crue;traces;;27021
+27023;Lotte de rivière, crue;traces;;27023
+27024;Sandre, cru;traces;;27024
+27025;Perche du Nil, crue;traces;;27025
+26005;Caviar, semi-conserve;traces;;26005
+26186;Maquereau, mariné;traces;;26186
+12001;Camembert, sans précision;traces;;12001
+12003;Fromage à pâte molle et croûte fleurie (type camembert);traces;;12003
+12006;Camembert au lait cru;traces;;12006
+12008;Fromage à pâte molle et croûte fleurie double crème environ 30% MG;traces;;12008
+12009;Fromage rond à pâte molle et croûte fleurie 5 à 11% MG type camembert allégé en matière grasse;traces;;12009
+12010;Coulommiers;traces;;12010
+12012;Fromage rond à pâte molle et croûte fleurie environ 11% MG type coulommiers allégé en matière grasse;traces;;12012
+12013;Fromage rond à pâte molle et croûte fleurie environ 5% MG type camembert allégé en matière grasse;traces;;12013
+12020;Brie, sans précision;traces;;12020
+12021;Brie de Meaux;traces;;12021
+12022;Brie de Melun;traces;;12022
+12025;Carré de l'Est;traces;;12025
+12028;Chaource;traces;;12028
+12029;Maroilles laitier;traces;;12029
+12030;Maroilles fermier;traces;;12030
+12031;Neufchâtel;traces;;12031
+12033;Fromage à pâte molle triple crème environ 40% MG;traces;;12033
+12035;Fromage à pâte molle et croûte lavée, allégé environ 13% MG;traces;;12035
+12036;Maroilles, sans précision;traces;;12036
+12037;Livarot;traces;;12037
+12038;Époisses;traces;;12038
+12039;Munster;traces;;12039
+12040;Langres;traces;;12040
+12042;Pont l'Évêque;traces;;12042
+12045;Reblochon;traces;;12045
+12047;Fromage à pâte molle à croûte lavée, au lait pasteurisé (type Vieux Pané);traces;;12047
+12049;Saint-Marcellin;traces;;12049
+12050;Fromage à pâte molle et croûte mixte (lavée et fleurie) colorée;traces;;12050
+12051;Mont d'or ou Vacherin du Haut-Doubs (produit en France) ou Vacherin-Mont d'Or (produit en Suisse);traces;;12051
+12052;Saint-Félicien;traces;;12052
+12064;Boulette d'Avesne;traces;;12064
+12801;Fromage de chèvre lactique affiné, au lait cru (type Crottin de Chavignol, Picodon, Rocamadour, Sainte-Maure de Touraine);traces;;12801
+12802;Fromage de chèvre lactique affiné, au lait pasteurisé (type bûchette ou crottin);traces;;12802
+12803;Fromage de chèvre lactique affiné (type bûchette, crottin, Sainte-Maure);traces;;12803
+12807;Sainte-Maure de Touraine (fromage de chèvre);traces;;12807
+12810;Fromage de chèvre demi-sec;traces;;12810
+12812;Fromage de chèvre bûche;traces;;12812
+12813;Fromage de chèvre bûche, allégé en matière grasse;traces;;12813
+12814;Fromage de chèvre à pâte molle non pressée non cuite croûte naturelle, au lait pasteurisé;traces;;12814
+12815;Fromage de chèvre sec;traces;;12815
+12820;Fromage de chèvre à pâte molle et croûte fleurie type camembert;traces;;12820
+12824;Fromage de brebis à pâte molle et croûte fleurie;traces;;12824
+12830;Chabichou (fromage de chèvre);traces;;12830
+12831;Pélardon (fromage de chèvre);traces;;12831
+12832;Crottin de chèvre, au lait cru;traces;;12832
+12833;Crottin de chèvre, sans précision;traces;;12833
+12834;Crottin de Chavignol (fromage de chèvre);traces;;12834
+12836;Picodon (fromage de chèvre);traces;;12836
+12839;Pouligny Saint-Pierre (fromage de chèvre);traces;;12839
+12842;Sainte-Maure (fromage de chèvre);traces;;12842
+12845;Selles-sur-Cher (fromage de chèvre);traces;;12845
+12846;Chevrot (fromage de chèvre);traces;;12846
+12847;Rocamadour (fromage de chèvre);traces;;12847
+12848;Valençay (fromage de chèvre);traces;;12848
+12500;Roquefort;traces;;12500
+12519;Fourme de Montbrison;traces;;12519
+12520;Fromage bleu au lait de vache;traces;;12520
+12521;Fromage bleu d'Auvergne;traces;;12521
+12522;Fourme d'Ambert;traces;;12522
+12523;Fromage bleu des Causses;traces;;12523
+12524;Gorgonzola;traces;;12524
+12526;Bleu de Gex ou Fromage bleu du Haut-jura ou Bleu de septmoncel (AOC);traces;;12526
+12527;Fromage bleu de Bresse;traces;;12527
+12528;Fromage bleu de Bresse allegé environ 15% MG;traces;;12528
+12105;Beaufort;traces;;12105
+12110;Comté;traces;;12110
+12112;Abondance;traces;;12112
+12113;Gruyère IGP France;traces;;12113
+12114;Gruyère;traces;;12114
+12115;Emmental ou emmenthal;traces;;12115
+12116;Fromage à pate pressée cuite type emmental ou emmenthal, allégé en matière grasse;traces;;12116
+12118;Emmental ou emmenthal râpé;traces;;12118
+12119;Ossau-Iraty;traces;;12119
+12120;Parmesan;traces;;12120
+12121;Fontina;traces;;12121
+12122;Pecorino;traces;;12122
+12123;Grana Padano;traces;;12123
+12705;Fromage à pâte ferme environ 14% MG type Masdaam à teneur réduite en MG;traces;;12705
+12716;Provolone;traces;;12716
+12720;Fromage à pâte ferme, enrobé de cire;traces;;12720
+12722;Cantal entre-deux;traces;;12722
+12723;Cantal, Salers ou Laguiole;traces;;12723
+12725;Salers;traces;;12725
+12726;Cheddar;traces;;12726
+12729;Edam;traces;;12729
+12735;Mimolette jeune;traces;;12735
+12736;Gouda;traces;;12736
+12737;Mimolette demi-vieille;traces;;12737
+12738;Mimolette vieille;traces;;12738
+12740;Mimolette, sans précision;traces;;12740
+12741;Fromage à pâte ferme environ 27% MG type Maasdam;traces;;12741
+12742;Mimolette extra-vieille;traces;;12742
+12743;Morbier;traces;;12743
+12747;Fromage de brebis des Pyrénées;traces;;12747
+12748;Saint-Nectaire, laitier;traces;;12748
+12749;Raclette (fromage);traces;;12749
+12751;Saint-Nectaire, fermier;traces;;12751
+12752;Saint-Nectaire, sans précision;traces;;12752
+12755;Saint-Paulin (fromage à pâte pressée non cuite demi-ferme);traces;;12755
+12758;Tomme ou tome de vache;traces;;12758
+12759;Tomme ou tome de montagne ou de Savoie;traces;;12759
+12760;Tomme ou tome, allégée en matière grasse, environ 13% MG;traces;;12760
+12761;Asiago;traces;;12761
+12762;Fromage de brebis Corse à pâte molle;traces;;12762
+12763;Tome des Bauges;traces;;12763
+12827;Fromage de brebis à pâte pressée;traces;;12827
+11220;Vinaigre de vin rouge;traces;;11220
+13033;Olive verte, en saumure, égouttée;traces;;13033
+20270;Épinard, jeunes pousses pour salades, cru;< 0,85;;20270
+20336;Épinard, bouilli/cuit à l'eau;< 0,85;;20336
+36031;Poulet, cuisse, viande et peau, bouilli/cuit à l'eau;< 0,55;;36031
+16654;Matière grasse végétale (type margarine) à 60% de MG, allégée, au tournesol, doux;< 0,55;;16654
+16614;Matière grasse végétale (type margarine) à 80% MG, salée;< 0,5;;16614
+26000;Anchois, filets à l'huile, semi-conserve, égoutté;< 0,2;;26000
+16738;Matière grasse végétale (type margarine) à 50-63% MG, allégée, demi-sel;< 0,2;;16738
+25220;Choucroute, sans garniture, égouttée, cuite;< 0,1;;25220
+6100;Boeuf, entrecôte, partie maigre, grillée/poêlée;< 0,1;;6100
+28451;Porc, échine, rôtie/cuite au four;< 0,1;;28451
+21506;Agneau, épaule, rôtie/cuite au four;< 0,1;;21506
+28505;Corned-beef, appertisé;< 0,1;;28505
+13032;Olive noire, en saumure, égouttée;< 0,1;;13032
+13131;Olive noire, à l'huile (à la grecque);< 0,1;;13131
+40004;Cervelle, porc, braisée;< 0,05;;40004
+6252;Boeuf, steak haché 10% MG, cru;< 0,05;;6252
+25035;Sauté d'agneau au curry, préemballé;-;;25035
+25400;Croque-monsieur, fait maison;-;;25400
+20106;Champignon, truffe noire, crue;-;;20106
+20141;Courge doubeurre (butternut), pulpe, cuite;-;;20141
+20202;Champignon noir, séché;-;;20202
+20800;Banane jaune, pulpe, cuite à la vapeur, prélevée à la Martinique;-;;20800
+20803;Chou dur ou chou caraïbe, pulpe, cuit à la vapeur, prélevé à la Martinique;-;;20803
+20806;Christophine blanche, pulpe, appertisée, non égouttée, prélevée à la Martinique;-;;20806
+20807;Christophine, pulpe, cuite à la vapeur, surgelée, prélevée à la Martinique;-;;20807
+20808;Concombre, pulpe avec graines, cru, prélevé à la Martinique;-;;20808
+20809;Concombre, pulpe, cru, prélevé à la Martinique;-;;20809
+20811;Dachine, pulpe, cuit à la vapeur, prélevé à la Martinique;-;;20811
+20813;Fruit à pain, pulpe, cuit à la vapeur, prélevé à la Martinique;-;;20813
+20820;Gombo, entier, appertisé, non égoutté, prélevé à la Martinique;-;;20820
+20826;Topinambour, pulpe, cuit à la vapeur, prélevé à la Martinique;-;;20826
+20827;Kamanioc, pulpe, cuit à la vapeur, prélevé à la Martinique;-;;20827
+20828;Massissi, pulpe, cru, prélevé à la Martinique;-;;20828
+20829;Papaye, pulpe, crue, prélevée à la Martinique;-;;20829
+20830;Papaye, pulpe, cuite à la vapeur, prélevée à la Martinique;-;;20830
+20833;Pois d'angole, entier, cuit à la vapeur, prélevé à la Martinique;-;;20833
+20834;Ti nain, pulpe, cuit à la vapeur, prélevé à la Martinique;-;;20834
+20835;Tomate, entière, crue, prélevée à la Martinique;-;;20835
+4007;Pomme de terre nouvelle, bouillie/cuite à l'eau;-;;4007
+13402;Ananas, pulpe, cru , prélevé à la Martinique;-;;13402
+13403;Caïmite, pulpe, cru, prélevé à la Martinique;-;;13403
+13404;Cerise acérola, pulpe, crue, prélevée à la Martinique;-;;13404
+13405;Chadèque, pulpe, cru, prélevé à la Martinique;-;;13405
+13407;Goyave, pulpe, purée, prélevée à la Martinique;-;;13407
+13408;Jus de carambole, prélevé à la Martinique, jus filtré;-;;13408
+13409;Jus de carambole, prélevée à la Martinique, jus non filtré;-;;13409
+13410;Jus de citron punch (variété petit calibre), pur jus, prélevé à la Martinique;-;;13410
+13411;Jus de citron vert (variété gros calibre), pur jus, prélevé à la Martinique;-;;13411
+13412;Jus de corossol, prélevé à la Martinique;-;;13412
+13413;Jus de fruit de la passion ou maracudja, prélevé à la Martinique, pur jus;-;;13413
+13414;Jus de grenade, prélevée à la Martinique;-;;13414
+13415;Jus de lime, pur jus, prélevé à la Martinique;-;;13415
+13416;Jus de mandarine commune, pur jus filtré pasteurisé, prélevée à la Martinique;-;;13416
+13419;Jus de moubin, pur jus, prélevé à la Martinique;-;;13419
+13420;Jus de pamplemousse (variété locale), pur jus, prélevé à la Martinique;-;;13420
+13425;Mandarine commune, pulpe, au sirop, appertisée, non égouttée, prélevée à la Martinique;-;;13425
+13430;Melon, pulpe, cru, prélevé à la Martinique;-;;13430
+13431;Orange (variété locale), pulpe, prélevée à la Martinique;-;;13431
+13432;Orange amère, pulpe, crue, prélevée à la Martinique;-;;13432
+13433;Pastèque, pulpe, crue, prélevée à la Martinique;-;;13433
+13434;Pomme cajou, pulpe, crue, prélevée à la Martinique;-;;13434
+13435;Pomme cannelle,  pulpe, crue, prélevée à la Martinique;-;;13435
+13436;Pomme d'eau ou pomme malaca, pulpe, crue, prélevée à la Martinique;-;;13436
+13437;Pomme liane, pulpe, crue, prélevée à la Martinique;-;;13437
+13438;Prune de cythère, mûre, fruit entier, crue, prélevée à la Martinique;-;;13438
+13439;Prune de cythère, verte ou immature, fruit entier, crue, prélevée à la Martinique;-;;13439
+13440;Jacques, pulpe, cru, prélevé à la Martinique;-;;13440
+9010;Blé tendre entier ou froment, cru;-;;9010
+7354;Galette de maïs soufflé;-;;7354
+30102;Saucisse fumée, à cuire;-;;30102
+30125;Saucisse alsacienne fumée ou Gendarme;-;;30125
+30152;Merguez, pur boeuf, crue;-;;30152
+30153;Merguez, porc et boeuf, crue;-;;30153
+30154;Merguez, boeuf, mouton et porc, crue;-;;30154
+30177;Diot, cru;-;;30177
+30750;Saucisse viennoise, crue;-;;30750
+30766;Saucisse de bière;-;;30766
+30778;Saucisse de langue à la pistache;-;;30778
+8206;Pâté au jambon;-;;8206
+8934;Quenelle de poisson, cuite;-;;8934
+8380;Oeuf au jambon en gelée;-;;8380
+8801;Boudin blanc, à cuire;-;;8801
+30801;Saucisson de cheval type cervelas;-;;30801
+10000;Bigorneau, cuit;-;;10000
+10033;Crevette rose bouquet, cuite;-;;10033
+10044;Langoustine, bouillie/cuite à l'eau;-;;10044
+10057;Araignée de mer, cuite;-;;10057
+10061;Crevette pattes blanches, cuite;-;;10061
+10062;Crevette géante tigrée, cuite;-;;10062
+10064;Crevette royale rose, cuite;-;;10064
+34501;Grenouille, cuisse, grillée/poêlée;-;;34501
+26151;Oeufs de truite, semi-conserve;-;;26151
+12305;Fromage fondu en portions ou en cubes environ 8% MG;-;;12305
+18064;Boisson au thé, aromatisée, à teneur réduite en sucres;-;;18064
+11216;Sauce soja sucrée, préemballée;-;;11216
+11057;Vanille, gousse;-;;11057
+11085;Agar (algue), séché;-;;11085
+31016;Sucre blanc;99,8;https://images.unsplash.com/photo-1553747069-aefa5a5c9bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80;31016
+31077;Fructose;99,8;https://img-3.journaldesfemmes.fr/tvoY78RFqLy-BTz4a0Ht7UnQiCc=/910x607/smart/e01a5cf1a7af4da2ba168c0f24aa4248/ccmcms-jdf/18460961.jpg;31077
+31044;Sucre vanillé;99;https://img.cuisineaz.com/660x660/2018-07-10/i140929-sucre-vanille-maison.jpeg;31044
+31076;Sucre allégé à l'aspartame;98,7;https://www.vivonsbien.com/valeur-nutritive/images/Sucre-allege-a-l-aspartame.jpg;31076
+31087;Édulcorant à base d'extrait de stévia;98;https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Fminceur.2Fnews-minceur.2Finfos-stevia-01245.2F8828688-4-fre-FR.2Fla-stevia-les-5-points-cles-essentiels-a-connaitre.2Ejpg/850x478/quality/90/crop-from/center/la-stevia-les-5-points-cles-essentiels-a-connaitre.jpeg;31087
+31017;Sucre roux;97,3;https://img-3.journaldesfemmes.fr/m6wu45a9k8uzceu5eL5WP0AK5YQ=/910x607/smart/d4c0118441b8498f82049a286ca0212b/ccmcms-jdf/15758968.jpg;31017
+31059;Bonbon dur et sucette;95,4;https://images.unsplash.com/photo-1534119428213-bd2626145164?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80;31059
+11509;Édulcorant à l'aspartame, en poudre;94,7;https://www.gerble.fr/var/site/storage/images/_aliases/full_dossier/nos-dossiers/edulcorants-sucralose-aspartame-stevia-lequel-choisir/6011-6-fre-FR/edulcorants-sucralose-aspartame-stevia-lequel-choisir.jpg;11509
+24520;Meringue;94,3;https://images.unsplash.com/photo-1615792800805-41de09e63602?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80;24520
+11510;Vermicelles multicolores;93;https://images.unsplash.com/photo-1517837125937-53bd402f49d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=658&q=80;11510
+31007;Chewing-gum, sucré;90,6;https://images.unsplash.com/photo-1598247318797-e43459817f43?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1308&q=80;31007
+9510;Amidon de maïs ou fécule de maïs;89,2;https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fcontent.2Fuploads.2F2017.2F08.2Ffecule.2Ejpg/1200x900/quality/80/crop-from/center/8-facons-etonnantes-d-utiliser-la-fecule-de-mais.jpeg;9510
+31064;Édulcorant à la saccharine;88,8;http://s1.lprs1.fr/images/2020/07/17/8354340_0ef61c04-c803-11ea-bb79-47268465bf3c-1.jpg;31064
+13167;Céréales instantanées, poudre à reconstituer, dès 4/6 mois;88,3;https://i.unimedias.fr/2018/03/05/cereales.jpg;13167
+32107;Pétales de maïs glacés au sucre (non enrichis en vitamines et minéraux);88;https://images.unsplash.com/photo-1521483451569-e33803c0330c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1954&q=80;32107
+4000;Tapioca ou Perles du Japon, cru;87,8;;4000
+32006;Riz soufflé nature, enrichi en vitamines et minéraux;87;https://eshop.demain-lepicerie.be/wp-content/uploads/2019/04/rice-krispies.jpg;32006
+31003;Bonbons, tout type;86,5;https://images.unsplash.com/photo-1615158838770-4908babaa409?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=633&q=80;31003
+4090;Fécule de pomme de terre;86,3;;4090
+32129;Boules de maïs soufflées au miel (non enrichies en vitamines et minéraux);86,2;;32129
+9232;Pop-corn ou Maïs éclaté, au caramel;85,4;https://images.unsplash.com/photo-1579642761360-eabd1cca1e81?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80;9232
+32133;Boules de maïs soufflées au miel, enrichies en vitamines et minéraux;85,3;;32133
+96781;Amidon de riz;85;;96781
+18168;Poudre cacaotée ou au chocolat pour boisson, sucrée, enrichie en vitamines;85;;18168
+42501;Poudre cacaotée pour bébé;85;;42501
+9902;Vermicelle de soja, sèche;84,7;;9902
+32121;Pétales de maïs glacés au sucre, enrichis en vitamines et minéraux;84,7;;32121
+32012;Riz soufflé chocolaté (non enrichi en vitamines et minéraux);84,2;;32012
+31081;Bonbon au caramel, mou;83,7;https://i.pinimg.com/originals/04/f4/06/04f40672d197f40394835b462599b21b.jpg;31081
+32005;Pétales de maïs natures, enrichis en vitamines et minéraux;83,2;;32005
+32131;Riz soufflé chocolaté, enrichi en vitamines et minéraux;83,2;;32131
+32014;Pétales de maïs natures (non enrichis en vitamines et minéraux);82,8;;32014
+31021;Zeste d'orange confit;82,7;https://img.cuisineaz.com/660x660/2016-01-24/i93434-ecorces-d-oranges-confites.jpg;31021
+31121;Chewing-gum, teneur en sucre inconnue (aliment moyen);82,5;https://images.unsplash.com/photo-1598247318797-e43459817f43?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1308&q=80;31121
+7353;Galette multicéréales soufflée;82,4;https://le-quotidien-du-patient.fr/wp-content/uploads/2018/04/galette-de-riz-1024x683.jpg;7353
+23430;Feuille de brick, cuite à sec sans matière grasse;82,4;;23430
+24320;Gaufrette fourrée, aux fruits;82,4;https://ampi.be/wp-content/uploads/2015/12/gaufres-aux-fruits-2-e1540913199660.jpg;24320
+32000;Grains de blé soufflés au miel ou caramel, enrichis en vitamines et minéraux;82,2;;32000
+31008;Miel;81,7;https://images.unsplash.com/photo-1587049352851-8d4e89133924?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80;31008
+13168;Céréales instantanées, poudre à reconstituer, dès 6 mois;81,1;;13168
+31046;Caramel liquide ou nappage caramel;81;;31046
+9900;Vermicelle de riz, sèche;80,5;;9900
+7352;Galette de riz soufflé complet;80,5;https://i-reg.unimedias.fr/sites/art-de-vivre/files/styles/recipe/public/r58_camargue-galette-riz-bio_md.jpg?auto=compress%2Cformat&crop=faces%2Cedges&cs=srgb&fit=crop&h=500&w=393;7352
+32130;Blé khorasan complet soufflé;80,5;;32130
+24685;Cône ou cornet classique, pour glace;80,4;;24685
+31060;Bonbon gélifié;80,2;;31060
+24031;Biscuit sec croquant (ex : tuile) sans chocolat, allégé en matière grasse;80,1;;24031
+32011;Pétales de blé chocolatés (non enrichis en vitamines et minéraux);80,1;;32011
+24430;Biscuit sec aux oeufs à la cuillère (cuiller) ou Boudoir;79,9;;24430
+32013;Céréales chocolatées pour petit déjeuner, non fourrées, (non enrichies en vitamines et minéraux);79,6;;32013
+31023;Marron glacé;79,5;;31023
+31100;Barre céréalière pour petit déjeuner au lait, chocolatée ou non, enrichie en vitamines et minéraux;79,5;;31100
+18102;Poudre maltée, cacaotée ou au chocolat pour boisson, sucrée, enrichie en vitamines et minéraux;79,4;;18102
+32135;Multi-céréales soufflées ou extrudées, enrichies en vitamines et minéraux;79,4;;32135
+18167;Poudre cacaotée ou au chocolat sucrée pour boisson, enrichie en vitamines et minéraux;79,3;;18167
+24680;Biscuit moelleux fourré à l'orange et enrobé de sucre glace;79,3;;24680
+32032;Céréales pour petit déjeuner, non enrichies en vitamines et minéraux (aliment moyen);79,2;;32032
+9874;Pâtes sèches, sans gluten, crues;79;;9874
+32030;"Céréales pour petit déjeuner ""équilibre"" nature (non enrichies en vitamines et minéraux)";79;;32030
+31050;Guimauve ou marshmallow;78,7;;31050
+32029;"Céréales pour petit déjeuner ""équilibre"" aux fruits (non enrichies en vitamines et minéraux)";78,7;;32029
+9101;Riz blanc étuvé, cru;78,6;;9101
+32021;"Céréales pour petit déjeuner ""équilibre"" nature ou au miel, enrichies en vitamines et minéraux";78,6;;32021
+13089;Banane, pulpe, sèche;78,4;;13089
+9121;Riz, mélange de variétés (blanc, complet, rouge, sauvage, etc.), cru;78,1;;9121
+9545;Farine de maïs;78,1;;9545
+31089;Sirop d'agave;78,1;;31089
+31054;Chewing-gum, sans sucre;78,1;https://images.unsplash.com/photo-1598247318797-e43459817f43?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1308&q=80;31054
+9100;Riz blanc, cru;78;;9100
+24441;Biscuit sec type langue de chat ou cigarette russe;77,9;;24441
+32023;"Céréales pour petit déjeuner ""équilibre"" aux fruits, enrichies en vitamines et minéraux";77,9;;32023
+9119;Riz thaï ou basmati, cru;77,8;;9119
+23027;Macaron sec;77,7;;23027
+32009;Pétales de blé chocolatés, enrichis en vitamines et minéraux;77,7;;32009
+24300;Gaufrette ou éventail sans fourrage;76,8;;24300
+32134;Céréales complètes soufflées, enrichies en vitamines et minéraux;76,8;;32134
+7300;Biscotte classique;76,6;;7300
+31014;Pâte de fruits;76,6;;31014
+13178;Canneberge ou cranberry, séchée, sucrée;76,4;;13178
+4022;Pomme de terre, flocons déshydratés, nature;76,1;;4022
+18069;Café, décaféiné, poudre soluble;76;;18069
+23220;Pain d'épices fourré ou nonette;76;;23220
+9440;Farine de blé tendre ou froment T45 (pour pâtisserie);75,9;;9440
+24039;Barre biscuitée fourrée aux fruits, allégée en matière grasse;75,7;;24039
+18101;Poudre cacaotée ou au chocolat pour boisson, sucrée;75,6;;18101
+32025;"Céréales pour petit déjeuner ""équilibre"" aux fruits secs (à coque), enrichis en vitamines et minéraux";75,5;;32025
+24008;Biscuit sec fourré aux fruits, allégé en matière grasse;75,3;;24008
+32003;Céréales pour petit déjeuner (aliment moyen);75,3;;32003
+32115;Grains de blé soufflés chocolatés, enrichis en vitamines et minéraux;75,2;;32115
+20180;Oignon, séché;75;;20180
+7351;Crackers de table au froment;75;;7351
+32031;Céréales pour petit déjeuner, enrichies en vitamines et minéraux (aliment moyen);75;;32031
+24616;Biscuit sec type tuile, aux fruits;74,9;;24616
+31067;Mélasse de canne;74,7;;31067
+7413;Tartine craquante, extrudée et grillée, fourrée aux fruits;74,7;;7413
+24010;Biscuit sec, avec matière grasse végétale;74,7;;24010
+32028;"Céréales pour petit déjeuner ""équilibre"" au chocolat (non enrichies en vitamines et minéraux)";74,6;;32028
+24015;Biscuit sec petit beurre;74,5;;24015
+7400;Pain grillé, tranches, au froment;74,4;;7400
+38107;Biscuit apéritif, mini bretzel ou sticks;74,4;;38107
+24678;Biscuit sec (génoise) nappage aux fruits, type barquette;74,4;;24678
+9614;Polenta ou semoule de maïs, précuite, sèche;74;;9614
+7310;Biscotte sans adjonction de sel;74;;7310
+9437;Farine de blé tendre ou froment avec levure incorporée;74;;9437
+9520;Farine de riz;73,9;;9520
+31036;Dragée amande;73,9;;31036
+24030;Biscuit sec au lait;73,9;;24030
+32022;"Céréales pour petit déjeuner ""équilibre"" au chocolat, enrichies en vitamines et minéraux";73,9;;32022
+7410;Tartine craquante, extrudée et grillée;73,7;;7410
+9436;Farine de blé tendre ou froment T55 (pour pains);73,7;;9436
+31113;Barre céréalière aux fruits;73,5;;31113
+24240;"Goûter sec fourré (""sandwiché"") parfum fruits";73,3;;24240
+24689;Biscuit pour bébé;73,3;;24689
+13046;Raisin, sec;73,2;;13046
+9445;Farine de blé tendre ou froment T80;73,2;;9445
+38403;Biscuit apéritif, crackers, nature, allégé en matière grasse;73,1;;38403
+31106;Barre céréalière chocolatée;73;;31106
+31102;"Barre céréalière ""équilibre"" chocolatée, enrichie en vitamines et minéraux";72,9;;31102
+31101;"Barre céréalière ""équilibre"" aux fruits, enrichie en vitamines et minéraux";72,8;;31101
+9681;Graine de couscous (semoule de blé dur précuite), crue;72,7;;9681
+24002;Biscuit sec à teneur garantie en vitamines;72,6;;24002
+31094;Bonbon dur au caramel;72,5;;31094
+31027;Fruit confit;72,3;;31027
+24370;Crêpe dentelle;72,1;;24370
+9610;Semoule de blé dur, crue;71,6;;9610
+23200;Pain d'épices;71,5;;23200
+9102;Riz complet, cru;71,4;;9102
+24679;Biscuit sec nappé aux fruits, tartelette;71,3;;24679
+24225;"Goûter sec fourré (""sandwiché"") parfum lait ou vanille";71,2;;24225
+32136;Muesli croustillant, au quinoa;71,2;;32136
+24017;Biscuit sec petit beurre au chocolat;71,1;;24017
+9863;Pâtes ou nouilles asiatiques au blé et aux oeufs, crues, nature;71;;9863
+9533;Farine de seigle T130;70,9;;9533
+7403;Pain grillé brioché, tranché, préemballé;70,8;;7403
+7421;Pain grillé suédois aux fruits;70,8;;7421
+9532;Farine de seigle T85;70,7;;9532
+9109;Riz rouge, cru;70,6;;9109
+31072;Chocolat noir fourrage confiseur à la menthe;70,5;;31072
+9570;Farine de châtaigne;70,4;;9570
+32001;Céréales pour petit déjeuner chocolatées, non fourrées, enrichies en vitamines et minéraux;70,4;;32001
+31115;Barre céréalière chocolatée aux fruits;70,4;;31115
+15201;Pâte d'amande, préemballée;70,3;;15201
+18160;Café au lait ou cappuccino, poudre soluble;70,1;;18160
+7431;Croûton à tartiner;70;;7431
+7500;Chapelure;70;;7500
+24001;Biscuit sec nature;70;;24001
+23854;Gaufre croustillante (fine ou sèche), chocolatée, préemballée;70;;23854
+24040;Biscuit sec pour petit déjeuner, au chocolat;69,7;;24040
+13051;Mélange apéritif de fruits exotiques, sec;69,5;;13051
+24686;Génoise sèche fourrée aux fruits et nappée de chocolat;69,5;;24686
+4016;Pomme de terre, flocons déshydratés, au lait ou à la crème;69,4;;4016
+11506;Édulcorant à l'aspartame, en pastilles;69,3;;11506
+9108;Riz sauvage, cru;69,2;;9108
+24037;Biscuit sec fourré à la pâte ou purée de fruits;69,2;;24037
+32016;Céréales pour petit déjeuner fourrées au chocolat ou chocolat-noisettes, enrichies en vitamines et minéraux;69,2;;32016
+7301;Biscotte briochée;69;;7301
+24007;Biscuit sec croquant au chocolat, allégé en matière grasse;69;;24007
+24009;Spéculoos;69;;24009
+13118;Pêche, sèche;68,9;;13118
+7425;Pain grillé, tranches, multicéréale;68,8;;7425
+13406;Chips d'abricot pays, pulpe, prélevé à la Martinique;68,7;;13406
+9321;Orge perlée, crue;68,6;;9321
+9410;Farine de blé tendre ou froment T110;68,6;;9410
+7407;Pain grillé suédois au froment;68,5;;7407
+32128;Muesli floconneux ou de type traditionnel;68,5;;32128
+9540;Farine de sarrasin;68,4;;9540
+32111;Muesli croustillant aux fruits ou fruits secs, enrichi en vitamines et minéraux;68,4;;32111
+9821;Pâtes sèches, aux oeufs, crues;68;;9821
+24615;Biscuit sec ou tuile, aux amandes;68;;24615
+24231;"Goûter sec fourré (""sandwiché"") parfum chocolat";67,9;;24231
+24371;Crêpe dentelle au chocolat, préemballée;67,9;;24371
+32123;Pétales de blé avec noix, noisettes ou amandes, enrichis en vitamines et minéraux;67,9;;32123
+9080;Blé dur précuit, entier, cru;67,7;;9080
+24041;Biscuit aux céréales pour petit déjeuner, enrichis en vitamines et minéraux;67,7;;24041
+9870;Pâtes sèches, au blé complet, crues;67,6;;9870
+9435;Farine de blé tendre ou froment T65;67,6;;9435
+24054;Biscuit sec, sablé, galette ou palet, aux fruits;67,6;;24054
+32139;Muesli enrichi en vitamines et minéraux (aliment moyen);67,3;;32139
+9083;Blé dur précuit, grains entiers, cuisiné, à poêler;67,2;;9083
+9200;Maïs entier, cru;67,2;;9200
+32017;Céréales pour petit déjeuner fourrées au chocolat ou chocolat-noisettes;67,2;;32017
+18163;Café au lait ou cappuccino au chocolat, poudre soluble;67,1;;18163
+31034;Sirop d'érable;67,1;;31034
+7340;Biscotte complète ou riche en fibres;67;;7340
+23849;Gaufre fine fourrée au miel, préemballée;67;;23849
+18150;Chicorée et café, poudre soluble;66,9;;18150
+9690;Boulgour de blé, cru;66,8;;9690
+7330;Biscotte multicéréale;66,7;;7330
+23830;Crêpe fourrée fraise, préemballée;66,7;;23830
+32004;Muesli (aliment moyen);66,6;;32004
+24070;Sablé à la noix de coco;66,5;;24070
+7420;Pain grillé suédois au blé complet;66,4;;7420
+31001;Barre chocolatée non biscuitée enrobée;66,4;;31001
+23853;Gaufre croustillante (fine ou sèche), nature ou sucrée, préemballée;66,4;;23853
+24035;Biscuit sec pour petit déjeuner, allégé en sucres;66,3;;24035
+11171;Fond de volaille pour sauces et cuisson, déshydraté;66,3;;11171
+31093;Guimauve ou marshmallow, enrobé de chocolat;66,2;;31093
+24072;Sablé aux fruits (pomme, fruits rouges, etc.);66;;24072
+9810;Pâtes sèches standard, crues;65,8;;9810
+24034;Biscuit sec pour petit déjeuner;65,8;;24034
+9360;Sorgho entier, cru;65,4;;9360
+32110;Muesli floconneux aux fruits ou fruits secs, enrichi en vitamines et minéraux;65,4;;32110
+7525;Gressin;65,3;;7525
+31104;Barre céréalière diététique hypocalorique;65,3;;31104
+31041;Confiserie au chocolat dragéifiée;65;;31041
+24000;Biscuit sec, sans précision;65;;24000
+9415;Farine de blé tendre ou froment T150;64,9;;9415
+24049;Biscuit sec au beurre, sablé, galette ou palet;64,8;;24049
+13011;Datte, pulpe et peau, sèche;64,7;;13011
+32018;Céréales pour petit déjeuner fourrées, fourrage autre que chocolat, enrichies en vitamines et minéraux;64,7;;32018
+9380;Sarrasin entier, cru;64,6;;9380
+9550;Farine d'orge;64,5;;9550
+23442;Pâte sablée, cuite;64,4;;23442
+9330;Mil entier, cru;64,3;;9330
+7412;Tartine craquante, extrudée et grillée, fourrée au chocolat;64,3;;7412
+23941;Gâteau moelleux fourré aux fruits type mini-roulé ou mini-cake fourré, prémballé;64,2;;23941
+7004;Pain grillé, domestique;64;;7004
+9480;Farine d'épeautre (grand épeautre);64;;9480
+32008;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux;64;;32008
+20211;Champignon, lentin comestible ou shiitaké, séché;63,9;;20211
+23930;Gâteau sablé aux fruits, préemballé;63,9;;23930
+38104;Chips de crevette;63,7;;38104
+24053;Biscuit sec chocolaté, type galette;63,7;;24053
+24016;Biscuit sec avec tablette de chocolat;63,3;;24016
+23803;Gâteau basque, cerises;63,3;;23803
+9555;Farine de millet;63,2;;9555
+32109;Muesli croustillant au chocolat (non enrichi en vitamines et minéraux);63,2;;32109
+7409;Pain grillé suédois aux graines de lin;63;;7409
+23448;Pâte sablée pur beurre, cuite;63;;23448
+24360;Cigarette;63;;24360
+11023;Ail séché, poudre;62,8;;11023
+32112;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux;62,7;;32112
+18017;Sirop à diluer, sucré;62,6;;18017
+31033;Nougat ou touron;62,5;;31033
+9060;Blé dur entier, cru;62,4;;9060
+4038;Chips de pommes de terre et assimilés nature ou aromatisées, allégées en matière grasse;62,1;;4038
+38400;Biscuit apéritif soufflé, à base de maïs, sans cacahuète;62,1;;38400
+31047;Gélifiant pour confitures;62;;31047
+24003;Biscuit sec à teneur garantie en vitamines et minéraux;61,9;;24003
+24038;Biscuit sec avec nappage chocolat;61,9;;24038
+24036;Biscuit sec chocolaté, préemballé;61,7;;24036
+32138;Muesli floconneux aux fruits ou fruits secs (non enrichi en vitamines et minéraux);61,7;;32138
+31086;Gelée de fruits divers (extra ou classique);61,6;;31086
+32113;Muesli floconneux aux fruits ou fruits secs, sans sucres ajoutés;61,6;;32113
+23937;Gâteau moelleux aux fruits, prémballé;61,6;;23937
+11039;Safran;61,5;;11039
+24004;Biscuit sec aux fruits, hyposodé;61,4;;24004
+24011;Biscuit sec, petits fours en assortiment;61,4;;24011
+24080;Sablé au cacao ou chocolat, au praliné ou autre;61,2;;24080
+23416;Pâte brisée, pur beurre, cuite;61,1;;23416
+9390;Seigle entier, cru;61;;9390
+31062;Confiture de framboise (extra ou classique);61;;31062
+24050;Biscuit sec au beurre, sablé, galette ou palet, au chocolat;61;;24050
+23446;Pâte sablée pur beurre, surgelée, crue;60,9;;23446
+31038;Confiture de cerise (extra ou classique);60,9;;31038
+24051;Biscuit sec chocolaté, type barquette;60,9;;24051
+32141;Muesli non enrichi en vitamines et minéraux (aliment moyen);60,7;;32141
+23939;Gâteau moelleux fourré au chocolat ou aux pépites de chocolat ou au lait, prémballé;60,7;;23939
+31009;Chocolat au lait aux céréales croustillantes, tablette;60,6;;31009
+31114;Barre céréalière aux amandes ou noisettes;60,6;;31114
+38106;Biscuit apéritif soufflé, à base de pomme de terre;60,5;;38106
+31000;Barre chocolatée biscuitée;60,5;;31000
+31098;Barre chocolat au lait avec nougat;60,5;;31098
+31024;Confiture de fraise (extra ou classique);60,5;;31024
+24659;Biscuit sec feuilleté, type palmier ou autres;60,5;;24659
+38399;Biscuit apéritif (aliment moyen);60,3;;38399
+31092;Calissons d'Aix en Provence;60,3;;31092
+31002;Barre à la noix de coco, enrobée de chocolat;60,2;;31002
+31006;Confiture ou Marmelade, tout type de fruits (aliment moyen);60,2;;31006
+24052;Biscuit sec chocolaté, type tartelette;60,2;;24052
+23301;Corne de gazelle (pâtisserie orientale aux amandes et sirop);60,2;;23301
+24313;Gaufrette, fourrée vanille, préemballée;60,1;;24313
+24665;Gâteau aux amandes, préemballé;60,1;;24665
+9231;Pop-corn ou Maïs éclaté, à l'air, non salé;60;;9231
+15016;Crème de marrons vanillée, appertisée;59,8;;15016
+24055;Biscuit sec fourré fruits à coque (non ou légèrement chocolaté);59,8;;24055
+31037;Confiture d'abricot (extra ou classique);59,7;;31037
+32108;Muesli croustillant aux fruits et/ou fruits secs, graines (non enrichi en vitamines et minéraux);59,7;;32108
+31095;Gelée de groseille (extra ou classique);59,6;;31095
+24312;Gaufrette fourrée fruits à coque (noisette, amande, praline, etc.), chocolatée ou non, préemballée;59,6;;24312
+9001;Épeautre, cru;59,5;;9001
+9003;Blé de Khorasan, cru;59,5;;9003
+38105;Chips de maïs ou tortilla chips;59,5;;38105
+11169;Fond de veau pour sauces et cuisson, déshydraté;59,5;;11169
+24071;Sablé pâtissier, artisanal;59,4;;24071
+23022;Canelé;59,4;;23022
+31039;Marmelade d'orange;59,3;;31039
+31053;Confiture de prune (extra ou classique);59,3;;31053
+32002;Céréales pour petit déjeuner riches en fibres, avec ou sans fruits, enrichies en vitamines et minéraux;59,3;;32002
+13001;Abricot, dénoyauté, sec;59,1;;13001
+7432;Croûtons nature, préemballés;59,1;;7432
+38405;Biscuit apéritif à base de pomme de terre, type tuile salée;59,1;;38405
+9612;Mélange de céréales et légumineuses, cru;59;;9612
+38402;Biscuit apéritif, crackers, nature;59;;38402
+51550;Khatfa feuille de brick, préemballée;59;;51550
+24684;Cookie aux pépites de chocolat;59;;24684
+38500;Croûton à l'ail aux fines herbes ou aux oignons, préemballé;58,9;;38500
+31068;Confiture de myrtilles (extra ou classique);58,9;;31068
+23815;Crêpe fourrée au sucre, préemballée;58,7;;23815
+23829;Crêpe fourrée chocolat, préemballée;58,7;;23829
+9345;Amarante, crue;58,6;;9345
+7001;Pain, baguette, courante;58,3;;7001
+38108;Biscuit apéritif soufflé, à base de pomme de terre et de soja;58,3;;38108
+23412;Pâte brisée, matière grasse végétale, cuite;58,3;;23412
+11006;Gingembre, poudre;58,3;;11006
+9340;Quinoa, cru;58,1;;9340
+23800;Crêpe, nature, préemballée, rayon température ambiante;58,1;;23800
+31040;Confiture de lait;58;;31040
+32140;Flocon d'avoine précuit;58;;32140
+9311;Flocon d'avoine;57,9;;9311
+31032;Pâte à tartiner chocolat et noisette;57,9;;31032
+31071;Barre chocolatée aux fruits secs;57,6;;31071
+23594;Gâteau moelleux nature type génoise;57,6;;23594
+13080;Tamarin, fruit mûr, pulpe, cru;57,4;;13080
+23802;Gâteau basque, crème pâtissière;57,4;;23802
+13111;Pomme, sèche;57,2;;13111
+18152;Chicorée, poudre soluble;57,2;;18152
+24311;Gaufrette fourrée chocolat, préemballée;57,2;;24311
+31010;Chocolat blanc, tablette;57,1;;31010
+23426;Pâte feuilletée pur beurre, cuite;57;https://www.panierdesaison.com/wp-content/uploads/2017/12/P%C3%A2te-feuillet%C3%A9e-cuite.jpg;23426
+7007;Pain, baguette, de tradition française;56,6;https://www.lemondedesboulangers.fr/sites/default/files/styles/660x350/public/sans_titre-1_16.jpg?itok=FvbzYi2r;7007
+7160;Pain, baguette, sans sel;56,5;https://images.unsplash.com/photo-1533782654613-826a072dd6f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80;7160
+30999;Confiture ou Marmelade, tout type de fruits, teneur en sucre inconnue (aliment moyen);56,5;;30999
+23050;Biscuit de Savoie;56,3;;23050
+3002;Lait 2e âge, poudre soluble (préparation de suite);56,3;;3002
+9320;Orge entière, crue;56,2;;9320
+20092;Carotte, déshydratée;56;;20092
+24060;Biscuit pâtissier meringué;56;;24060
+7170;Pain panini;55,9;https://cuisinezavecdjouza.fr/wp-content/uploads/2014/11/pain-panini-photo-3.jpg;7170
+31042;Cacahuètes enrobées de chocolat dragéifiées;55,9;;31042
+7720;Pain aux raisins (viennoiserie);55,9;https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/503BF872-83BE-4CCA-9476-855E3BE4911B/Derivates/4A571C47-C6BF-452F-A8E5-25C169DF5B5C.jpg;7720
+23852;Gaufre moelleuse (type bruxelloise ou liégeoise), chocolatée, préemballée;55,9;;23852
+51510;Frik (blé dur immature concassé), cru;55,8;;51510
+9310;Avoine, crue;55,7;;9310
+19027;Lait concentré sucré, entier;55,6;;19027
+31004;Chocolat au lait, tablette;55,6;;31004
+7225;Pain brioché ou viennois;55,5;;7225
+13042;Pruneau, sec;55,4;;13042
+96778;Pâte à pizza cuite;55,3;;96778
+23909;Cake aux fruits, préemballé;55,2;;23909
+31091;Bonbon / bouchée au chocolat fourrage gaufrettes / biscuit;55,1;;31091
+15013;Crème de marrons;55;;15013
+3000;Lait 1er âge, poudre soluble (préparation pour nourrissons);55;;3000
+38404;Biscuit apéritif soufflé, à base de maïs, à la cacahuète;54,8;;38404
+7813;Tortilla souple (à garnir), à base de maïs;54,7;;7813
+23082;Barre pâtissière, préemballé;54,7;;23082
+7263;Bretzel, pain frais;54,6;;7263
+23585;Gâteau au chocolat;54,6;;23585
+7000;Pain (aliment moyen);54,4;;7000
+13013;Figue, sèche;54,3;;13013
+23821;Crêpe fourrée au chocolat ou à la pâte à tartiner chocolat et noisettes, maison;54,3;;23821
+31020;Chocolat au lait sans sucres ajoutés, avec édulcorants, tablette;54,2;;31020
+23422;Pâte feuilletée, cuite;54,1;;23422
+7010;Pain, baguette ou boule, bis (à la farine T80 ou T110) ;54;;7010
+19054;Lait en poudre, écrémé;54;;19054
+23103;Gâteau au citron, tout type;54;;23103
+23820;Crêpe fourrée à la confiture, maison;54;;23820
+9815;Pâtes fraîches, aux oeufs, crues;53,8;;9815
+38407;Biscuit apéritif feuilleté;53,7;;38407
+23033;Rocher coco ou Congolais (petit gâteau à la noix de coco);53,7;;23033
+23444;Pâte sablée pur beurre, crue;53,6;;23444
+23000;Gâteau (aliment moyen);53,5;;23000
+24632;Madeleine ordinaire, préemballée;53,5;;24632
+7744;Couronne de Noël (Brioche) aux fruits confits, préemballée;53,3;;7744
+23940;Génoise fourrée et nappée au chocolat, prémballé;53,3;;23940
+7737;Brioche fourrée au chocolat;53,2;;7737
+7002;Pain, baguette ou boule, au levain;53,1;;7002
+24660;Palmier, artisanal;53,1;;24660
+7180;Pain pita;53;;7180
+31084;Chocolat au lait fourré au praliné, tablette;52,9;;31084
+7740;Brioche, préemballée;52,7;;7740
+9230;Pop-corn ou Maïs éclaté, à l'huile, salé;52,6;;9230
+24630;Madeleine, pur beurre, préemballée;52,6;;24630
+23851;Gaufre moelleuse (type bruxelloise ou liégeoise), nature ou sucrée, préemballée;52,5;;23851
+31109;Pollen, partiellement séché;52,5;;31109
+7210;Pain de mie brioché, préemballé;52,4;https://images.unsplash.com/photo-1601750683192-72f3ab28ece9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80;7210
+31080;Chocolat noir fourré praliné, tablette;52,4;;31080
+7200;Pain de mie, courant;52,3;;7200
+7711;Pain au lait, préemballé;52,2;;7711
+7260;Pain blanc maison (avec farine pour machine à pain);52,1;;7260
+7815;Tortilla souple (à garnir), à base de blé;52,1;;7815
+20515;Pois cassé, sec;52;;20515
+7012;Pain courant, 400g ou boule;52;;7012
+7712;Pain au lait aux pépites de chocolat, préemballé;52;;7712
+7130;Pain, sans gluten;51,8;;7130
+23588;Gâteau au yaourt;51,8;;23588
+7735;Brioche (ou briochettes) aux pépites de chocolat, préemballée;51,6;;7735
+7745;Brioche pur beurre, préemballée;51,6;;7745
+7125;Pain de seigle, et froment;51,5;https://images.unsplash.com/photo-1551888761-382cd30b5da6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80;7125
+31063;Bouchée chocolat fourrage fruits à coques et/ou praliné;51,5;;31063
+24631;Madeleine au chocolat, préemballée;51,5;;24631
+31066;Rocher chocolat fourré praliné;51,4;;31066
+31085;Chocolat noir à 40% de cacao minimum, à pâtisser, tablette;51,4;;31085
+4004;Chips de pommes de terre nature ou aromatisées, standard;51,1;;4004
+13623;Abricot, dénoyauté, sec, moelleux (réhydraté à 35-45%);51,1;;13623
+37000;Base de pizza à la crème;51,1;;37000
+23440;Pâte sablée, crue;51;;23440
+9640;Son d'avoine;51;;9640
+31012;Barres ou confiserie chocolatées au lait;50,9;;31012
+23445;Pâte phyllo ou Pâte filo, crue;50,8;;23445
+24056;Florentin (biscuit sec sucré chocolaté aux amandes);50,7;;24056
+20504;Lentille, sèche;50,6;;20504
+7710;Pain au lait, artisanal;50,6;;7710
+23032;Brownie au chocolat, préemballé;50,6;;23032
+7738;Brioche fourrée aux fruits, préemballée;50,5;;7738
+23925;Gâteau marbré, prémballé;50,5;;23925
+11056;Quatre épices;50,5;;11056
+20812;Farine de pulpe de patate douce, prélevée à la Martinique;50,1;;20812
+7100;Pain, baguette ou boule, de campagne;50;;7100
+7025;Pain, baguette ou boule, bio (à la farine T55 jusqu'à T110);49,9;;7025
+4037;Chips de pommes de terre nature ou aromatisées, à l'ancienne;49,8;;4037
+7259;Pain pour hamburger ou hot dog (bun), préemballé;49,7;;7259
+23024;Macaron moelleux fourré à la confiture ou à la crème;49,7;;23024
+7201;Pain de mie, sans croûte, préemballé;49,5;https://images.unsplash.com/photo-1601750683192-72f3ab28ece9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80;7201
+7739;"Brioche fourrée crème pâtissière (type ""chinois""), préemballée";49,2;;7739
+7742;Brioche, de boulangerie traditionnelle;49,2;;7742
+23300;Baklava ou Baklawa (pâtisserie orientale aux amandes et sirop);49,2;;23300
+7600;Viennoiserie (aliment moyen);49,1;;7600
+32116;Céréales pour petit déjeuner très riches en fibres, enrichies en vitamines et minéraux;49;;32116
+23950;Muffin, aux myrtilles ou au chocolat;48,9;;23950
+38408;Crêpe dentelle (pour apéritif) au fromage, préemballée;48,8;;38408
+23938;Gâteau moelleux aux fruits à coque, prémballé;48,8;;23938
+31018;Chocolat au lait aux fruits secs (noisettes, amandes, raisins, praline), tablette;48,7;;31018
+23122;Kouign Amann;48,7;;23122
+11053;Laurier, feuille;48,6;;11053
+19015;Lait infantile pour prématurés, prêt à consommer;48,5;;19015
+20586;Lentille blonde, sèche;48,3;;20586
+11019;Poivre blanc, poudre;48,3;;11019
+23081;Quatre-quarts, préemballé;48,2;;23081
+23586;Gâteau moelleux au chocolat, préemballé;48,2;;23586
+31026;Chocolat blanc aux fruits secs (noisettes, amandes, raisins, praliné) , tablette;48;;31026
+15021;Châtaigne, grillée;47,9;;15021
+20530;Haricot mungo, sec;47,6;;20530
+7615;Croissant ordinaire, artisanal;47,6;;7615
+24005;Biscuit sec aux fruits hyposodé, sans sucres ajoutés;47,6;;24005
+23884;Beignet fourré aux fruits, préemballé;47,6;;23884
+20516;Pois chiche, sec;47,5;;20516
+7258;Bagel;47,3;https://images.unsplash.com/photo-1585445490387-f47934b73b54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;7258
+9580;Farine de pois chiche;47;;9580
+7255;Pain, baguette ou boule, aux céréales et graines, artisanal;46,9;;7255
+23499;Tarte ou tartelette aux fruits;46,9;;23499
+7733;Pain au chocolat, préemballé;46,8;;7733
+7261;Pain de campagne maison (avec farine pour machine à pain);46,7;;7261
+7262;Pain pour hamburger ou hot dog (bun), complet, préemballé;46,3;;7262
+38401;Biscuit apéritif, crackers, garni ou fourré, au fromage;46,3;;38401
+20525;Haricot rouge, sec;46,1;;20525
+7112;Pain de mie, au son;46;https://images.unsplash.com/photo-1601750683192-72f3ab28ece9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=81;7112
+7741;Brioche, sans précision;46;;7741
+23080;Quatre-quarts, fabrication artisanale;46;;23080
+9647;Son (aliment moyen);46;;9647
+23885;Beignet fourré goût chocolat, préemballé;45,9;;23885
+7620;Croissant au beurre, artisanal;45,7;;7620
+23881;Beignet à la confiture;45,6;;23881
+31079;Chocolat au lait fourré;45,5;;31079
+38406;Cacahuètes (arachide) enrobées d'un biscuit, pour apéritif;45,4;;38406
+7730;Pain au chocolat feuilleté, artisanal;45,4;;7730
+31069;Chocolat noir aux fruits (orange, framboise, poire), tablette;45,3;;31069
+31120;Chocolat, en tablette (aliment moyen);45,3;;31120
+20535;Lentille corail, sèche;44,9;;20535
+23414;Pâte brisée, pur beurre, crue;44,9;;23414
+9530;Farine de seigle T170;44,8;;9530
+23402;Pâte à pizza fine, crue;44,6;;23402
+37002;Base de pizza tomatée;44,6;;37002
+20585;Lentille verte, sèche;44,5;;20585
+7115;Pain au son;44,4;;7115
+11089;Curcuma, poudre;44,4;;11089
+7110;Pain complet ou intégral (à la farine T150);44,3;;7110
+24664;Gâteau aux amandes type financier;44,3;;24664
+37001;Pâte à pizza crue;44,2;;37001
+23900;Pâtisserie (aliment moyen);44;;23900
+20501;Haricot blanc, sec;43,9;;20501
+24690;Biscuit sec pauvre en glucides;43,8;;24690
+7111;Pain de mie, complet;43,7;https://images.unsplash.com/photo-1601750683192-72f3ab28ece9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80;7111
+24666;Mille-feuille;43,7;;24666
+7113;Pain de mie, multicéréale;43,6;https://images.unsplash.com/photo-1601750683192-72f3ab28ece9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=82;7113
+23410;Pâte brisée, crue;43,6;;23410
+19044;Lait en poudre, demi-écrémé;43,4;;19044
+31082;Préparation de fruits divers (en taux de sucres : confitures allégées en sucres < préparations de fruits < confitures);43,4;;31082
+20189;Tomate, séchée;43,3;;20189
+23415;Pâte brisée, pur beurre, surgelée, crue;43,3;;23415
+31005;Chocolat noir à moins de 70% de cacao, à croquer, tablette;42,9;;31005
+23485;Tarte au citron;42,7;;23485
+18005;Café, poudre soluble;42,6;;18005
+23467;Chouquette;42,6;;23467
+20539;Haricot flageolet, vert, sec;42,1;;20539
+39234;Gâteau au chocolat, coeur fondant, préemballé (rayon frais);41,9;;39234
+25182;Pâtes fraîches farcies (ex : raviolis, tortellinis), au fromage et aux légumes, préemballées, crues;41,4;;25182
+25203;Pâtes fraîches farcies (ex : raviolis, tortellinis), aux légumes, préemballées, crues;41,4;;25203
+9011;Blé germé, cru;41,4;;9011
+23420;Pâte feuilletée, matière grasse végétale, crue;41,4;;23420
+1021;Crème de cassis;41;;1021
+31073;Barre goûter frais au lait et chocolat;41;;31073
+23494;Tarte aux abricots;41;;23494
+23497;Tarte au chocolat, fabrication artisanale;40,9;;23497
+25488;Sandwich baguette, saumon fumé, beurre;40,8;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=83;25488
+31070;Chocolat noir aux fruits secs (noisettes, amandes, raisins, praline), tablette;40,7;;31070
+39502;Dessert glacé type mystère ou vacherin;40,5;;39502
+11075;Cardamome, poudre;40,5;;11075
+7602;Croissant, sans précision;40,4;;7602
+25157;Pâtes fraîches farcies (ex : raviolis, totellinis), à la viande (ex : bolognaise), préemballées, crues;40,3;;25157
+18003;Café, moulu;40,2;;18003
+23799;Crêpe, nature, préemballée, rayon frais;40;;23799
+23424;Pâte feuilletée pur beurre, crue;39,7;;23424
+7257;Muffin anglais, petit pain spécial, préemballé;39,6;;7257
+1003;Liqueur;39,6;;1003
+23008;Entremets type Opéra;39,6;;23008
+11015;Poivre noir, poudre;39,5;;11015
+4032;Frites de pommes de terre, surgelées, cuites en friteuse;39,4;;4032
+23880;Beignet rond moelleux, sans fourrage, saupoudré de sucre;39,4;;23880
+15032;Luzerne, graine;39,3;;15032
+39528;Sorbet, cône;39,3;;39528
+31099;Barre goûter frais au lait et chocolat avec génoise;39;;31099
+7812;Fougasse, garnie;38,8;;7812
+23481;Tarte normande aux pommes (garniture farine, oeufs, crème, sucre, calvados);38,7;;23481
+23495;Tarte aux fruits rouges;38,5;;23495
+39522;Glace ou crème glacée, mini cône;38,5;;39522
+31110;Confiture, tout type de fruits, allégée en sucres (extra ou classique);38;;31110
+39509;Glace ou crème glacée, cône (taille standard);37,8;;39509
+24663;Tarte aux poires amandine;37,7;;24663
+11081;Epice (aliment moyen);37,7;;11081
+31111;Pollen,frais;37,7;;31111
+19021;Lait en poudre, entier;37,5;;19021
+25181;Pâtes fraîches farcies (ex : raviolis, tortellinis, ravioles du Dauphiné), au fromage, préemballées, crues;37,3;;25181
+23496;Tarte Tatin aux pommes;37,1;;23496
+26265;Gnocchi à la semoule, cru;37;;26265
+9875;Pâtes, sans gluten, à base de riz et maïs, cuites à l'eau, non salées;36,6;;9875
+23480;Chausson aux pommes;36,6;;23480
+15024;Châtaigne, crue;36,5;;15024
+25476;Sandwich baguette, poulet, crudités (tomate, salade), mayonnaise;36,3;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=81;25476
+54031;Manioc, racine crue;36,3;;54031
+23021;Baba au rhum;36,3;;23021
+23850;Gaufre bruxelloise ou liégeoise, préparation artisanale;36,1;;23850
+7650;Croissant aux amandes, artisanal;35,9;;7650
+31035;Barre glacée chocolatée;35,8;;31035
+23425;Pâte feuilletée pur beurre, surgelée crue;35,3;;23425
+9660;Germe de blé;35,1;;9660
+26264;Gnocchi à la pomme de terre, cru;35;;26264
+23457;Chou à la crème pâtissière;34,9;;23457
+39518;Omelette norvégienne;34,8;;39518
+9824;Pâtes sèches, sans gluten, cuites, non salées;34,4;;9824
+25479;Gnocchi à la semoule, cuit;34,4;;25479
+19852;Mousse à la crème de marrons, préemballée;34,4;;19852
+25518;Sandwich baguette, camembert, beurre;34,3;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=81;25518
+23474;Profiteroles (crème pâtissière et sauce chocolat), préemballées;34,3;;23474
+23006;Gâteau au chocolat type forêt noire (génoise au chocolat et crème multi-couches, avec ou sans cerises);34,2;;23006
+31030;Chocolat noir sans sucres ajoutés, avec édulcorants, en tablette;34,1;;31030
+4045;Frites de pommes de terre, surgelées, préfrites, pour cuisson micro-ondes;34;;4045
+25579;Gnocchi, cuit (aliment moyen);34;;25579
+25528;Pissaladière, préemballée;33,8;;25528
+23493;Crumble aux pommes;33,8;;23493
+11077;Fenugrec, graine;33,8;;11077
+25517;Sandwich baguette, jambon, beurre;33,7;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;25517
+23805;Blini;33,7;;23805
+11042;Cumin, graine;33,7;;11042
+25510;Gnocchi à la pomme de terre, cuit;33,6;;25510
+25558;Brick au boeuf;33,5;;25558
+23684;Galette des rois feuilletée, fourrée frangipane, et Pithiviers;33,4;;23684
+39503;Glace ou crème glacée, bâtonnet, enrobé de chocolat;33,4;;39503
+20518;Fève, sèche;33,3;;20518
+23421;Pâte feuilletée, surgelée, crue;33,3;;23421
+25536;Sandwich baguette, salami, beurre;33,2;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=85;25536
+11046;Levure chimique ou Poudre à lever;33,2;;11046
+7256;Muffin anglais, complet, petit pain spécial, préemballé;32,9;;7256
+25521;Sandwich baguette, jambon, emmental, beurre;32,7;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=84;25521
+23490;Tarte ou tartelette aux pommes;32,7;;23490
+4030;Frites de pommes de terre, surgelées, rôties/cuites au four;32,6;;4030
+9103;Riz complet, cuit, non salé;32,6;;9103
+39512;Dessert glacé, type sundae;32,6;;39512
+15048;Mélange apéritif de graines (non salées) et fruits séchés;32,2;;15048
+39500;Glace à l'eau ou sorbet ou crème glacée, tout parfum (aliment moyen);32,2;;39500
+39534;Coupe glacée parfum pêche Melba ou poire Belle-Hélène;32,2;;39534
+25519;Sandwich baguette, pâté, cornichons;32,1;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=82;25519
+25431;Sandwich baguette, thon, crudités (tomate, salade), mayonnaise;32;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;25431
+25520;Sandwich baguette, saucisson, beurre;32;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=83;25520
+54034;Manioc, racine cuite;32;;54034
+9816;Pâtes fraîches, aux oeufs, cuites, non salées;32;;9816
+23121;Far aux pruneaux;32;;23121
+25550;Flammenkueche ou Tarte flambée aux lardons, préemballée;31,8;;25550
+15049;Mélange apéritif de graines (non salées) et raisins secs;31,8;;15049
+9104;Riz blanc, cuit, non salé;31,8;;9104
+9105;Riz blanc étuvé, cuit, non salé;31,7;;9105
+19689;Cheesecake ou Gâteau au fromage frais, préemballé;31,7;;19689
+25477;Pizza champignons fromage, préemballée;31,6;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25477
+23007;Gâteau mousse de fruits sur génoise, type miroir, bavarois;31,6;;23007
+23477;Éclair;31,6;;23477
+11052;Clou de girofle;31,6;;11052
+25184;Riz blanc, avec poulet, préemballé, cuit;31,5;;25184
+25543;Sandwich baguette (aliment moyen);31,4;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;25543
+23472;Profiterole avec glace vanille et sauce chocolat;31,4;;23472
+11217;Sauce pour nems à base de nuoc-mam dilué, préemballée;31,2;;11217
+25535;Sandwich baguette, merguez, ketchup moutarde;31;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=84;25535
+9683;Graine de couscous (semoule de blé dur précuite), cuite, non salée;31;;9683
+23491;Tarte aux fraises;31;;23491
+25189;Risotto, aux fromages, préemballé;30,9;;25189
+26268;Tielle sétoise, préemballée;30,9;;26268
+25475;Sandwich baguette, jambon, oeuf dur, crudités (tomate, salade), beurre;30,9;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;25475
+25532;Sandwich baguette, oeuf, crudités (tomate, salade), mayonnaise;30,9;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=82;25532
+25971;Bouillon de viande et légumes type pot-au-feu, dégraissé, déshydraté;30,9;;25971
+23030;Bûche de Noël pâtissière;30,7;;23030
+25531;Sandwich baguette, dinde, crudités (tomate, salade), mayonnaise;30,6;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=81;25531
+9124;Riz thaï, cuit, non salé;30,5;;9124
+19698;Tiramisu, préemballé;30,4;;19698
+25513;Pan bagnat;30,3;;25513
+11100;Sauce barbecue, préemballée;30,3;;11100
+4021;Pomme de terre dauphine, surgelée, cuite;30,2;;4021
+25533;Sandwich baguette, porc, crudités (tomate, salade), mayonnaise;30,1;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=83;25533
+23801;Galette de sarrasin, nature, préemballée;30,1;;23801
+25530;Sandwich baguette, crudités diverses, mayonnaise;30;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;25530
+23479;Tarte aux fruits et crème pâtissière;30;;23479
+39533;Bûche glacée;30;;39533
+23680;Galette des rois feuilletée;29,8;;23680
+25404;Pizza au fromage ou Pizza margherita, préemballée;29,6;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25404
+53100;Banane plantain, crue;29,6;;53100
+39524;Sorbet, en bac;29,6;;39524
+9082;Blé dur précuit cuisiné, en sachet micro-ondable;29,5;;9082
+7811;Focaccia, garnie;29,5;;7811
+4034;Pomme de terre duchesse, surgelée, cuite;29,5;;4034
+53201;Taro, tubercule, cuit;29,5;;53201
+11088;Poivre de Cayenne ou piment de Cayenne;29,4;;11088
+13048;Rhubarbe, tige, cuite, sucrée;29,2;;13048
+23525;Flan pâtissier aux oeufs ou à la parisienne;29,2;;23525
+4046;Frites de pommes de terre, surgelées, préfrites, pour cuisson en friteuse;29,1;;4046
+39530;Citron givré ou Orange givrée (sorbet);29,1;;39530
+10012;Langoustine, panée, frite;29;;10012
+39236;Pain perdu;29;;39236
+39520;Glace ou crème glacée, gourmande, en bac;29;;39520
+53101;Banane plantain, cuite;28,9;;53101
+25970;Bouillon de viande et légumes type pot-au-feu, non dégraissé, déshydraté;28,9;;25970
+15039;Châtaigne ou Marron, appertisé;28,8;;15039
+39532;Coupe glacée type café ou chocolat liégeois;28,6;;39532
+4035;Pomme de terre noisette, surgelée, cuite;28,5;;4035
+11048;Noix de muscade;28,5;;11048
+25185;Riz blanc, avec légumes et viande, préemballé, cuit;28,3;;25185
+25413;Hamburger, provenant de fast food;28,3;;25413
+9120;Riz thaï ou basmati, cuit, non salé;28,3;;9120
+20992;Haricot de mer (Himanthalia elongata), séchée ou déshydratée;28,3;;20992
+25478;Pizza 4 fromages, préemballée;28,2;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25478
+9110;Riz rouge, cuit, non salé;28,2;;9110
+23531;Charlotte aux fruits;28,2;;23531
+25401;Feuilleté ou Friand au fromage;28,1;;25401
+9643;Son de riz;28,1;;9643
+25234;Galette de céréales aux légumes (sans soja), préemballé;28;;25234
+25435;Pizza jambon fromage, préemballée;28;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25435
+25169;Spécialité chinoise type bouchée à la vapeur, préemballée, cuite;28;;25169
+9341;Quinoa, bouilli/cuit à l'eau, non salé;27,9;;9341
+1015;Marsala;27,9;;1015
+25110;Ravioli chinois à la vapeur à la crevette, cuit;27,8;;25110
+25155;Pâtes fraîches farcies (ex : raviolis, tortellinis), au fromage et aux légumes, préemballées, cuites;27,8;;25155
+25233;Galette de céréales au fromage (sans soja), préemballé;27,8;;25233
+25570;Pizza aux lardons, oignons et fromage, préemballée;27,7;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25570
+20824;Igname jaune, pulpe, cuit à la vapeur, prélevé à la Martinique;27,6;;20824
+26272;Pizza au poulet, préemballée;27,5;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;26272
+26273;Pizza type raclette ou tartiflette, préemballée;27,5;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;26273
+11025;Cannelle, poudre;27,5;;11025
+9081;Blé dur précuit, grains entiers, cuit, non salé;27,4;;9081
+23535;Gâteau de semoule, appertisé;27,4;;23535
+25516;Pizza (aliment moyen);27,3;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25516
+25457;Pizza à la viande, type bolognaise, préemballée;27,2;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25457
+25434;Sandwich panini, jambon cru, mozzarella, tomates;27,2;;25434
+25522;Sandwich (aliment moyen);27,2;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=85;25522
+39216;Clafoutis aux fruits, préemballé;27,2;;39216
+15018;Mélange apéritif de graines salées et raisins secs;27,1;;15018
+23589;Gâteau au fromage blanc;27;;23589
+39525;Sorbet, pot individuel;27;;39525
+25456;Sushi ou Maki aux produits de la mer;26,9;;25456
+25468;Pizza au chèvre et lardons, préemballée;26,9;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25468
+25485;Sandwich baguette, jambon emmental, préemballé;26,9;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=82;25485
+31074;Chocolat noir à 70% cacao minimum, extra, dégustation, tablette;26,9;;31074
+11038;Thym, séché;26,9;;11038
+25149;Pâtes fraîches farcies (ex : raviolis, tortellinis, ravioles du Dauphiné), au fromage, cuites;26,8;;25149
+25547;Croque-monsieur, préemballé;26,8;;25547
+25464;Pizza au saumon, préemballée;26,7;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25464
+25416;Burger au poisson, provenant de fast food;26,7;;25416
+15019;Noix de cajou, grillée, salée;26,7;;15019
+23009;Fraisier ou framboisier;26,7;;23009
+39523;Glace ou crème glacée, pot individuel;26,7;;39523
+26271;Pizza kebab, préemballée;26,6;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;26271
+25462;Pizza au chorizo ou salami, préemballée;26,5;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25462
+25151;Feuilleté au poisson et / ou fruits de mer;26,5;;25151
+11035;Origan, séché;26,4;;11035
+25403;Hot-dog, préemballé;26,3;;25403
+39516;Dessert glacé feuilleté, à partager;26,2;;39516
+11300;Sauce au chocolat, préemballée;26,2;;11300
+25576;Sandwich pain de mie complet, jambon, fromage, préemballé;26,1;https://images.unsplash.com/photo-1567234669003-dce7a7a88821?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80;25576
+25578;Feuilleté salé (aliment moyen);26,1;;25578
+23005;Gâteau Paris-Brest (pâte à choux crème mousseline praliné);26,1;;23005
+39515;Glace ou crème glacée, en bac;26,1;;39515
+10023;Beignet de crevette;26;;10023
+25402;Feuilleté ou Friand à la viande, préemballé;25,9;;25402
+11091;Vinaigre balsamique;25,8;;11091
+25216;Pâtes fraîches farcies (ex : raviolis, tortellinis), cuites (aliment moyen);25,7;;25216
+25472;Pizza aux légumes ou Pizza 4 saisons, préemballée;25,7;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25472
+25548;Pizza jambon fromage champignons ou pizza royale, reine ou regina, préemballée;25,7;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25548
+26274;Pizza au speck ou jambon cru, préemballée;25,7;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;26274
+25508;Feuilleté ou Friand jambon fromage;25,7;;25508
+31013;Sorbet, bâtonnet;25,7;;31013
+7814;Cake salé (garniture : fromage, légumes, viande, poisson, volaille, etc.), préemballé;25,6;;7814
+4020;Pomme de terre dauphine, surgelée, crue;25,6;;4020
+20537;Haricot flageolet, surgelé;25,6;;20537
+39210;Mousse au chocolat traditionnelle, préemballée;25,6;;39210
+20991;Kombu breton (Laminaria digitata), séchée ou déshydratée;25,6;;20991
+23536;Gâteau de riz au caramel, rayon frais;25,4;;23536
+4025;Potatoes ou Wedges ou Quartiers de pommes de terre épicés, surgelées, cuites;25,3;;4025
+39529;Nougat glacé;25,3;;39529
+20832;Patate douce, pulpe, cuite à la vapeur, prélevée à la Martinique;25,2;;20832
+23455;Chou à la crème (chantilly ou pâtissière);25,2;;23455
+39531;Glace ou crème glacée, petit pot enfant;25,2;;39531
+25158;Pâtes fraîches farcies (ex : raviolis, tortellinis), à la viande (ex : bolognaise), préemballées, cuites;25,1;;25158
+25544;Sandwich pain de mie, garnitures diverses, préemballé;25,1;;25544
+13998;Coulis de fruits rouges (framboises, fraises, groseilles, cassis);25,1;;13998
+9876;Pâtes, sans gluten, à base de lentilles corail, cuites à l'eau, non salées;25,1;;9876
+25490;Sandwich baguette, thon, maïs, crudités, préemballé;25;https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=84;25490
+9811;Pâtes sèches standard, cuites, non salées;25;;9811
+4013;Pomme de terre noisette, surgelée, crue;24,9;;4013
+39527;Glace ou crème glacée, bac ou pot (aliment moyen);24,9;;39527
+23534;Gâteau de semoule aux raisins et caramel, rayon frais;24,8;;23534
+25463;Pizza aux fruits de mer, préemballée;24,6;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25463
+13038;Compote de pomme;24,4;;13038
+9125;Riz basmati, cuit, non salé;24,4;;9125
+9322;Orge perlée, bouilli/cuite à l'eau, non salée;24,4;;9322
+39248;Mousse au chocolat végétale, préemballée;24,3;;39248
+25564;Tarte aux noix de Saint-Jacques, préemballée;24,2;;25564
+39521;Glace ou crème glacée, gourmande, en pot;24,2;;39521
+20990;Kombu ou kombu japonais (Laminaria japonica), séchée ou déshydratée;24,2;;20990
+12356;Snack pour enfants à base de fromage fondu et de gressins;24,1;;12356
+9611;Semoule de blé dur, cuite, non salée;24;;9611
+13108;Compote, tout type de fruits;23,9;;13108
+25502;Burger au poulet;23,8;;25502
+53502;Igname, épluchée, crue;23,8;;53502
+11306;Ail, rôti/cuit au four;23,8;;11306
+25608;Taboulé ou Salade de couscous, préemballé;23,7;https://3.bp.blogspot.com/-tx9iTUCQiJ4/XwdeqoDWJjI/AAAAAAABPFw/a71i-VRJcmY6JYk4cU5gaH0A7cGatbaDQCLcBGAsYHQ/s660/taboule-marocain.jpg;25608
+25560;Tourte au riesling, préemballée;23,7;;25560
+25577;Sandwich pain de mie complet, poulet, crudités, mayonnaise, préemballé;23,7;https://images.unsplash.com/photo-1567234669003-dce7a7a88821?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80;25577
+25584;Nem ou Pâté impérial, aux crevettes et/ou au crabe, préemballé, cuit;23,7;;25584
+25088;Riz cantonais;23,6;;25088
+25429;Sandwich grec ou Kebab, baguette, crudités;23,6;https://ds1.static.rtbf.be/article/image/770x433/9/1/c/eb7d4aadf8d06f4e920765ed887247e7-1525700531.jpg;25429
+53503;Igname, épluchée, bouillie/cuite à l'eau;23,6;;53503
+8933;Quenelle de poisson, crue;23,6;;8933
+19688;Baba au rhum, préemballé;23,6;;19688
+20986;Kombu royal (Saccharina latissima), séchée ou déshydratée;23,6;;20986
+9621;Son de blé;23,6;;9621
+13172;Boisson infantile céréales lactées aux légumes pour diner dès 12 mois;23,6;;13172
+25529;Tarte à l'oignon, préemballée;23,5;;25529
+25412;Bouchée à la reine, à la viande/volaille/quenelle;23,5;;25412
+15055;Noix de cajou, grillée à sec, non salée;23,5;;15055
+39519;Poire belle Hélène;23,5;;39519
+4044;Frites de pommes de terre, surgelées, préfrites, pour cuisson rôtie/ au four;23,4;;4044
+9871;Pâtes sèches, au blé complet, cuites, non salées;23,4;;9871
+26270;Pizza au thon, préemballée;23,3;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;26270
+13529;Dourian, pulpe, cru;23,3;;13529
+4042;Pomme de terre duchesse, surgelée, crue;23,2;;4042
+25414;Cheeseburger, provenant de fast food;23,1;;25414
+25574;Sandwich pain de mie complet, jambon, crudités, fromage optionnel, préemballé;23,1;https://images.unsplash.com/photo-1567234669003-dce7a7a88821?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80;25574
+25575;Sandwich pain de mie complet, thon, crudités, mayonnaise, préemballé;23,1;https://images.unsplash.com/photo-1567234669003-dce7a7a88821?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80;25575
+25399;Feuilleté aux escargots, préemballé;23,1;;25399
+25556;Beignet de légumes;23;;25556
+4027;Pomme de terre sautée/rissolée, pré-frite, surgelée, cuite;23;;4027
+15020;Châtaigne, bouillie/cuite à l'eau;23;;15020
+9822;Pâtes sèches, aux oeufs, cuites, non salées;23;;9822
+11060;Herbes de Provence, séchées;23;;11060
+11062;Sarriette, séchée;23;;11062
+20900;Farine de soja;22,9;;20900
+8391;Pâté en croûte;22,9;;8391
+23456;Chou à la crème chantilly, Saint-honoré;22,9;;23456
+53200;Taro, tubercule, cru;22,8;;53200
+25437;Gougère;22,7;;25437
+25573;Tarte ou quiche salée (aliment moyen);22,7;;25573
+39517;Glace au yaourt;22,7;;39517
+25583;Nem ou Pâté impérial, au porc, préemballé, cuit;22,6;;25583
+30707;Saucisson brioché, cuit;22,6;;30707
+20988;Dulse (Palmaria palmata), séchée ou déshydratée;22,6;;20988
+4039;Rostis ou Galette de pomme de terre;22,5;;4039
+1012;Cocktail à base de rhum;22,5;;1012
+25225;Nuggets de blé (sans soja), préemballé;22,4;;25225
+9331;Mil, cuit, non salé;22,4;;9331
+26267;Tarte épinard chèvre, préemballée;22,2;;26267
+54500;Fruit à pain, cru;22,2;;54500
+11029;Menthe, séchée;22,2;;11029
+25623;Tarte au maroilles ou Flamiche au maroilles, préemballée;22,1;;25623
+26266;Croissant au jambon fromage, préemballé;22;;26266
+11307;Ail, sauté/poêlé, sans matière grasse;22;;11307
+4036;Pomme de terre sautée/poêlée à la graisse de canard;21,9;;4036
+25417;Tarte aux légumes, préemballée;21,8;;25417
+39506;Crème dessert au chocolat, appertisée;21,8;;39506
+11009;Levure alimentaire;21,8;;11009
+9691;Boulgour de blé, cuit, non salé;21,7;;9691
+36036;Poulet, escalope panée;21,7;;36036
+25553;Tarte ou Tourte aux poireaux, préemballée;21,6;;25553
+25415;Double cheeseburger, provenant de fast food;21,5;;25415
+20534;Lupin, graine crue;21,5;;20534
+11036;Romarin, séché;21,5;;11036
+20996;Lichen de mer ou pioca ou goémon rouge (Chondrus crispus), séché ou déshydraté;21,5;;20996
+9086;Pâtes ou nouilles asiatiques au blé, cuites, nature, non salées;21,4;;9086
+39212;Riz au lait, rayon frais;21,4;;39212
+39505;Crème dessert, appertisée (aliment moyen);21,4;;39505
+11008;Ketchup, préemballé;21,4;;11008
+15054;Noix de cajou, grillée, non salée;21,3;;15054
+39206;Mousse au chocolat (base laitière), rayon frais;21,3;;39206
+10002;Calmar ou Calamar ou encornet, à la romaine (beignet);21,2;;10002
+1029;Spécialité végétale type fromage en tranche ou râpé, sans soja, préemballée;21,2;;1029
+25420;Nem ou Pâté impérial;21,1;;25420
+39214;Crème dessert à la vanille, appertisée;21,1;;39214
+25405;Quiche lorraine, préemballée;21;;25405
+25555;Tarte au saumon, préemballée;21;;25555
+13175;Pomme, pulpe, rôtie/cuite au four;21;;13175
+25193;Pâtes fraîches farcies (ex : raviolis, tortellinis), aux légumes, préemballées, cuites;20,9;;25193
+25582;Nem ou Pâté impérial, au poulet, préemballé, cuit;20,9;;25582
+4043;Pomme de terre sautée/ rissolée, pré-frites, surgelée, crue;20,9;;4043
+13427;Mango moussache, pulpe, cru, prélevé à la Martinique;20,9;;13427
+19572;Fromage frais type petit suisse, aromatisé chocolat, sucré;20,9;;19572
+25592;Galette ou pavé au blé (seitan) et légumes, préemballé;20,8;;25592
+20901;Soja, graine entière;20,8;;20901
+39526;Glace à l'eau;20,8;;39526
+11174;Bouillon de volaille, déshydraté;20,8;;11174
+25411;Crêpe ou Galette fourrée béchamel champignon, préemballée;20,7;;25411
+25444;Tarte au fromage, préemballée;20,7;;25444
+26269;Taboulé ou Salade de couscous au poulet, préemballé;20,6;https://assets.afcdn.com/recipe/20190521/92716_w1024h576c1cx1805cy2266.jpg;26269
+39209;Crème caramel, rayon frais;20,6;;39209
+11037;Sauge, séchée;20,4;;11037
+11034;Marjolaine, séchée;20,3;;11034
+11086;Spiruline (Spirulina sp.), séchée ou déshydratée;20,3;;11086
+4002;Pomme de terre, sans peau, rôtie/cuite au four;20,1;;4002
+9901;Vermicelle de riz, cuite, non salée;20,1;;9901
+11163;Sauce aigre douce, préemballée;20,1;;11163
+25454;Tarte à la provençale, préemballée;20;;25454
+13077;Ramboutan, pulpe, crue;20;;13077
+13621;Raisin noir Muscat, cru;20;;13621
+39235;Mousse liégeoise (chocolat, café, caramel ou vanille), rayon frais;20;;39235
+39232;Gâteau de riz, appertisé;20;;39232
+39233;Fondant au chocolat noir et crème anglaise, préemballé;20;;39233
+39200;Crème dessert au chocolat, rayon frais;19,9;;39200
+20233;Maïs doux, surgelé, cru;19,8;;20233
+39215;Ile flottante, rayon frais;19,8;;39215
+25227;Nuggets soja et blé (convient aux véganes ou végétaliens), préemballé;19,7;;25227
+13005;Banane, pulpe, crue;19,7;;13005
+9111;Riz sauvage, cuit, non salé;19,7;;9111
+11001;Bouillon de boeuf, déshydraté;19,7;;11001
+25559;Brick à la pomme de terre, fait maison, cuit;19,6;;25559
+13152;Dessert de fruits, tout type de fruits (en taux de sucres : compotes allégées en sucres < desserts de fruits < compotes allégée);19,5;;13152
+19680;Lait gélifié aromatisé, rayon frais;19,5;;19680
+36027;Poulet, croquette panée ou nuggets;19,4;;36027
+39211;Crème aux oeufs (petit pot de crème chocolat, vanille, etc.), rayon frais;19,4;;39211
+39218;Semoule au lait, rayon frais;19,4;;39218
+25561;Tarte à la tomate, préemballée;19,3;;25561
+20831;Patate douce, pulpe, blanchie, surgelée, prélevée à la Martinique;19,3;;20831
+13200;Mangue José, pulpe, crue, prélevée à La Réunion (Mangifera indica L.);19,3;;13200
+25418;Croissant au jambon;19,2;;25418
+25410;Crêpe ou Galette fourrée béchamel jambon fromage, préemballée;19,1;;25410
+11049;Paprika;19,1;;11049
+20521;Lentille, germée;19;;20521
+25229;Bâtonnet pané soja et blé (convient aux véganes ou végétaliens), préemballée;18,8;;25229
+9085;Nouilles asiatiques cuites, aromatisées;18,8;;9085
+19681;Liégeois ou viennois (chocolat, café, caramel ou vanille), rayon frais;18,8;;19681
+39401;Pêche melba;18,8;;39401
+20993;Gracilaire ou ogonori (Gracilaria verrucosa), séchée ou déshydratée;18,8;;20993
+20995;Ao-nori (Enteromorpha sp.), séchée ou déshydratée;18,8;;20995
+25571;Falafel ou Boulette de pois-chiche et/ou fève, frite;18,7;;25571
+25409;Crêpe ou Galette fourrée béchamel jambon, préemballée;18,7;;25409
+2018;Jus de pruneau;18,7;;2018
+25217;Feuille de vigne farcie au riz ou dolmas, égouttée, préemballée;18,6;;25217
+20049;Maïs doux, en épis, cuit;18,6;;20049
+13185;Compote ou assimilé, tout type de fruits, teneur en sucre (allégée en sucres ou non, sans sucres ajoutés...) inconnue (aliment moyen);18,6;;13185
+15044;Pistache, grillée;18,6;;15044
+39247;Crème dessert au caramel, rayon frais;18,6;;39247
+11000;Ail, cru;18,6;;11000
+25226;Nuggets soja et blé (ne convient pas aux véganes ou végétaliens), préemballé;18,5;;25226
+25581;Crêpe ou Galette fourrée béchamel champignon, cuite, préemballée;18,5;;25581
+4026;Pomme de terre, rôtie/cuite au four;18,5;;4026
+13426;Mango bassignac, pulpe, cru, prélevé à la Martinique;18,5;;13426
+19674;Flan aux oeufs, rayon frais;18,5;;19674
+20998;Ascophylle noueux ou goémon noir (Ascophyllum nodosum), séché ou déshydraté;18,5;;20998
+25187;Risotto, aux légumes, préemballé;18,4;;25187
+25580;Bouchée à la reine, garnie (aliment moyen);18,4;;25580
+20066;Maïs doux, appertisé, égoutté;18,4;;20066
+20825;Igname saint martin, pulpe, cuit à la vapeur, prélevé à la Martinique;18,4;;20825
+26028;Poisson, croquette ou beignet ou nuggets, frit;18,4;;26028
+20918;Sirop pour fruits appertisés au sirop;18,4;;20918
+4101;Patate douce, crue;18,3;;4101
+13707;Macédoine ou cocktail ou salade de fruits, au sirop, appertisé, non égoutté;18,3;;13707
+13428;Mangue julie, pulpe, crue, prélevée à la Martinique;18,3;;13428
+15037;Cacahuète, grillée à sec, salée;18,2;;15037
+20916;Miso;18,1;;20916
+13027;Mirabelle, crue;18;;13027
+39511;Crème dessert, rayon frais ou appertisée (aliment moyen);18;;39511
+39710;Crème pâtissière;18;;39710
+20823;Igname cousse-couche, pulpe, cuit à la vapeur, prélevé à la Martinique;17,9;;20823
+39230;Crème dessert, rayon frais (aliment moyen);17,9;;39230
+11045;Levure de boulanger, déshydratée;17,9;;11045
+25523;Toasts ou Canapés salés, garnitures diverses, préemballés;17,8;;25523
+8395;Jambon en croûte;17,8;;8395
+39246;Crème dessert au café, rayon frais;17,8;;39246
+1022;Cocktail type punch, 16% alcool;17,8;;1022
+25590;Falafel ou Boulette de pois-chiche et/ou fève, préemballé;17,7;;25590
+25549;Crêpe ou Galette fourrée béchamel fromage, préemballée;17,7;;25549
+20507;Pois chiche, bouilli/cuit à l'eau;17,7;;20507
+25918;Bouillon de viande et légumes type pot-au-feu, déshydraté;17,7;;25918
+19678;Lait emprésuré aromatisé, rayon frais;17,6;;19678
+25629;Salade végétale à base de boulgour et/ou quinoa et légumes, préemballée;17,4;;25629
+25428;Sandwich grec ou Kebab, pita, crudités;17,4;https://ds1.static.rtbf.be/article/image/770x433/9/1/c/eb7d4aadf8d06f4e920765ed887247e7-1525700531.jpg;25428
+13706;Macédoine ou cocktail ou salade de fruits, au sirop, appertisé, égoutté;17,4;;13706
+39001;Milk-shake, provenant de fast food;17,4;;39001
+4015;Pomme de terre poêlée, avec matière grasse;17,3;;4015
+4048;Pomme de terre, cuite (aliment moyen);17,2;;4048
+25031;Paëlla;17,1;;25031
+20068;Tomate, concentré, appertisé;17,1;;20068
+20108;Maïs doux, en épis, surgelé, cru;17;;20108
+20268;Tomate, double concentré, appertisé;17;;20268
+11175;Gelée au madère, déshydratée;17;;11175
+25542;Croque-madame;16,9;;25542
+13101;Raisin Chasselas, cru;16,9;;13101
+13154;Spécialité de fruits divers, sucrée (mélange pulpes et/ou purées de fruits, mais toujours avec autre ingrédient);16,9;;13154
+9615;Polenta ou semoule de maïs, cuite, non salée;16,9;;9615
+25228;Pané soja et blé (ne convient pas aux véganes ou végétaliens);16,8;;25228
+11024;Persil, séché;16,8;;11024
+25591;Galette ou pavé aux lentilles, soja et légumes, préemballé;16,7;;25591
+4003;Pomme de terre, bouillie/cuite à l'eau;16,7;;4003
+19679;Lait gélifié aromatisé, nappé caramel, rayon frais;16,7;;19679
+39700;Crème anglaise, préemballée;16,7;;39700
+25552;Crêpe ou Galette fourrée béchamel jambon fromage champignon, préemballée;16,6;;25552
+25419;Rouleau de printemps;16,6;;25419
+20325;Panais, cuit à l'étouffée;16,6;;20325
+13044;Raisin blanc, à gros grain (type Italia ou Dattier), cru;16,6;;13044
+13715;Abricot au sirop, appertisé, non égoutté;16,6;;13715
+39213;Crème brûlée, rayon frais;16,6;;39213
+25108;Samossa ou Samoussa, préemballé, cuit;16,5;;25108
+25122;Gratin de pâtes;16,4;;25122
+25150;Couscous de légumes, préemballé;16,4;;25150
+13041;Prune Reine-Claude, crue;16,4;;13041
+20506;Pois cassé, bouilli/cuit à l'eau;16,3;;20506
+20588;Lentille blonde, bouillie/cuite à l'eau;16,3;;20588
+19552;Yaourt à la grecque, sur lit de fruits;16,3;;19552
+2016;Jus de raisin, pur jus;16,3;;2016
+25057;Poêlée de pommes de terre préfrites, lardons ou poulet, et autres, sans légumes verts, préemballée;16,2;;25057
+4008;Pomme de terre, sans peau, crue;16,2;;4008
+20587;Lentille verte, bouillie/cuite à l'eau;16,2;;20587
+13704;Abricot au sirop (sans précision sur léger ou classique), appertisé, égoutté (aliment moyen);16,2;;13704
+13705;Macédoine ou cocktail ou salade de fruits, au sirop (sans précision sur léger ou classique), appertisé, égouttée (aliment moyen);16,2;;13705
+13714;Abricot au sirop, appertisé, égoutté;16,2;;13714
+25512;Volaille, croquette panée ou nuggets;16,2;;25512
+19654;Fromage blanc ou spécialité laitière, aux copeaux de chocolat, sucré, 7% MG environ;16,2;;19654
+25614;Salade de riz, appertisée;16,1;https://static.750g.com/images/600-600/d7ada6f2ba25b6e57dea40a54a5f8329/salade-de-riz.jpg;25614
+13023;Litchi, pulpe, cru;16,1;;13023
+15202;Beurre de cacahuète ou Pâte d'arachide;16,1;;15202
+26029;Poisson pané, surgelé, cru;16,1;;26029
+25460;Fajitas;16;;25460
+20050;Topinambour, cuit;16;;20050
+13719;Ananas au sirop léger, appertisé, non égoutté;16;;13719
+19643;Fromage blanc et crème fouettée sur lit de fruits, sucré;16;;19643
+39220;Liégeois aux fruits, préemballé;16;;39220
+20921;Dessert au soja, aromatisé, sucré, non enrichi, préemballé;16;;20921
+20923;Dessert végétal sans soja (coco, riz), aux fruits, sucré, enrichi en calcium, fermenté, préemballé;16;;20923
+2019;Jus de raisin, à base de concentré;16;;2019
+11301;Sauce teriyaki, préemballée;16;;11301
+25198;Pâtes en sauce aux fromages (spaghetti, tagliatelles…), préemballées;15,9;;25198
+4023;Pomme de terre nouvelle, crue;15,9;;4023
+13718;Ananas au sirop léger, appertisé, égoutté;15,9;;13718
+15009;Pistache, grillée, salée;15,9;;15009
+1013;Cocktail à base de whisky;15,9;;1013
+26263;Salade de riz à la niçoise, avec sauce, préemballée;15,8;https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Ffac.2F2018.2F07.2F30.2F2fde7232-8cab-4af0-9614-720456bf4a88.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgU2FuZHJhIE1haHV0L01hcmFib3V0IC8gRmVtbWUgQWN0dWVsbGU%3D/salade-de-riz-a-la-nicoise.jpeg;26263
+25572;Crêpe ou Galette aux noix de St Jacques, préemballée;15,8;;25572
+20540;Haricot flageolet, vert, bouilli/cuit à l'eau;15,8;;20540
+20922;Dessert végétal sans soja (amande, avoine, chanvre, coco, riz), aromatisé, sucré, non enrichi, préemballé;15,8;;20922
+4028;Pomme de terre de conservation, sans peau, bouillie/cuite à l'eau;15,7;;4028
+13112;Raisin, cru;15,7;;13112
+20994;Fucus vésiculeux (Fucus serratus ou Fucus vesiculosus), séché ou déshydraté;15,7;;20994
+25138;Couscous au poulet;15,6;;25138
+13045;Raisin noir, cru;15,6;;13045
+8903;Quenelle de veau, en sauce;15,6;;8903
+4014;Pomme de terre vapeur, sous vide;15,4;;4014
+13056;Anone ou chérimole, pulpe, crue;15,4;;13056
+25546;Fromage pané au jambon;15,3;;25546
+20126;Haricot de Lima, cru;15,3;;20126
+20197;Salsifis noir, ou scorsonère d'Espagne, cru;15,3;;20197
+13109;Compote, tout type de fruits, allégée en sucres;15,3;;13109
+20911;Dessert au soja, aromatisé, sucré, enrichi en calcium, préemballé;15,3;;20911
+25562;Crêpe ou Galette complète (oeuf, jambon, fromage), préemballée;15,2;;25562
+19557;Yaourt, lait fermenté ou spécialité laitière sur lit de fruits, sucré;15,2;;19557
+1028;Spécialité végétale type fromage, à la noix de cajou, préemballée;15,2;;1028
+2365;Nectar de fruit de la passion ou maracuja;15,2;;2365
+25230;Escalope panée, soja, blé et fromage, type cordon bleu, préemballée;15,1;;25230
+13151;Compote de pomme, allégée en sucres;15,1;;13151
+13201;Ananas Victoria ou ananas Queen Victoria, pulpe crue, prélevé à La Réunion Ananas comosus (L.) merr var. Queen);15,1;;13201
+15045;Tournesol, graine, grillé, salé;15,1;;15045
+25433;Accra de poisson;15,1;;25433
+19437;Fromage de chèvre pané à dorer, préemballé;15;;19437
+20532;Pois chiche, appertisé, égoutté;15;;20532
+20589;Lentille corail, bouillie/cuite à l'eau;15;;20589
+15002;Cacahuète, grillée, salée;15;;15002
+20919;Sirop léger pour fruits appertisés au sirop;15;;20919
+4029;Pomme de terre primeur, sans peau, bouillie/cuite à l'eau;14,9;;4029
+20541;Fève, pelée, surgelée, crue;14,9;;20541
+13129;Compote, tout type de fruits, allégée en sucres, rayon frais;14,9;;13129
+19685;Panna cotta, avec préparations de fruits ou caramel, rayon frais;14,9;;19685
+13026;Melon cantaloup (par ex.: Charentais, de Cavaillon) pulpe, cru;14,8;;13026
+15001;Cacahuète ou Arachide;14,8;;15001
+8937;Quenelle nature, crue;14,8;;8937
+2054;Nectar de poire;14,8;;2054
+19657;Fromage blanc ou spécialité laitière, aux fruits, sucré, 3% MG environ;14,7;;19657
+25089;Cordon bleu de volaille, préemballé;14,6;;25089
+11073;Ketchup allégé en sucres, préemballé;14,6;;11073
+20924;Sirop léger pour poire appertisée;14,6;;20924
+25056;Gratin dauphinois;14,5;;25056
+13709;Macédoine ou cocktail ou salade de fruits, au sirop léger, appertisé, non égoutté;14,5;;13709
+13735;Poire au sirop léger, appertisée, non égouttée;14,5;;13735
+19589;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, à la crème;14,5;;19589
+25204;Tajine de poulet, préemballé;14,4;;25204
+13708;Macédoine ou cocktail ou salade de fruits, au sirop léger, appertisé, égoutté;14,4;;13708
+9903;Vermicelle de soja, cuite, non salée;14,4;;9903
+39229;Crème dessert à la vanille, rayon frais;14,4;;39229
+11098;Vanille, extrait aqueux;14,4;;11098
+25459;Burritos;14,3;;25459
+25625;Crêpe ou Galette fourrée au poisson et / ou fruits de mer, préemballée;14,3;;25625
+13018;Grenade, pulpe et pépins, crue;14,3;;13018
+13025;Mangue, pulpe, crue;14,3;;13025
+13066;Kaki, pulpe, cru;14,3;;13066
+2024;Jus de fruit de la passion ou maracudja, frais;14,3;;2024
+11202;Sauce indienne type tandoori ou tikka masala, préemballée;14,3;;11202
+25107;Couscous au poisson;14,2;;25107
+25135;Pâtes à la carbonara (spaghetti, tagliatelles…);14,2;;25135
+4018;Pomme de terre, purée, avec lait et beurre, non salée;14,2;;4018
+19587;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré;14,2;;19587
+25568;Pastilla au poulet, préemballée;14,1;;25568
+13731;Pêche au sirop léger, appertisée, non égouttée;14,1;;13731
+8120;Confit de foie de porc;14,1;;8120
+8910;Quenelle de volaille, crue;14,1;;8910
+19580;Yaourt, lait fermenté ou spécialité laitière, aux copeaux de chocolat, à la crème, sucré;14,1;;19580
+25619;Salade de pâtes aux légumes, avec poisson ou viande, préemballée;14;https://www.notretemps.com/cache/com_zoo_images/28/salade-de-ptes-ensoleille_9418b2cce2f627e28d5f71234aaa15f2.jpg;25619
+25127;Couscous royal (avec plusieurs viandes), préemballé;14;;25127
+25219;Lasagnes ou cannellonis aux légumes et au fromage de chèvre, préemballés, cuits;14;;25219
+13552;Longan, pulpe, cru;14;;13552
+13713;Abricot au sirop léger, appertisé, non égoutté;14;;13713
+51511;Frik (blé dur immature concassé), cuit, non salé;14;;51511
+19592;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, enrichi en vitamine D;14;;19592
+19653;Fromage blanc ou spécialité laitière, aromatisé, sucré, 3% MG environ, au bifidus;14;;19653
+31108;Gelée royale;14;;31108
+20802;Chips de giraumon (variété phoenix), pulpe, prélevé à la Martinique;13,9;;20802
+13734;Poire au sirop léger, appertisée, égouttée;13,9;;13734
+19536;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré, enrichie en vitamine D;13,9;;19536
+2045;Nectar de papaye;13,9;;2045
+13730;Pêche au sirop léger, appertisée, égouttée;13,8;;13730
+15203;Tahin ou Purée de sésame;13,8;;15203
+20985;Laitue de mer (Ulva sp.), séchée ou déshydratée;13,8;;20985
+25615;Salade de pâtes, végétarienne;13,7;https://static.750g.com/images/1200-630/9e6558fd7bd4d5cb7e45ce48f0c3d39f/comment-faire-une-salade-de-pates-comme-en-italie.jpg;25615
+20293;Haricot coco, bouilli/cuit à l'eau;13,7;;20293
+13712;Abricot au sirop léger, appertisé, égoutté;13,7;;13712
+2043;Nectar d'abricot;13,7;;2043
+11061;Pavot, graine;13,7;;11061
+20920;Jus d'ananas pour ananas appertisé au jus;13,7;;20920
+25085;Pâtes à la bolognaise (spaghetti, tagliatelles…);13,6;;25085
+13716;Ananas au jus d'ananas, égoutté, appertisé;13,6;;13716
+13717;Ananas au jus d'ananas, appertisé, non égoutté;13,6;;13717
+19578;Yaourt, lait fermenté ou spécialité laitière, aromatisé, sucré, enrichi en vitamine D;13,6;;19578
+2366;Nectar de banane;13,6;;2366
+25081;Lasagnes ou cannelloni à la viande (bolognaise);13,5;;25081
+25192;Raviolis aux légumes, sauce tomate, appertisés;13,5;;25192
+25137;Tartiflette, préemballée;13,5;;25137
+20255;Échalote, cuite;13,5;;20255
+13012;Figue, crue;13,5;;13012
+36318;Dinde, escalope viennoise ou milanaise ou escalope panée;13,5;;36318
+19656;Fromage blanc ou spécialité laitière, aux fruits, sucré, 0% MG;13,5;;19656
+19658;Fromage blanc ou spécialité laitière, aux fruits, sucré, 3% MG environ, au bifidus;13,5;;19658
+18906;Boisson à la châtaigne, nature, préemballée;13,5;;18906
+25503;Bouchée à la reine, au poisson et fruits de mer;13,4;;25503
+20133;Panais, cuit;13,4;;20133
+20256;Tomate, séchée, à l'huile;13,4;;20256
+13010;Coing, cru;13,4;;13010
+13153;"Purée de fruits, tout type de fruits, type ""compote sans sucres ajoutés""";13,4;;13153
+26030;Poisson pané, frit;13,4;;26030
+19577;Yaourt, lait fermenté ou spécialité laitière, aromatisé, sucré, à la crème;13,4;;19577
+19659;Fromage blanc ou spécialité laitière, aux fruits, sucré, gourmand, 7% MG environ;13,4;;19659
+25594;Galette ou pavé au blé et soja (ne convient pas aux véganes ou végétaliens), préemballé;13,3;;25594
+13400;Abricot pays, pulpe, au sirop, appertisé, non égoutté, prélevé à la Martinique;13,3;;13400
+19548;Lait fermenté ou spécialité laitière type yaourt, sur lit de fruits, sucré, au bifidus;13,3;;19548
+11196;Sauce burger, préemballée;13,3;;11196
+19535;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré;13,1;;19535
+19652;Fromage blanc ou spécialité laitière, aromatisé, sucré, 3% MG environ;13,1;;19652
+25111;Chili con carne, préemballé;13;;25111
+25139;Lasagnes ou cannellonis au poisson, préemballées;13;;25139
+20524;Haricot rouge, appertisé, égoutté;13;;20524
+13008;Cerise, dénoyautée, crue;13;;13008
+26124;Merlan, pané;13;;26124
+19542;Lait fermenté ou spécialité laitière type yaourt, aux fruits, sucré, au bifidus;13;;19542
+19676;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, sucré (aliment moyen);13;;19676
+19677;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, sucré, non allégé en MG (aliment moyen);13;;19677
+2017;Jus de grenade, pur jus;13;;2017
+2036;Jus multifruit - base raisin, standard;13;;2036
+2374;Nectar d'ananas;13;;2374
+11026;Coriandre, graine;13;;11026
+11016;Raifort, cru;13;;11016
+19538;Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré, au L Casei;12,9;;19538
+19672;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, non allégé en MG (aliment moyen);12,9;;19672
+19692;Dessert au soja, aux fruits, sucré, enrichi en calcium, fermenté, préemballé;12,9;;19692
+13192;Pomme Pink lady, pulpe, crue;12,8;;13192
+13620;Pomme Golden, pulpe et peau, crue;12,8;;13620
+19628;Yaourt ou spécialité laitière aux fruits (aliment moyen);12,8;;19628
+19862;Yaourt à la grecque, aromatisé, sucré;12,8;;19862
+2008;Cocktail sans alcool (à base de jus de fruits et de sirop);12,8;;2008
+4047;Pomme de terre, purée (aliment moyen);12,7;;4047
+19516;Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré, au L Casei;12,7;;19516
+51500;Meloukhia, feuilles de corète séchées, en poudre;12,7;;51500
+13173;Boisson infantile céréales lactées pour le petit déjeuner;12,7;;13173
+25183;Nouilles sautées/poêlées aux crevettes;12,6;;25183
+25173;Veau, escalope panée, cuite;12,6;;25173
+19534;Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré, enrichi en vitamine D;12,6;;19534
+13170;Boisson infantile céréales lactées pour le petit déjeuner dès 12 mois;12,6;;13170
+13182;Boisson infantile céréales lactées (aliment moyen);12,6;;13182
+25152;Couscous à la viande, préemballé;12,5;;25152
+25019;Ravioli à la viande, sauce tomate, appertisé;12,5;;25019
+25188;Risotto, aux fruits de mer, préemballé;12,5;;25188
+25231;Raviolis au tofu, à la sauce tomate, préemballés;12,5;;25231
+19599;Yaourt, lait fermenté ou spécialité laitière, nature, sucré;12,5;;19599
+19651;Fromage blanc ou spécialité laitière, aromatisé, sucré, 0% MG;12,5;;19651
+11066;Fenouil, graine;12,5;;11066
+13166;Dessert lacté infantile nature sucré ou aux fruits;12,5;;13166
+19682;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits (aliment moyen);12,4;;19682
+19673;Crème dessert, allégée en MG, rayon frais;12,4;;19673
+2500;Smoothie;12,4;;2500
+1016;Marsala aux oeufs;12,4;;1016
+13157;Petit pot fruit avec banane pour bébé;12,4;;13157
+25557;Brick à l'oeuf, fait maison, cuit;12,3;;25557
+20046;Salsifis, cuit;12,3;;20046
+20212;Champignon, lentin comestible ou shiitaké, cuit;12,3;;20212
+20335;Échalote, sautée/poêlée sans matière grasse;12,3;;20335
+20801;Chips de giraumon (variété locale), pulpe, prélevé à la Martinique;12,3;;20801
+20503;Haricot rouge, bouilli/cuit à l'eau;12,3;;20503
+2370;Nectar de mangue;12,3;;2370
+25029;Couscous au mouton;12,2;;25029
+20097;Échalote, crue;12,2;;20097
+4102;Patate douce, cuite;12,2;;4102
+20505;Lentille, bouillie/cuite à l'eau;12,2;;20505
+20508;Haricot flageolet, appertisé, égouttés;12,2;;20508
+13429;Mangue verte, pulpe, crue, prélevée à la Martinique;12,2;;13429
+19575;Yaourt, lait fermenté ou spécialité laitière, aromatisé, sucré;12,2;;19575
+19662;Fromage frais type petit suisse, aux fruits, 2-3% MG, enrichi en calcium et vitamine D;12,2;;19662
+19668;Fromage blanc ou spécialité laitière, aux fruits, avec édulcorants, allégé en sucres, 3% MG environ;12,2;;19668
+2048;Jus multifruit - base pomme, standard;12,2;;2048
+2063;Nectar multifruit - base orange, standard;12,2;;2063
+20262;Poêlée de légumes assaisonnés sans champignon, surgelée, crue;12,1;;20262
+4019;Pomme de terre, purée à base de flocons, reconstituée avec lait demi-écrémé et eau, non salée;12,1;;4019
+4103;Patate douce, purée, cuisinée à la crème;12,1;;4103
+20700;Légume sec, cuit (aliment moyen);12,1;;20700
+2073;Jus d'ananas, pur jus;12,1;;2073
+2371;Nectar de pêche;12,1;;2371
+19120;Boisson lactée aromatisée (arôme inconnu), sucrée, au lait partiellement écrémé, enrichie et/ou restaurée en vitamines et/ou minéraux (aliment moyen);12,1;;19120
+13163;Boisson infantile céréales lactées pour le petit déjeuner dès 4/6 mois;12,1;;13163
+20502;Haricot blanc, bouilli/cuit à l'eau;12;;20502
+20513;Haricot flageolet, bouilli/cuit à l'eau;12;;20513
+26256;Ficelle picarde, préemballée;11,9;;26256
+20531;Haricot mungo, bouilli/cuit à l'eau;11,9;;20531
+13191;Pomme Gala, pulpe, crue;11,9;;13191
+9313;Flocons d'avoine, bouillis/cuits à l'eau;11,9;;9313
+26016;Limande-sole, panée, frite;11,9;;26016
+2000;Jus d'ananas, à base de concentré;11,9;;2000
+18352;Boisson énergisante, sucrée;11,9;;18352
+11122;Sauce à l'échalote à la crème, préemballée;11,9;;11122
+11064;Carvi, graine;11,9;;11064
+11010;Levure de boulanger, compressée;11,9;;11010
+13158;Petit pot fruit sans banane pour bébé;11,9;;13158
+25218;Lasagnes ou cannellonis aux légumes, préemballés, cuits;11,8;;25218
+20510;Lentille, cuisinée, appertisée, égouttée;11,8;;20510
+26046;Surimi, bâtonnets, tranche ou râpé saveur crabe;11,8;;26046
+19683;Lait gélifié aromatisé, allégé en matière grasse et en sucre, rayon frais;11,8;;19683
+4011;Pomme de terre, appertisée, égouttée;11,7;;4011
+13002;Ananas, pulpe, cru;11,7;;13002
+13086;Pomme Golden, pulpe, crue;11,7;;13086
+13187;"Purée de pommes, type ""compote sans sucres ajoutés""";11,7;;13187
+22510;Tortilla espagnole aux oignons (omelette aux pommes de terre et oignons), préemballée;11,7;;22510
+2011;Jus multifruit - base orange, multivitaminé;11,7;;2011
+13165;Dessert lacté infantile au riz ou à la semoule;11,7;;13165
+13039;Pomme, pulpe et peau, crue;11,6;;13039
+13085;Pomme Canada, pulpe, crue;11,6;;13085
+13999;Fruit cru (aliment moyen);11,6;;13999
+19508;Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré;11,6;;19508
+2039;Jus de grenade, frais;11,6;;2039
+18100;Cacao, non sucré, poudre soluble;11,6;;18100
+13161;Boisson infantile céréales lactées aux légumes pour dîner dès 4/6 mois;11,6;;13161
+13169;Boisson infantile céréales lactées pour le petit déjeuner dès 8/9 mois;11,6;;13169
+25043;Couscous à la viande ou au poulet, préemballé, allégé;11,5;;25043
+20196;Topinambour, cru;11,5;;20196
+13189;Poire Williams, pulpe, crue;11,5;;13189
+19539;Lait fermenté ou spécialité laitière type yaourt, aromatisé, sucré, au bifidus;11,5;;19539
+19669;Spécialité laitière type encas, riche en protéines, sur lit de fruits, sucrée;11,5;;19669
+2033;Jus multifruit, à base de jus et purée de fruits;11,5;;2033
+2061;Nectar multifruit, standard;11,5;;2061
+25207;Porc au caramel, préemballé;11,4;;25207
+25635;Lasagnes ou cannellonis au fromage et aux épinards, préemballés;11,4;;25635
+13121;Pomme Granny Smith, pulpe, crue;11,4;;13121
+13126;Sureau, baie, crue;11,4;;13126
+13134;Salade de fruits, crue;11,4;;13134
+13149;Nectarine ou brugnon, blanche, pulpe et peau, crue;11,4;;13149
+13188;Poire Conférence, pulpe, crue;11,4;;13188
+2074;Jus de pomme, pur jus;11,4;;2074
+13148;Nectarine ou brugnon, jaune, pulpe et peau, crue;11,3;;13148
+15053;Cacahuète, grillée, sans sel ajouté;11,3;;15053
+19579;Yaourt, lait fermenté ou spécialité laitière, aux céréales;11,3;;19579
+2002;Jus multifruit, pur jus, multivitaminé;11,3;;2002
+2014;Jus de pomme, à base de concentré;11,3;;2014
+2060;Nectar multifruit, multivitaminé;11,3;;2060
+2367;Nectar de goyave;11,3;;2367
+18019;Boisson gazeuse aux fruits (de 10 à 50% de jus), sucrée;11,3;;18019
+1007;Apéritif à base de vin ou vermouth;11,3;;1007
+13164;Dessert lacté infantile type crème dessert;11,3;;13164
+13190;Pomme Chantecler, pulpe, crue;11,2;;13190
+13176;Pomme, pulpe, bouillie/cuite à l'eau;11,2;;13176
+2035;Jus multifruit, pur jus, standard;11,2;;2035
+2069;Jus multifruit, à base de concentré, standard;11,2;;2069
+18048;Boisson gazeuse aux fruits (teneur en jus non spécifiée), sucrée (aliment moyen);11,2;;18048
+18309;Boisson plate aux fruits (teneur en jus non spécifiée), sucrée;11,2;;18309
+2062;Nectar multifruit - base orange, multivitaminé;11,1;;2062
+42000;Substitut de repas hypocalorique, crème dessert;11,1;;42000
+25131;Lasagnes ou cannellonis aux légumes, préemballées, cuits;11;;25131
+13021;Kiwi, pulpe et graines, cru;11;;13021
+19695;Dessert au soja, aux fruits, sucré, non enrichi, fermenté, préemballé;11;;19695
+2050;Jus multifruit - base pomme, multivitaminé;11;;2050
+18067;Cola, sucré, sans caféine;11;;18067
+20511;Haricot blanc, appertisé, égoutté;10,9;;20511
+13016;Fruit de la passion ou maracudja, pulpe et pépins, cru;10,9;;13016
+13037;Poire, pulpe et peau, crue;10,9;;13037
+2076;Nectar de pomme;10,9;;2076
+11194;Sauce Nuoc Mâm ou Sauce au poisson, préemballée;10,9;;11194
+13401;Abricot pays, pulpe, cru, prélevé à la Martinique;10,8;;13401
+13418;Jus de mandarine macaque, pur jus filtré, prélevée à la Martinique;10,8;;13418
+2071;Jus multifruit, à base de concentré, multivitaminé;10,8;;2071
+19122;Boisson lactée aromatisée au chocolat, sucrée, au lait partiellement écrémé, enrichie et/ou restaurée en vitamines et/ou minéraux;10,8;;19122
+18904;Boisson au riz, nature, préemballée;10,8;;18904
+25199;Palet ou galette de légumes, préfrit, surgelé;10,7;;25199
+20036;Petits pois, appertisés, égouttés;10,7;;20036
+13050;Pomme, pulpe, crue;10,7;;13050
+13122;Pomme Granny Smith, pulpe et peau, crue;10,7;;13122
+13150;Mûre (de ronce), surgelée, crue;10,7;;13150
+25196;Riste d'aubergines (aubergines, tomates, oignons), préemballée;10,6;;25196
+13028;Myrtille, crue;10,6;https://images.unsplash.com/photo-1554795808-3231c32711cf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80;13028
+19420;Crème chantilly, sous pression, UHT;10,6;https://cdn.monoprix.fr/cdn-cgi/image/width=580,quality=60,format=auto,metadata=none/assets/images/grocery/1776083/580x580.jpg;19420
+2034;Jus de clémentine ou mandarine, pur jus;10,6;https://www.nalyspapier.com/be/fr/uploads/layout/images/NALYS/Naturellement/Les%20bienfaits%20de%20la%20nature/Novembre/105034674_M.jpg;2034
+18039;Diabolo (limonade et sirop);10,6;https://assets.afcdn.com/recipe/20210308/118429_w1024h768c1cx1058cy708.webp;18039
+11132;Sauce au curry, préemballée;10,6;;11132
+25587;Parmentier de canard, préemballé, cuit;10,5;https://www.cookomix.com/wp-content/uploads/2018/12/parmentier-canard-cepes-thermomix.jpg;25587
+13110;Griotte, crue;10,5;https://www.alexetalex.com/ca/wp-content/uploads/2019/08/104856719_s.jpg;13110
+8932;Quenelle de poisson, en sauce;10,5;https://img.cuisineaz.com/660x660/2018-08-19/i141789-quenelles-de-brochet-sauce-mornay-recette.jpeg;8932
+2077;Jus de fruits, à base de concentré (aliment moyen);10,5;;2077
+1006;Vin doux;10,5;https://images.unsplash.com/photo-1535869462434-f92cc30bf40c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80;1006
+11070;Thym, frais;10,5;https://images.unsplash.com/photo-1606072104299-cdaab62c0a07?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;11070
+20987;Nori (Porphyra sp.), séchée ou déshydratée;10,5;;20987
+13107;Poire, pulpe, crue;10,4;https://images.unsplash.com/photo-1570115114436-63d3405246e7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80;13107
+2038;Jus multifruit - base orange, standard;10,4;https://img.freepik.com/photos-gratuite/fruits-romarin-jus-bocal-conserves-planche-decouper-fond-jaune_23-2147968638.jpg?size=626&ext=jpg;2038
+42003;Substitut de repas hypocalorique, prêt à boire;10,4;;42003
+13171;Boisson infantile lactées aux fruits pour le goûter dès 4/6 mois (sans céréales);10,4;;13171
+8912;Quenelle de volaille, en sauce;10,3;https://www.davigel.fr/res/davigel/styles/recipe/public/media/0680_540x400.jpg?itok=PHGKiCYe;8912
+1017;Sangria;10,3;https://images.unsplash.com/photo-1530077636681-452044839b73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80;1017
+25058;Canard en sauce (poivre vert, chasseur, etc.), préemballé;10,2;;25058
+4017;Pomme de terre, purée à base de flocons, reconstituée avec lait entier, matière grasse;10,2;;4017
+19667;Fromage frais type petit suisse, aromatisé ou aux fruits, 2-3% MG, enrichi en calcium et vitamine D;10,2;https://static.750g.com/images/1200-630/d4564ba617096432ca1ef5f429c80854/petits-suisses-aromatises.jpeg;19667
+2377;Jus d'orange sanguine, pur jus;10,2;https://images.unsplash.com/photo-1618449625138-62cb2b8a343a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80;2377
+18018;Cola, sucré;10,2;https://images.unsplash.com/photo-1520565170521-376e52ee1d52?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80;18018
+25099;Cassoulet au canard ou oie, appertisé;10,1;;25099
+20194;Haricots blancs à la sauce tomate, appertisés;10,1;https://files.meilleurduchef.com/mdc/photo/recette/haricot-blanc-tomate/haricot-blanc-tomate-800.jpg;20194
+20181;Panais, cru;10,1;https://images.unsplash.com/photo-1584118247465-08373b441c1e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=643&q=80;20181
+15011;Tournesol, graine;10,1;https://images.unsplash.com/photo-1613500788522-89c4d55bdd0e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80;15011
+18339;Boisson plate aux fruits (10 à 50% de jus), sucrée;10,1;https://images.unsplash.com/photo-1574332897026-5ef2a6e5f94f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=635&q=80;18339
+11032;Basilic, séché;10,1;https://resize3.prod.docfr.doc-media.fr/rcrop/480,363,center-middle/img/var/doctissimo/storage/images/fr/www/nutrition/diaporamas/aliments-antioxydants/le-basilic-seche/3773219-1-fre-FR/Le-basilic-seche.jpg;11032
+42004;Substitut de repas hypocalorique, poudre reconstituée avec lait écrémé;10,1;;42004
+25551;Beignet de viande, volaille ou poisson, fait maison, cru;10;;25551
+2009;Nectar multifruit - base pomme, standard;10;;2009
+19127;Boisson lactée aromatisée à la fraise, sucrée, au lait partiellement écrémé, enrichie à la vitamine D;10;;19127
+20134;Courge hokkaïdo, pulpe, crue;9,98;;20134
+13423;"Jus de prune de cythère verte ""naine"" (variété hybride), fruit mûr, pur jus filtré, prélevée à la Martinique";9,97;;13423
+18049;Boisson gazeuse aux fruits (à moins de 10% de jus), sucrée;9,97;;18049
+15043;Noix de macadamia, grillée, salée;9,95;;15043
+15023;Noix, fraîche;9,94;;15023
+20326;Petits pois, bouillis/cuits à l'eau;9,93;;20326
+13100;Prune, crue;9,92;;13100
+19026;Lait concentré non sucré, entier;9,91;;19026
+18106;Boisson cacaotée ou au chocolat, instantanée, sucrée, enrichie en vitamines, prête à boire (reconstituée avec du lait demi-écrémé standard);9,91;;18106
+25606;Salade de pommes de terre, fait maison;9,9;https://img.cuisineaz.com/660x660/2015-06-16/i3394-salade-de-pommes-de-terre-aux-epices.jpg;25606
+15010;Sésame, graine;9,85;;15010
+13195;Pêche jaune, pulpe, crue;9,8;;13195
+13007;Cassis, cru;9,68;;13007
+13194;Pêche blanche, pulpe, crue;9,63;;13194
+18343;Boisson au jus de fruit et au lait;9,63;;18343
+2070;Jus d'orange, pur jus;9,61;;2070
+13549;Kumquat, sans pépin, cru;9,6;;13549
+2012;Jus d'orange, à base de concentré;9,59;;2012
+2004;Jus de fruits (aliment moyen);9,58;;2004
+20581;Arachide, bouillie/cuite à l'eau, salée;9,54;;20581
+15000;Amande (avec peau);9,51;;15000
+4041;Aligot (purée de pomme de terre à la tomme fraîche), préemballé;9,5;;4041
+2023;Jus de mangue, frais;9,5;;2023
+2052;Jus de fruit(s) et de légume(s), pur jus;9,5;;2052
+29209;Boisson au soja et jus de fruits concentrés, préemballée;9,5;;29209
+18104;Boisson cacaotée ou au chocolat, instantanée, sucrée, prête à boire (reconstituée avec du lait demi-écrémé standard);9,5;;18104
+13159;Boisson aux fruits pour bébé dès 4/6mois;9,5;;13159
+13193;Pêche blanche, pulpe et peau, crue;9,48;;13193
+11167;Sauce américaine, préemballée;9,48;;11167
+25194;Boulettes au boeuf et à l'agneau (type kefta), préemballées, crues;9,46;;25194
+1031;Spécialité végétale type pâté, préemballée;9,45;;1031
+25002;Cassoulet, appertisé;9,41;;25002
+2013;Jus d'orange, maison;9,4;;2013
+25009;Hachis parmentier à la viande, préemballé;9,39;;25009
+20500;Fève, bouillie/cuite à l'eau;9,35;;20500
+19661;Fromage frais type petit suisse, aux fruits, 2-3% MG;9,34;;19661
+19553;Yaourt au lait de brebis, aromatisé, sucré;9,33;;19553
+2072;Jus de fruits, pur jus (aliment moyen);9,32;;2072
+25565;Yakitori (brochettes japonaises grillées en sauce);9,3;;25565
+20333;Salsifis, bouilli/cuit à l'eau;9,29;;20333
+26239;Surimi, fourré au fromage;9,24;;26239
+8742;Boudin antillais, à cuire;9,2;;8742
+13024;Clémentine ou Mandarine, pulpe, crue;9,17;;13024
+11203;Sauce kebab, préemballée;9,15;;11203
+15038;Sésame, grillé, graine décortiquée;9,14;;15038
+20249;Plat légumes, avec féculent et lait/crème, dès 6-8 mois;9,12;;20249
+20590;Crosne, cuit;9,11;;20590
+20091;Betterave rouge, crue;9,1;;20091
+2025;Jus de pamplemousse (pomélo), maison;9,1;;2025
+2010;Nectar multifruit - base pomme, multivitaminé;9,1;;2010
+13083;Goyave, pulpe, crue;9,02;;13083
+42606;Plat légumes, avec féculent et viande/poisson, dès 18 mois;9,02;;42606
+13000;Abricot, dénoyauté, cru;9,01;;13000
+20542;Fève, pelée, surgelée, cuite à l'eau;9;;20542
+13043;Pêche, pulpe et peau, crue;9;;13043
+11079;Mayonnaise à teneur réduite en matière grasse ou Mayonnaise allégée, préemballée;8,98;;11079
+11143;Sauce béchamel, maison;8,97;;11143
+42605;Plat légumes, avec féculent et viande/poisson, dès 12 mois;8,95;;42605
+26261;Salade de lentilles et saucisse fumée, préemballée;8,9;;26261
+13030;Nectarine ou brugnon, pulpe et peau, crue;8,9;;13030
+13132;Myrtille, surgelée, crue;8,9;;13132
+25010;Petit salé ou saucisse aux lentilles, préemballé;8,89;;25010
+2027;Jus de pamplemousse (pomelo), pur jus;8,89;;2027
+25609;Salade de pomme de terre à la piémontaise, préemballée;8,87;https://img.cuisineaz.com/660x660/2015-06-16/i3394-salade-de-pommes-de-terre-aux-epices.jpg;25609
+26002;Carrelet ou plie, pané, frit;8,86;;26002
+25126;Paupiette de volaille;8,8;;25126
+2375;Nectar d'orange;8,79;;2375
+20084;Petits pois, surgelés, crus;8,77;;20084
+15041;Amande, mondée, émondée ou blanchie;8,76;;15041
+15042;Amande, grillée, salée;8,72;;15042
+10005;Crabe, miettes et ou pattes décortiquées, appertisé, égoutté;8,72;;10005
+20914;Escalope végétale ou steak à base de soja;8,7;;20914
+20231;Crosne, surgelé, cru;8,7;;20231
+10041;Ormeau, cru;8,69;;10041
+18026;Boisson gazeuse, sans jus de fruit, sucrée;8,67;;18026
+13417;Jus de mandarine commune, pur jus filtré, prélevée à la Martinique;8,63;;13417
+13614;Pamplemousse chinois, pulpe, cru;8,62;;13614
+25098;Cassoulet au porc, appertisé;8,6;;25098
+20254;Plat légumes, avec féculent et lait/crème, dès 18 mois;8,59;;20254
+11210;Sauce pesto rosso, préemballée;8,58;;11210
+25154;Gratin de poisson et purée ou brandade aux pommes de terre ou parmentier de poisson, préemballé;8,57;;25154
+15007;Noix de coco, amande, sèche;8,55;;15007
+20260;Tomate, coulis, appertisé (purée de tomates mi-réduite à 11%);8,53;;20260
+13035;Papaye, pulpe, crue;8,53;;13035
+20251;Plat légumes, avec féculent et lait/crème, dès 12 mois;8,53;;20251
+25195;Parmentier de canard, préemballé;8,51;;25195
+19638;Faisselle au coulis de fruits;8,5;;19638
+25438;Brick garni (garniture : crevettes, légumes, volaille, viande, poisson, etc.), fait maison, cuit;8,48;;25438
+20267;Printanière de légumes, surgelée, crue (haricots verts, carottes, pomme de terre, petits pois, oignons);8,48;;20267
+25208;Palet ou galette de légumes, préfrit, surgelé, cuit;8,45;;25208
+10084;Calmar ou calamar ou encornet, frit ou poêlé avec matière grasse;8,45;;10084
+18010;Limonade, sucrée;8,45;;18010
+11199;Sauce grand veneur, préemballée;8,45;;11199
+2015;Jus de pamplemousse (pomélo), à base de concentré;8,41;;2015
+25037;Gratin ou cassolette de poisson et / ou fruits de mer,  préemballé, cru;8,39;;25037
+25596;Galette ou pavé au soja et légumes, préemballé;8,36;;25596
+13036;Pastèque, pulpe, crue;8,33;;13036
+19559;Yaourt, lait fermenté ou spécialité laitière, aromatisé, avec édulcorants, 0% MG;8,29;;19559
+18344;Tonic ou bitter, sucré;8,28;;18344
+19558;Yaourt, lait fermenté ou spécialité laitière, aux céréales, 0% MG;8,25;;19558
+19014;Lait 2e âge, prêt à consommer (préparation pour nourrissons);8,23;;19014
+13061;Feijoa, pulpe, crue;8,2;;13061
+25224;Bouchées ou émincé au soja et blé  (ne convient pas aux véganes ou végétaliens), préemballé;8,19;;25224
+25593;Galette ou pavé au blé et soja (convient aux véganes ou végétaliens), préemballé;8,15;;25593
+13071;Mûre noire (du mûrier), crue;8,1;;13071
+20250;Plat légumes, avec féculent et lait/crème, dès 8-12 mois;8,1;;20250
+20232;Artichaut, fond, surgelé, cru;8,09;;20232
+11208;Sauce tomate au fromage, préemballée;8,09;;11208
+39400;Lait de poule, sans alcool;8,05;;39400
+19013;Lait 1er âge, prêt à consommer (préparation pour nourrissons);8,04;;19013
+13034;Orange, pulpe, crue;8,03;;13034
+13040;Pomelo (dit Pamplemousse), pulpe, cru;8,02;;13040
+20284;Petits pois, purée;8;;20284
+26010;Hareng mariné ou rollmops;8;;26010
+42200;Lécithine de soja;8;;42200
+25589;Boulette végétale au soja et/ou blé, préemballée;7,98;;25589
+1019;Kir royal (au champagne);7,97;;1019
+20124;Petits pois, surgelés, cuits;7,95;;20124
+20536;Fève, fraîche, surgelée;7,95;;20536
+20917;Tempeh;7,89;;20917
+13997;Fruits rouges, crus (framboises, fraises, groseilles, cassis);7,88;;13997
+13202;Papaye Colombo (fruit mûr), pulpe sans pépin, crue, prélevée à La Réunion (Carica papaya L.);7,88;;13202
+11120;Sauce bourguignonne, préemballée;7,85;;11120
+25205;Chop suey (porc ou poulet), préemballé;7,8;;25205
+18905;Boisson à base d'avoine, nature, préemballée;7,8;;18905
+25186;Boulettes au porc et au boeuf (à la suédoise), préemballées, crues;7,78;;25186
+11177;Sauce tomate aux champignons, préemballée;7,78;;11177
+19012;Lait de croissance infantile, liquide (aliment lacté destiné aux enfants en bas âge);7,77;;19012
+25601;Salade de thon et légumes, appertisée;7,74;https://images.unsplash.com/photo-1604909052743-94e838986d24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80;25601
+22004;Oeuf, blanc (blanc d'oeuf), en poudre;7,73;;22004
+25597;Galette ou pavé au soja, fromage et légumes, préemballé;7,72;;25597
+15047;Chia, graine, séchée;7,72;;15047
+20151;Piment, cru;7,7;;20151
+18058;Boisson préparée à partir de sirop à diluer type menthe, fraise, etc, sucré, dilué dans l'eau;7,7;;18058
+13162;Boisson infantile céréales lactées aux fruits pour le goûter dès 4/6 mois;7,7;;13162
+11107;Sauce tomate aux oignons, préemballée;7,69;;11107
+15050;Noisette grillée, salée;7,67;;15050
+10019;Bulot ou Buccin, cru;7,61;;10019
+13113;Canneberge ou cranberry, crue;7,6;;13113
+20009;Carotte, crue;7,59;;20009
+11207;Sauce tomate aux petits légumes, préemballée;7,57;;11207
+20324;Oignon rouge, sauté/poêlé sans matière grasse;7,55;;20324
+20170;Tomate, purée, appertisée;7,54;;20170
+25232;Saucisse végétale au blé ou seitan, préemballé;7,53;;25232
+18341;Boisson gazeuse à la pomme (de 50 à 99% de fruits), non sucrée;7,5;;18341
+11178;Sauce tomate aux olives, préemballée;7,5;;11178
+19624;Yaourt ou spécialité laitière nature ou aux fruits (aliment moyen);7,47;;19624
+26258;Salade de betterave, avec sauce, préemballée;7,45;;26258
+19582;Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG, enrichi en vitamine D;7,45;;19582
+18063;Cola, teneur en sucre et édulcorant inconnue (aliment moyen);7,45;;18063
+10082;Moules marinières (oignons et vin blanc);7,43;;10082
+25077;Saumon à l'oseille, préemballé;7,43;;25077
+8125;Confit de foie de volaille;7,42;;8125
+18029;Boisson rafraîchissante sans alcool (aliment moyen);7,42;;18029
+11170;Sauce basquaise ou Sauce aux poivrons, préemballée;7,41;;11170
+20543;Fève, surgelée, bouillie/cuite à l'eau;7,4;;20543
+20093;Petits pois et carottes, appertisés, égouttés;7,39;;20093
+1018;Kir (au vin blanc);7,36;;1018
+20307;Carotte, cuite à la vapeur;7,33;;20307
+13179;Pomelo (dit Pamplemousse) jaune, pulpe, cru;7,31;;13179
+11112;Harissa (sauce condimentaire), préemballée;7,3;;11112
+11114;Sauce tomate à la viande ou Sauce bolognaise, préemballée;7,27;;11114
+11198;Sauce crudités ou Sauce salade, allégée en matière grasse, préemballée;7,26;;11198
+18902;Boisson au soja, aromatisée, sucrée, non enrichie, préemballée;7,24;;18902
+20253;Soupe pour bébé légumes, céréales et lait;7,19;;20253
+15004;Noisette;7,16;;15004
+20003;Betterave rouge, cuite;7,13;;20003
+13421;"Jus de prune de cythère verte ""géante"" (variété locale), fruit mûr, pur jus filtré, prélevée à la Martinique";7,13;;13421
+20214;Petits pois et carottes, surgelés, crus;7,1;;20214
+18161;Chicorée, instantanée, non sucrée, prête à boire (reconstituée avec du lait demi-écrémé standard);7,1;;18161
+25621;Houmous, préemballé;7,1;;25621
+8315;Mousse de canard;7,07;;8315
+13019;Groseille, crue;7,06;;13019
+20291;Potimarron, pulpe, cuit à l'étouffée;7,05;;20291
+20591;Protéine de soja texturée, réhydratée;7,03;;20591
+11218;Sauce chaude (aliment moyen);7,03;;11218
+20215;Petits pois et carottes, surgelés, cuits;7,02;;20215
+30181;Haché végétal à base de soja, préemballé;7,01;;30181
+25626;Macédoine de légumes en salade, avec sauce, préemballée;7;;25626
+20072;Petits pois, crus;7;;20072
+20088;Poivron rouge, cuit;7;;20088
+18033;Boisson gazeuse aux fruits (à moins de 10% de jus), sucrée, avec édulcorants;7;;18033
+11164;Sauce au vin rouge;7;;11164
+11172;Court-bouillon pour poissons, déshydraté;7;;11172
+5100;Pétillant de fruits;6,95;;5100
+25162;Gratin de légumes;6,91;;25162
+20248;Plat légumes, avec féculent, dès 6-8 mois;6,9;;20248
+1010;Pastis, prêt à boire (1+ 5);6,89;;1010
+20331;Potimarron, pulpe, bouilli/cuit à l'eau;6,88;;20331
+15005;Noix, séchée, cerneaux;6,88;;15005
+25934;Soupe aux céréales et aux légumes, déshydratée reconstituée;6,8;;25934
+20271;Macédoine de légumes, surgelée, pré-cuite (à recuire);6,8;;20271
+18078;Boisson gazeuse, sans jus de fruit, sucrée, avec édulcorants;6,8;;18078
+11215;Caviar de tomates;6,8;;11215
+42604;Plat légumes, avec féculent et viande/poisson, dès 8-12 mois;6,77;;42604
+25223;Bouchées ou émincé végétal au soja et blé (convient aux véganes ou végétaliens), préemballé;6,76;;25223
+19655;Fromage blanc ou spécialité laitière, aux fruits, avec édulcorants, allégé en sucres, 0% MG;6,76;;19655
+18075;Boisson au thé, aromatisée, sucrée;6,76;;18075
+20496;Légumes pour couscous, surgelés, crus;6,75;;20496
+25588;Gratin de légumes en sauce blanche type béchamel, cuit;6,74;;25588
+25598;Seitan, préemballé;6,74;;25598
+20322;Oignon blanc ou jaune, sauté/poêlé sans matière grasse;6,73;;20322
+19541;Lait fermenté ou spécialité laitière type yaourt, aux fruits, avec édulcorants, 0% MG, au bifidus;6,71;;19541
+18037;Cola, sucré, avec édulcorants;6,65;;18037
+9641;Son de maïs;6,65;;9641
+25900;Soupe aux lentilles, préemballée à réchauffer;6,6;;25900
+15034;Lin, graine;6,6;;15034
+19543;Lait fermenté ou spécialité laitière type yaourt, aux fruits, 0% MG, avec édulcorants, aux esters de stérol;6,6;;19543
+11179;Sauce pesto, préemballée;6,6;;11179
+11068;Romarin, frais;6,6;;11068
+25524;Tomate à la provençale, fait maison;6,55;;25524
+13422;"Jus de prune de cythère verte ""géante"" (variété locale), fruit vert, pur jus filtré, prélevée à la Martinique";6,55;;13422
+2006;Jus de carotte, pur jus;6,55;;2006
+20329;Poivron rouge, sauté/poêlé sans matière grasse;6,53;;20329
+13029;Mûre (de ronce), crue;6,53;;13029
+20240;Piperade basquaise, préemballée;6,5;;20240
+20067;Artichaut, appertisé, égoutté;6,5;;20067
+20264;Courgette, purée;6,5;;20264
+8292;Terrine de fruits de mer, avec ou sans poisson, préemballée;6,5;;8292
+18014;Tonic ou bitter, sucré, avec édulcorants;6,45;;18014
+20247;Petit pot légumes, avec féculent, dès 4/6 mois;6,45;;20247
+13136;Framboise, surgelée, crue;6,43;;13136
+25602;Salade composée avec viande ou poisson, appertisée;6,4;https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80;25602
+20239;Oignon jaune, cru;6,39;;20239
+12310;Fromage fondu en portions ou en cubes environ 20% MG;6,38;;12310
+13424;"Jus de prune de cythère verte ""naine"" (variété hybride), fruit vert, pur jus filtré, prélevée à la Martinique";6,34;;13424
+20305;Carotte, bouillie/cuite à l'eau, croquante;6,33;;20305
+15025;Pignon de pin;6,31;;15025
+40120;Foie, oie, cru;6,3;;40120
+18076;Thé, feuille;6,3;;18076
+11160;Sauce aux champignons, préemballée;6,3;;11160
+20999;Wakamé atlantique (Alaria esculenta), séchée ou déshydratée;6,28;;20999
+25914;Soupe à la tomate, préemballée à réchauffer;6,27;;25914
+25965;Soupe aux pois cassés, préemballée à réchauffer;6,25;;25965
+20034;Oignon, cru;6,25;;20034
+11084;Agar (algue), cru;6,25;;11084
+15006;Noix de coco, amande mûre, fraîche;6,22;;15006
+15014;Noix de coco, amande immature, fraîche;6,22;;15014
+20173;Pois mange-tout ou pois gourmand, cru;6,2;;20173
+20035;Oignon, cuit;6,2;;20035
+13180;Pomelo (dit Pamplemousse) rose, pulpe, cru;6,2;;13180
+16713;"Matière grasse laitière à 20% MG, légère, ""à tartiner"", doux";6,2;;16713
+11101;Sauce béchamel, préemballée;6,2;;11101
+11161;Sauce à la crème aux épices;6,2;;11161
+11192;Sauce aux champignons et à la crème, préemballée;6,2;;11192
+19225;Lait de jument, entier;6,18;;19225
+15008;Noix du Brésil;6,17;;15008
+18024;Boisson plate aux fruits (10 à 50% de jus de jus), sucrée, avec édulcorants;6,17;;18024
+18062;Boisson au thé, aromatisée, teneur en sucre et édulcorant inconnue (aliment moyen);6,11;;18062
+20038;Pissenlit, cru;6,1;;20038
+2028;Jus de citron, pur jus;6,1;;2028
+25595;Galette ou pavé au soja et fromage, préemballé;6,08;;25595
+18162;Chicorée et café, instantané, non sucré, prêt à boire (reconstituée avec de l'eau);6,06;;18162
+11184;Sauce (aliment moyen);6,04;;11184
+13014;Fraise, crue;6,03;;13014
+26257;Carottes râpées, avec sauce, préemballées;6,01;;26257
+20166;Citrouille, pulpe, crue;6;;20166
+13063;Figue de Barbarie, pulpe et graines, crue;6;;13063
+19665;Mousse de fromage blanc sur lit de fruits, 0% MG, avec édulcorants, enrichie en calcium et vitamine D;6;;19665
+20087;Poivron rouge, cru;5,98;;20087
+20136;Courge melonnette, pulpe, crue;5,98;;20136
+20804;Christophine à peau blanche, pulpe, cuite à la vapeur, prélevée à la Martinique;5,93;;20804
+8250;Pâté ou terrine aux champignons (forestier);5,93;;8250
+10028;Moule, appertisée, égouttée;5,93;;10028
+20243;Pois mange-tout ou pois gourmands, cuits;5,92;;20243
+18153;Chicorée et café, instantané, non sucré, prête à boire (reconstituée avec du lait demi-écrémé standard);5,9;;18153
+11159;Sauce à la crème;5,9;;11159
+42603;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois;5,9;;42603
+20252;Soupe pour bébé légumes et pomme de terre;5,88;;20252
+25933;Soupe à la tomate et aux vermicelles, préemballée à réchauffer;5,87;;25933
+25620;Guacamole, préemballé;5,85;;25620
+20273;Poêlée de légumes assaisonnés à l'asiatiques ou wok de légumes, surgelée, crue;5,83;;20273
+13015;Framboise, crue;5,83;;13015
+20499;Légume cuit (aliment moyen);5,81;;20499
+11212;Sauce au poivre, condimentaire, froide, préemballée;5,8;;11212
+13160;Boisson à base de plantes pour bébé;5,8;;13160
+25935;Soupe à la tomate, déshydratée reconstituée;5,79;;25935
+26259;Salade de chou ou Coleslaw, avec sauce, préemballée;5,78;;26259
+25924;Soupe marocaine, déshydratée reconstituée;5,77;;25924
+19544;Lait fermenté ou spécialité laitière type yaourt, nature, 0% MG, au bifidus;5,75;;19544
+20306;Carotte, bouillie/cuite à l'eau, fondante;5,73;;20306
+11213;Sauce froide (aliment moyen);5,73;;11213
+20101;Légumes, mélange surgelé, crus;5,71;;20101
+20201;Rutabaga, cru;5,7;;20201
+20310;Chou rouge, cuit à l'étouffée;5,7;;20310
+20984;Wakamé (Undaria pinnatifida), séchée ou déshydratée;5,7;;20984
+20337;Saucisse végétale au tofu (convient aux véganes ou végétaliens), préemballée;5,69;;20337
+19501;Fromage blanc nature ou aux fruits (aliment moyen);5,68;;19501
+20058;Chou de Bruxelles, cru;5,67;;20058
+8242;Terrine de lapin;5,67;;8242
+20332;Potiron, rôti/cuit au four;5,66;;20332
+25163;Boeuf, boulettes cuites;5,65;;25163
+40106;Foie, veau, cru;5,64;;40106
+20238;Oignon rouge, cru;5,63;;20238
+5004;Panaché (limonade et bière);5,63;;5004
+20172;Tomate cerise, crue;5,62;;20172
+20817;Giraumon (variété phoenix), pulpe, cuit à la vapeur, prélevé à la Martinique;5,62;;20817
+25954;Soupe au potiron, déshydratée reconstituée;5,61;;25954
+25916;Soupe minestrone, préemballée à réchauffer;5,6;;25916
+8296;Terrine ou mousse de légumes;5,6;;8296
+20195;Haricot beurre, cru;5,6;;20195
+16745;Matière grasse mélangée (végétale et laitière), à tartiner, à 30-40% MG;5,6;;16745
+16746;Matière grasse mélangée (végétale et laitière), à tartiner, à 30-40% MG, demi-sel;5,6;;16746
+20051;Macédoine de légumes, appertisée, égouttée;5,59;;20051
+25956;Soupe minestrone, déshydratée reconstituée;5,53;;25956
+20089;Radis noir, cru;5,52;;20089
+39228;Mousse aux fruits, rayon frais;5,51;;39228
+25211;Boulettes au boeuf, à la sauce tomate, préemballées;5,5;;25211
+8291;Terrine de poisson, préemballée;5,5;;8291
+11162;Sauce à la crème aux herbes;5,5;;11162
+2064;Nectar, avec édulcorants, allégé en sucres;5,47;;2064
+25052;Gratin d'aubergine, préemballé;5,45;;25052
+15026;Noix de pécan;5,43;;15026
+20145;Courge spaghetti, pulpe, crue;5,41;;20145
+25915;Soupe chorba frik, à base de viande et de frik;5,4;;25915
+25958;Soupe au cresson, préemballée à réchauffer;5,4;;25958
+25142;Poisson blanc à la sauce moutarde, préemballé;5,4;;25142
+20138;Courge doubeurre (butternut), pulpe, crue;5,4;;20138
+20309;Chou de Bruxelles, bouilli/cuit à l'eau;5,4;;20309
+13125;Citron, zeste, cru;5,4;;13125
+19597;Yaourt, lait fermenté ou spécialité laitière, nature, 0% MG, sucré, enrichi en vitamine D;5,4;;19597
+19648;Fromage blanc nature, 3% MG environ, enrichi en vitamine D;5,4;;19648
+20235;Oignon, surgelé, cru;5,39;;20235
+12300;Fromage fondu en tranchettes;5,34;;12300
+5022;Cidre aromatisé (framboise);5,34;;5022
+20328;Poivron jaune, sauté/poêlé sans matière grasse;5,33;;20328
+10027;Clam, Praire ou Palourde, bouilli/cuit à l'eau;5,33;;10027
+25964;Soupe aux légumes verts, déshydratée reconstituée;5,31;;25964
+25086;Poisson blanc à la bordelaise, préemballé;5,3;;25086
+18015;Boisson au thé, aromatisée, sucrée, avec édulcorants;5,3;;18015
+11187;Sauce crudités ou Sauce salade, préemballée;5,3;;11187
+11115;Sauce au poivre vert, préemballée;5,3;;11115
+11027;Menthe, fraîche;5,3;;11027
+25038;Gratin ou cassolette de poisson et / ou fruits de mer, préemballé, cuit;5,28;;25038
+20822;Gombo, pulpe, blanchi, surgelé, prélevé à la Martinique;5,28;;20822
+19433;Spécialité à base de crème légère 8% MG, fluide ou épaisse;5,28;;19433
+18350;Boisson diététique pour le sport;5,26;;18350
+25923;Soupe asiatique, avec pâtes, déshydratée reconstituée;5,25;;25923
+30051;Chair à saucisse, pur porc, crue;5,25;;30051
+19649;Fromage blanc nature, gourmand, 8% MG environ;5,25;;19649
+20292;Courge musquée, pulpe, cuite;5,24;;20292
+15027;Noix de macadamia;5,22;;15027
+15033;Noisette grillée;5,21;;15033
+25917;Soupe au pistou, déshydratée reconstituée;5,2;;25917
+20285;Épinard, purée;5,2;;20285
+11158;Sauce au beurre, préemballée;5,2;;11158
+20043;Potiron, appertisé, égoutté;5,19;;20043
+25123;Moussaka;5,16;;25123
+18304;Boisson plate aux fruits (10 à 50% de jus), à teneur réduite en sucres;5,16;;18304
+25932;Soupe aux asperges, déshydratée reconstituée;5,14;;25932
+10013;Moule, bouillie/cuite à l'eau;5,12;;10013
+20071;Haricot vert, surgelé, cuit;5,1;;20071
+5209;Vin blanc mousseux aromatisé;5,1;;5209
+25919;Soupe de poissons et / ou crustacés, déshydratée reconstituée;5,09;;25919
+25962;Soupe aux légumes avec fromage, préemballée à réchauffer;5,09;;25962
+5007;Cidre doux;5,09;;5007
+20198;Bambou, pousse, crue;5,08;;20198
+22511;Omelette, garnitures diverses : légumes, fromages, viandes... (aliment moyen);5,07;;22511
+20143;Courge spaghetti, pulpe, cuite;5,06;;20143
+20261;Carotte, purée;5,06;;20261
+25903;Soupe aux légumes variés, préemballée à réchauffer;5,05;;25903
+26243;Thon, à la catalane ou à l'escabèche (sauce tomate), appertisé;5,05;;26243
+11219;Sauce végétale type bolognaise, préemballée;5,05;;11219
+11166;Sauce au yaourt;5,04;;11166
+25124;Navarin d'agneau aux légumes;5;;25124
+15046;Noix de pécan, salées;5;;15046
+40110;Foie, lapin, cru;5;;40110
+10081;Moules à la sauce catalane ou escabèche (tomate), appertisée, égouttée;5;;10081
+19596;Yaourt, lait fermenté ou spécialité laitière, nature, 0% MG, enrichi en vitamine D;5;;19596
+19645;Fromage blanc nature, 0% MG, enrichi en vitamine D;5;;19645
+1026;Saké ou Alcool de riz;5;;1026
+11097;Cornichon, aigre-doux;5;;11097
+20208;Carotte, surgelée, crue;4,99;;20208
+19051;Lait écrémé, pasteurisé;4,99;;19051
+19550;Yaourt à la grecque, au lait de brebis;4,99;;19550
+25018;Ratatouille cuisinée, préemballée;4,97;;25018
+20338;Quenelle au tofu (ne convient pas aux véganes ou végétaliens), préemballée;4,97;;20338
+25910;Soupe à l'oignon, préemballée à réchauffer;4,93;;25910
+5005;Panaché préemballé (<1° alc.);4,93;;5005
+20052;Artichaut, cru;4,92;;20052
+19671;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, 0% MG (aliment moyen);4,92;;19671
+19675;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen);4,92;;19675
+20039;Poireau, cru;4,9;;20039
+20203;Haricot beurre, surgelé, cru;4,9;;20203
+19042;Lait demi-écrémé, pasteurisé;4,9;;19042
+5030;Bière sans alcool (<1,2° alcool);4,89;;5030
+25628;Salade César au poulet (salade verte, fromage, croûtons, sauce), préemballée;4,88;;25628
+13020;Groseille à maquereau, crue;4,88;;13020
+19023;Lait entier, UHT;4,85;;19023
+25925;Soupe aux poireaux et pommes de terre, déshydratée reconstituée;4,84;;25925
+19041;Lait demi-écrémé, UHT;4,83;;19041
+19039;Lait, teneur en matière grasse inconnue, UHT (aliment moyen);4,82;;19039
+8803;Boudin blanc truffé, à cuire;4,8;;8803
+19037;Lait demi-écrémé, UHT, enrichi en vitamine D seulement;4,8;;19037
+11182;Sauce au poivre, chaude, préemballée;4,8;;11182
+19038;Lait à 1,2% de matière grasse, UHT, enrichi en plusieurs vitamines;4,79;;19038
+20168;Poivron jaune, cru;4,73;;20168
+19600;Yaourt ou spécialité laitière nature (aliment moyen);4,73;;19600
+25073;Endive au jambon;4,71;;25073
+15028;Cucurbitacées, graine;4,71;;15028
+25968;Soupe aux asperges, préemballée à réchauffer;4,7;;25968
+20064;Navet, pelé, cru;4,7;;20064
+20037;Petits pois, cuits;4,7;;20037
+8015;Rillettes du Mans;4,7;;8015
+11168;Sauce aïoli, préemballée;4,7;;11168
+11128;Sauce carbonara, préemballée;4,7;;11128
+20263;Légumes pour potages, surgelés, crus;4,69;;20263
+20821;Gombo, entier, cuit à la vapeur, prélevé à la Martinique;4,69;;20821
+19060;Lait demi-écrémé (ou à teneur en matière grasse légèrement inférieure) à teneur réduite en lactose;4,69;;19060
+8326;Pâté de foie d'oie;4,67;;8326
+2075;Jus de légumes, pur jus (aliment moyen);4,66;;2075
+11129;Sauce chasseur, préemballée;4,66;;11129
+19050;Lait écrémé, UHT;4,64;;19050
+20116;Chou blanc, cru;4,63;;20116
+5008;Bière faiblement alcoolisée (3° alcool);4,62;;5008
+8332;Pâté (aliment moyen);4,61;;8332
+20128;Courge musquée, pulpe, crue;4,6;;20128
+20025;Céleri-rave, cuit;4,6;;20025
+20805;Christophine à peau verte, pulpe, cuite à la vapeur, prélevée à la Martinique;4,6;;20805
+8800;Boudin blanc, sauté/poêlé;4,6;;8800
+19554;Yaourt au lait de brebis, nature, 3% MG environ;4,6;;19554
+5002;Bière forte (>8° alcool);4,6;;5002
+11051;Sauce tartare, préemballée;4,6;;11051
+25928;Soupe à la volaille et aux légumes, déshydratée reconstituée;4,58;;25928
+11105;Sauce hollandaise, préemballée;4,58;;11105
+20298;Carotte, purée cuisinée à la crème, préemballée;4,57;;20298
+19882;Yaourt au lait de brebis, nature, 6% MG environ;4,56;;19882
+11110;Sauce vinaigrette (50 à 75% d'huile), préemballée;4,56;;11110
+20041;Poivron, vert, jaune ou rouge, cru;4,55;;20041
+5010;"Bière ""spéciale"" (5-6° alcool)";4,55;;5010
+11108;Sauce vinaigrette à l'huile d'olive (50 à 75% d'huile), préemballée;4,54;;11108
+20125;Champignon de Paris ou champignon de couche, sauté/poêlé, sans matière grasse;4,53;;20125
+20209;Carotte, surgelée, cuite;4,52;;20209
+11102;Sauce béarnaise, préemballée;4,52;;11102
+20814;Giraumon (variété locale), pulpe, cuit à la vapeur, prélevé à la Martinique;4,51;;20814
+25969;Soupe (aliment moyen);4,5;;25969
+25201;Langue de boeuf sauce madère, préemballée;4,5;;25201
+25159;Tajine de mouton;4,5;;25159
+20206;Chou de Bruxelles, surgelé, cru;4,5;;20206
+20096;Potiron, cuit;4,5;;20096
+15035;Sésame, graine décortiquée;4,5;;15035
+8703;Boudin noir, à cuire;4,5;;8703
+19250;Lait de brebis, entier;4,5;;19250
+19865;Kéfir de lait;4,5;;19865
+20269;Haricot plat, cru;4,47;;20269
+40107;Foie, veau, cuit;4,47;;40107
+25907;Soupe aux poireaux et pommes de terre, préemballée à réchauffer;4,46;;25907
+20318;Haricot beurre, bouilli/cuit à l'eau;4,45;;20318
+8232;Terrine de canard;4,44;;8232
+19639;Faisselle, 0% MG;4,44;;19639
+25905;Soupe aux légumes variés, déshydratée reconstituée;4,43;;25905
+10083;Moules farcies (matière grasse, persillade…), préemballées, crues;4,43;;10083
+20275;Poivron rouge, appertisé, égoutté;4,42;;20275
+20094;Chou-rave, bouilli/cuit à l'eau;4,4;;20094
+30052;Farce porc et boeuf, crue;4,4;;30052
+10079;Poulpe, cuit;4,4;;10079
+18023;Boisson plate aux fruits (à moins de 10% de jus), sucrée;4,4;;18023
+5021;Cidre bouché demi-sec;4,4;;5021
+11191;Sauce au roquefort, préemballée;4,4;;11191
+20316;Endive, rôtie/cuite au four;4,38;;20316
+25936;Soupe aux champignons, déshydratée reconstituée;4,37;;25936
+25942;Soupe à l'oignon, déshydratée reconstituée;4,37;;25942
+20819;Giraumon (variété phoenix), pulpe, surgelé, cuit à la vapeur, prélevé à la Martinique;4,37;;20819
+20070;Haricot vert, surgelé, cru;4,35;;20070
+19200;Lait de chèvre, entier, UHT;4,35;;19200
+20274;Poêlée de légumes assaisonnés grillée, méridionale ou méditerranéenne, surgelée, crue;4,33;;20274
+20014;Chou rouge, cru;4,33;;20014
+26242;Thon à la tomate, miettes, appertisées, égouttées;4,33;;26242
+11013;Moutarde;4,33;;11013
+20315;Céleri rave, bouilli/cuit à l'eau;4,32;;20315
+13742;Melon miel ou melon honeydew, pulpe, cru;4,3;;13742
+12828;Fromage de lactosérum de brebis;4,3;;12828
+19436;Crème de lait, 15 à 20% MG, légère, fluide, rayon frais;4,3;;19436
+25624;Caviar d'aubergine, préemballé;4,3;;25624
+20165;Rutabaga, cuit;4,26;;20165
+20081;Salsifis, appertisé, égoutté;4,25;;20081
+20258;Légumes (3-4 sortes en mélange), purée;4,25;;20258
+12315;Spécialité fromagère non affinée environ 25% MG, type fromage en barquette à tartiner ou coque fromagère;4,24;;12315
+19530;Spécialité fromagère non affinée à tartiner environ 30-40 % MG aromatisée (ex: ail et fines herbes);4,24;;19530
+11189;Sauce au fromage pour risotto ou pâtes, préemballée;4,24;;11189
+20207;Chou de Bruxelles, surgelé, cuit;4,22;;20207
+25949;Soupe à la tomate et aux vermicelles, déshydratée reconstituée;4,21;;25949
+19860;Yaourt à la grecque, nature;4,21;;19860
+25145;Poisson blanc à l'estragon, préemballé;4,2;;25145
+20218;Chou frisé, cru;4,2;;20218
+20013;Chou de Bruxelles, cuit;4,2;;20013
+20257;Haricots verts, purée;4,2;;20257
+20517;Fève à écosser, fraîche;4,2;;20517
+12355;Spécialité fromagère fondante au fromage blanc et aux noix;4,2;;12355
+25033;Boeuf bourguignon;4,17;;25033
+20002;Aubergine, cuite;4,17;;20002
+18345;Boisson gazeuse aux fruits (à moins de 10% de jus), non sucrée, sans édulcorant;4,17;;18345
+20237;Salsifis, surgelé, cru;4,15;;20237
+11080;Herbes aromatiques fraîches (aliment moyen);4,15;;11080
+20061;Haricot vert, cru;4,14;;20061
+11044;Sel au céleri;4,14;;11044
+25945;Soupe au potiron, préemballée à réchauffer;4,13;;25945
+8297;Flan de légumes;4,13;;8297
+20289;Tomate, pulpe et peau, rôtie/cuite au four;4,13;;20289
+1030;Spécialité végétale type jambon cuit, préemballée;4,13;;1030
+19201;Lait de chèvre, demi-écrémé, UHT;4,13;;19201
+2026;Jus de tomate, pur jus, salé à 3 g/L;4,13;;2026
+25953;Soupe au pistou, préemballée à réchauffer;4,1;;25953
+25026;Épinards à la crème, préemballés;4,1;;25026
+20077;Chou de Bruxelles, appertisé, égoutté;4,1;;20077
+19594;Yaourt, lait fermenté ou spécialité laitière, nature, 0% MG;4,1;;19594
+5000;Bière brune;4,1;;5000
+11092;Estragon, frais;4,1;;11092
+25912;Soupe aux champignons, préemballée à réchauffer;4,09;;25912
+20265;Julienne ou brunoise de légumes, surgelée, crue;4,08;;20265
+5215;Vin blanc (sec);4,04;;5215
+20018;Coeur de palmier, appertisé, égoutté;4,03;;20018
+8705;Boudin, sauté/poêlé (aliment moyen);4,02;;8705
+19202;Lait de chèvre, entier, cru;4,01;;19202
+25121;Coq au vin;4;;25121
+20119;Tomate verte, crue;4;;20119
+8245;Pâté de gibier;4;;8245
+19584;Mascarpone;4;;19584
+19585;Ricotta;4;;19585
+26027;Pilchard, sauce tomate, appertisé, égoutté;3,99;;26027
+20055;Céleri-rave, cru;3,98;;20055
+18110;Boisson à l'amande, sucrée, enrichie en calcium, préemballée;3,96;;18110
+25605;Champignons à la grecque, appertisés;3,95;;25605
+25957;Soupe au cresson, déshydratée reconstituée;3,95;;25957
+11111;Sauce armoricaine, préemballée;3,95;;11111
+19647;Fromage blanc nature, 3% MG environ, au bifidus;3,94;;19647
+25146;Poisson blanc sauce oseille, préemballé;3,9;;25146
+13054;Carambole, pulpe, crue;3,9;;13054
+11093;Aneth, frais;3,9;;11093
+25913;Soupe à la carotte, préemballée à réchauffer;3,89;;25913
+19644;Fromage blanc nature, 0% MG;3,89;;19644
+25950;Soupe à la volaille et aux vermicelles, déshydratée reconstituée;3,87;;25950
+25908;Soupe à la volaille et aux vermicelles, préemballée à réchauffer;3,86;;25908
+10011;Huître, sans précision, crue;3,86;;10011
+10035;Huître creuse, crue;3,86;;10035
+25963;Soupe aux légumes verts, préemballée à réchauffer;3,84;;25963
+20300;Aubergine, pulpe et peau, rôtie/cuite au four;3,83;;20300
+18034;Boisson gazeuse aux fruits (de 10 à 50% de jus), sucrée, avec édulcorants;3,83;;18034
+25020;Soufflé au fromage;3,8;;25020
+20033;Navet, cuit;3,8;;20033
+19663;Fromage frais type petit suisse, nature, 0% MG;3,8;;19663
+16712;"Matière grasse laitière à 25% MG, légère, ""à tartiner"", doux";3,8;;16712
+19863;Tzatziki, à base yaourt, préemballé;3,8;;19863
+20246;Petit pot légumes, dès 4-6 mois;3,8;;20246
+8704;Boudin noir, sauté/poêlé;3,78;;8704
+40113;Foie, porc, cuit;3,76;;40113
+20815;Giraumon (variété locale), pulpe, cuit à la vapeur, surgelé, prélevé à la Martinique;3,75;;20815
+19650;Fromage blanc ou spécialité laitière nature et crème fouetté, 10% MG environ;3,74;;19650
+16412;Beurre ou assimilé allégé (léger ou à teneur reduite en matière grasse), doux (aliment moyen);3,73;;16412
+19581;Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG;3,72;;19581
+2053;Jus de tomate, pur jus (aliment moyen);3,72;;2053
+25071;Potée auvergnate (chou et porc);3,7;;25071
+40104;Foie, génisse, cru;3,67;;40104
+25172;Viande en sauce (aliment moyen);3,65;;25172
+19500;Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, avec édulcorants, allégé en sucres, 0% MG, au L Casei;3,64;;19500
+11104;Sauce soja, préemballée;3,64;;11104
+20169;Tomate, pulpe, appertisée;3,63;;20169
+20219;Chou frisé, cuit;3,63;;20219
+20241;Cardon, cuit;3,63;;20241
+11002;Cerfeuil, frais;3,63;;11002
+25511;Légumes farcis (sauf tomate);3,6;;25511
+16415;Beurre à 39-41% MG, léger, doux;3,6;;16415
+11121;Sauce madère, préemballée;3,6;;11121
+20498;"Poêlée de légumes assaisonnés aux champignons (""champêtre""), surgelée";3,59;;20498
+20276;Tomate ronde, crue;3,59;;20276
+28924;Épaule de porc, cuite, standard, découennée dégraissée;3,58;;28924
+19641;Faisselle, 6% MG environ;3,57;;19641
+20323;Oignon nouveau ou oignon frais ou cébette, sauté/poêlé sans matière grasse;3,56;;20323
+15052;Lin, brun, graine;3,56;;15052
+20330;Poivron vert, sauté/poêlé sans matière grasse;3,53;;20330
+20334;Tomate, rôtie/cuite au four;3,53;;20334
+20818;Giraumon (variété phoenix), pulpe, râpé, cru, prélevé à la Martinique;3,51;;20818
+25164;Osso buco;3,5;;25164
+20044;Potiron, cru;3,5;;20044
+20297;Chayote ou christophine ou chouchou, pulpe avec pépins, cuite à la vapeur, prélevée à La Réunion (Sechium edule);3,5;;20297
+40121;Foie, canard, cru;3,5;;40121
+28927;Haché de volaille;3,5;;28927
+8059;Rillettes de crabe, préemballées;3,5;;8059
+11040;Câpres, au vinaigre;3,5;;11040
+20063;Haricot beurre, appertisé, égoutté;3,48;;20063
+18012;Boisson à l'eau minérale ou de source, aromatisée, sucrée;3,48;;18012
+11014;Persil, frais;3,48;;11014
+19024;Lait entier, pasteurisé;3,47;;19024
+19546;Lait fermenté ou spécialité laitière type yaourt, nature, au bifidus;3,47;;19546
+19646;Fromage blanc nature, 3% MG environ;3,46;;19646
+20085;Poivron vert, cru;3,43;;20085
+20312;Chou-fleur, cuit à la vapeur;3,41;;20312
+25955;Soupe asiatique, avec pâtes, préemballée à réchauffer;3,4;;25955
+20183;"Haricot mungo germé ou pousse de ""soja"", cru";3,4;;20183
+20007;Carotte, appertisée, égouttée;3,4;;20007
+18041;Lait de coco ou Crème de coco;3,4;;18041
+11140;Sauce au beurre blanc, préemballée;3,4;;11140
+11074;Gingembre, racine crue;3,4;;11074
+20216;Pois mange-tout ou pois gourmand, bouilli/cuit à l'eau;3,39;;20216
+20320;Haricot vert, bouilli/cuit à l'eau;3,39;;20320
+8313;Mousse de foie de porc;3,39;;8313
+25967;Soupe froide type Gaspacho ou Gazpacho, préemballée;3,38;;25967
+20236;Poireau, surgelé, cru;3,35;;20236
+18011;Eau de coco;3,33;;18011
+20095;Chou rouge, bouilli/cuit à l'eau;3,32;;20095
+2032;Jus de tomate, pur jus, salé à 6g/L;3,31;;2032
+25065;Boeuf aux carottes;3,3;;25065
+25101;Gratin de chou-fleur, préemballé;3,3;;25101
+11157;Sauce moutarde, préemballée;3,3;;11157
+5210;Vin (aliment moyen);3,29;;5210
+19864;Tzatziki, à base fromage frais, préemballé;3,28;;19864
+20074;Artichaut, cuit à la vapeur sous pression;3,24;;20074
+20192;Tomate côtelée ou coeur de boeuf, crue;3,23;;20192
+20266;Légumes pour ratatouille, surgelés;3,23;;20266
+20308;Chou blanc, bouilli/cuit à l'eau;3,23;;20308
+20321;Navet, bouilli/cuit à l'eau;3,23;;20321
+10004;Coquille Saint-Jacques, noix et corail, cuite;3,22;;10004
+5003;Cidre (aliment moyen);3,22;;5003
+10021;Crevette, crue;3,21;;10021
+25013;Pot-au-feu, préemballé;3,2;;25013
+5011;"Bière ""de spécialités"" ou d'abbaye, régionales ou d'une brasserie (degré d'alcool variable)";3,2;;5011
+25525;Pizza, sauce garniture pour;3,2;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80;25525
+8293;Tarama, préemballé;3,19;;8293
+26054;Poisson en sauce, surgelé;3,18;;26054
+19666;Fromage frais type petit suisse, nature, 10% MG environ;3,17;;19666
+40103;Foie, agneau, cuit;3,16;;40103
+25174;Poulet au curry et au lait de coco;3,15;;25174
+20056;Champignon de Paris ou champignon de couche, cru;3,15;;20056
+13067;Citron vert ou Lime, pulpe, cru;3,14;;13067
+25600;Céleri rémoulade, préemballé;3,14;;25600
+20313;Courgette, pulpe et peau, rôtie/cuite au four;3,13;;20313
+22013;Oeuf, en poudre;3,11;;22013
+25001;Blanquette de veau;3,1;;25001
+25128;Poisson blanc à la provençale ou niçoise (sauce tomate), préemballé;3,1;;25128
+20132;Potimarron, pulpe, cru;3,1;;20132
+10049;Pétoncle ou Peigne du Pérou, noix, crue;3,1;;10049
+19598;Yaourt, lait fermenté ou spécialité laitière, nature, à la crème;3,08;;19598
+25616;Crudité, sans assaisonnement (aliment moyen);3,07;;25616
+10043;Fruits de mer (aliment moyen);3,06;;10043
+30315;Chorizo;3,05;;30315
+16734;Matière grasse végétale (type margarine), à tartiner, à 30-40% MG, légère, demi-sel;3,05;;16734
+20015;Chou vert, cuit;3,04;;20015
+20160;Champignon, cèpe, cru;3,03;;20160
+20584;Tomate grappe, crue;3,03;;20584
+20156;Artichaut, fond, appertisé, égoutté;3,02;;20156
+25143;Poisson blanc à la parisienne (sauce aux champignons), préemballé;3;;25143
+20030;Haricot vert, cuit;3;;20030
+20040;Poireau, cuit;3;;20040
+20102;Champignon de Paris ou champignon de couche, bouilli/cuit à l'eau;3;;20102
+19411;Crème d'Isigny AOP, >= 35% MG;3;;19411
+19431;Crème de lait, 15 à 20% MG, légère, épaisse, rayon frais;3;;19431
+18016;Limonade, sucrée, avec édulcorants;3;;18016
+16733;Matière grasse végétale (type margarine), à tartiner, à 30-40% MG, légère, doux;3;;16733
+40102;Foie, agneau, cru;2,92;;40102
+8305;Pâté de foie de porc;2,91;;8305
+20912;Tofu fumé, préemballé;2,91;;20912
+25140;Poisson blanc à la florentine (sauce aux épinards), préemballé;2,9;;25140
+19430;Crème de lait, 15 à 20% MG, légère, semi-épaisse, UHT;2,89;;19430
+18903;Boisson au soja, aromatisée, sucrée, enrichie en calcium, préemballée;2,89;;18903
+25904;Soupe de poissons et / ou crustacés, préemballée à réchauffer;2,88;;25904
+8214;Pâté breton;2,88;;8214
+20904;Tofu nature, préemballé;2,87;;20904
+19402;Crème de lait ou spécialité à base de crème légère, teneur en matière grasse inconnue (aliment moyen);2,87;;19402
+1000;Pastis;2,86;;1000
+19696;Dessert au soja, aux amandes, fermenté, préemballé;2,85;;19696
+19664;Fromage frais type petit suisse, nature, 4% MG environ;2,84;;19664
+20026;Endive, crue;2,83;;20026
+20278;Céleri-rave, purée;2,83;;20278
+10080;Fruits de mer, cuits, surgelés;2,83;;10080
+5207;Champagne;2,81;;5207
+25003;Choucroute garnie, préemballée;2,8;;25003
+20242;Tomate, pulpe et peau, bouillie/cuite à l'eau;2,8;;20242
+13128;Chayote ou christophine ou chouchou, crue;2,8;;13128
+30156;Merguez, boeuf et mouton, crue;2,8;;30156
+19410;Crème de lait, 30% MG, épaisse, rayon frais;2,8;;19410
+10026;Moule de Méditerranée, crue;2,77;;10026
+22003;Oeuf, jaune (jaune d'oeuf), en poudre;2,77;;22003
+18059;"Boisson concentrée à diluer, sans sucres ajoutés, avec édulcorants, type ""sirop 0%""";2,76;;18059
+20259;Brocoli, purée;2,75;;20259
+36204;Canard, viande et peau, cru;2,75;;36204
+18907;Boisson à la noix de coco, nature, préemballée;2,75;;18907
+26187;Anchois commun, mariné, préemballé;2,7;;26187
+5001;"Bière ""coeur de marché"" (4-5° alcool)";2,7;;5001
+10020;Bulot ou Buccin, cuit;2,69;;10020
+10014;Moule commune, crue;2,69;;10014
+10017;Clam, Praire ou Palourde, cru;2,66;;10017
+19593;Yaourt, lait fermenté ou spécialité laitière, nature;2,65;;19593
+20082;Chou-fleur, surgelé, cru;2,64;;20082
+20028;Fenouil, cru;2,63;;20028
+5214;Vin rouge;2,63;;5214
+11005;Curry, poudre;2,63;;11005
+5006;Cidre brut;2,62;;5006
+11054;Mayonnaise (70% MG min.), préemballée;2,62;;11054
+25901;Soupe à la volaille et aux légumes, préemballée à réchauffer;2,6;;25901
+25125;Paupiette de veau;2,6;;25125
+25509;Préparation à base de fromage(s) pour fondue savoyarde, préemballée;2,6;;25509
+20008;Carotte, cuite;2,6;;20008
+30316;Chorizo supérieur, doux ou fort, type saucisse sèche;2,6;;30316
+11043;Tapenade;2,6;;11043
+20288;Salade sucrine, crue;2,58;;20288
+20011;Champignon, tout type, appertisé, égoutté;2,56;;20011
+22506;Omelette au fromage;2,56;;22506
+20497;Légumes pour couscous, cuits;2,55;;20497
+11033;Basilic, frais;2,55;;11033
+20019;Concombre, pulpe et peau, cru;2,54;;20019
+25541;Brochette d'agneau;2,54;;25541
+20304;Brocoli, cuit à la vapeur;2,53;;20304
+25190;Poulet basquaise, préemballé;2,5;;25190
+20272;Mesclun ou salade, mélange de jeunes pousses;2,5;;20272
+20282;Asperge, blanche ou violette, pelée, crue;2,5;;20282
+30150;Merguez, crue;2,5;;30150
+12061;Fromage 100% brebis (Feta AOP ou type Feta);2,5;;12061
+16742;Matière grasse végétale (type margarine) à 30-40% MG, légère, demi-sel, aux esters de stérol végétal;2,5;;16742
+11055;Oignon au vinaigre;2,5;;11055
+20047;Tomate, crue;2,49;;20047
+20314;Céleri branche, cuit à l'étouffée;2,48;;20314
+6260;Haché à base de boeuf ou Préparation de viande hachée de boeuf, 15% MG, cru, prémeballé;2,48;;6260
+20159;Champignon, oronge vraie, crue;2,45;;20159
+20161;Champignon, rosé des prés, cru;2,45;;20161
+20200;Laitue iceberg, crue;2,45;;20200
+8324;Foie gras, canard, bloc, 30% de morceaux;2,43;;8324
+8331;Foie gras, canard, bloc (aliment moyen);2,43;;8331
+20816;Giraumon (variété locale), pulpe, râpé, cru, prélevé à la Martinique;2,42;;20816
+18057;"Boisson préparée à partir de boisson concentrée à diluer, non sucrée, avec édulcorants, type ""sirop 0%"", diluée dans l'eau";2,42;;18057
+20023;Céleri branche, cru;2,41;;20023
+30300;Saucisson sec;2,41;;30300
+12819;Fromage de chèvre à tartiner, nature;2,41;;12819
+2007;Jus de citron, maison;2,41;;2007
+11065;Vanille, extrait alcoolique;2,41;;11065
+20012;Salade ou chicorée frisée, crue;2,4;;20012
+20073;Asperge, pelée, crue;2,4;;20073
+8300;Pâté de foie de porc, supérieur;2,4;;8300
+11304;Fond de veau, préemballé;2,4;;11304
+20053;Aubergine, crue;2,39;;20053
+11109;Sauce vinaigrette allégée en MG (25 à 50% d'huile), préemballée;2,39;;11109
+20029;"Haricot mungo germé ou pousse de ""soja"", appertisé, égoutté";2,36;;20029
+20086;Poivron vert, cuit;2,36;;20086
+20205;Brocoli, surgelé, cuit;2,36;;20205
+20065;Chou-rave, cru;2,35;;20065
+8321;Foie gras, canard, entier, cuit;2,32;;8321
+20155;Artichaut, coeur, appertisé, égoutté;2,31;;20155
+18151;Café au lait, café crème ou cappuccino, instantané ou non, non sucré, prêt à boire;2,31;;18151
+20103;Champignon, chanterelle ou girolle, crue;2,3;;20103
+21516;Agneau, côte filet, crue;2,3;;21516
+13177;Chayote ou christophine ou chouchou, bouillie/cuite à l'eau;2,29;;13177
+22508;Omelette aux champignons;2,28;;22508
+10042;Escargot en sauce au beurre persillé, préemballé, cuit;2,26;;10042
+20059;Épinard, cru;2,25;;20059
+26097;Maquereau, filet au vin blanc, appertisé, égoutté;2,25;;26097
+20210;Concombre, pulpe, cru;2,23;;20210
+20327;Poireau, bouilli/cuit à l'eau;2,23;;20327
+25141;Poisson blanc à la marinière (sauce aux oignons, vin blanc, moules), préemballé;2,2;;25141
+20199;Cresson alénois, cru;2,2;;20199
+20280;Chou romanesco ou brocoli à pomme, cru;2,2;;20280
+40105;Foie, génisse, cuit;2,2;;40105
+11021;Moutarde à l'ancienne;2,2;;11021
+25972;Soupe miso, déshydratée reconstituée;2,18;;25972
+20230;Courgette, pulpe et peau, surgelée, crue;2,18;;20230
+19801;Lait fermenté à boire, nature, maigre;2,18;;19801
+18901;Boisson au soja, nature, enrichie en calcium, préemballée;2,18;;18901
+10001;Calmar ou calamar ou encornet, cru;2,17;;10001
+20016;Chou-fleur, cru;2,13;;20016
+20217;Roquette, crue;2,1;;20217
+36005;Poulet, viande et peau, rôti/cuit au four;2,1;;36005
+8323;Foie gras, canard, bloc, sans morceaux;2,1;;8323
+30317;Chorizo supérieur, doux ou fort, type charcuterie en tranches;2,1;;30317
+25566;Brochette de porc, crue;2,1;;25566
+36035;Poulet, manchons marinés, rôtis/cuits au four;2,1;;36035
+11003;Ciboule ou Ciboulette, fraîche;2,1;;11003
+25200;Palette à la diable, préemballée;2,08;;25200
+28922;Dés, allumettes, râpé ou haché de jambon;2,08;;28922
+12800;Fromage de chèvre frais, au lait pasteurisé (type bûchette fraîche);2,08;;12800
+20062;Haricot vert, appertisé, égoutté;2,07;;20062
+19693;Dessert au soja, nature, non sucré, non enrichi, fermenté, préemballé;2,05;;19693
+12805;Fromage de chèvre frais, au lait pasteurisé ou cru (type crottin frais ou bûchette fraîche);2,05;;12805
+20279;Asperge, verte, crue;2,03;;20279
+20290;Chou romanesco ou brocoli à pomme, cuit;2,03;;20290
+12804;Fromage de chèvre frais, au lait cru (type palet ou crottin frais);2,03;;12804
+11214;"Préparation culinaire à base de soja, type ""crème de soja""";2,03;;11214
+58103;Gombo, fruit, cuit;2,01;;58103
+25103;Tomate farcie;2;;25103
+25106;Chou farci, préemballé;2;;25106
+20234;Navet, surgelé, cru;2;;20234
+36004;Poulet, cuisse, viande et peau, rôtie/cuite au four;2;;36004
+8325;Foie gras, canard, bloc, 50% de morceaux;2;;8325
+28504;Lardon nature, cuit;2;;28504
+26232;Hareng fumé, à l'huile;2;;26232
+8081;Rillettes de saumon, préemballées;2;;8081
+19805;Lait fermenté à boire, nature, au lait entier;1,99;;19805
+22509;Omelette aux fines herbes;1,98;;22509
+26260;Salade de concombre à la crème/fromage blanc, préemballée;1,97;;26260
+8316;Pâté de foie de volaille;1,96;;8316
+20317;Fenouil, cuit à l'étouffée;1,94;;20317
+26086;Maquereau, filet sauce tomate, appertisé, égoutté;1,94;;26086
+19415;Crème de lait, 30% MG, semi-épaisse, UHT;1,94;;19415
+40059;Coeur, agneau, cuit;1,93;;40059
+28911;Épaule de porc, cuite, choix, découennée dégraissée;1,93;;28911
+20069;Chou vert, cru;1,92;;20069
+20188;Bambou, pousses, appertisées, égouttées;1,9;;20188
+20048;Tomate, pelée, appertisée, égouttée;1,89;;20048
+20010;Champignon, tout type, cru;1,88;;20010
+10007;Crevette, cuite;1,87;;10007
+5020;Cidre traditionnel;1,87;;5020
+40119;Foie, porc, cru;1,85;;40119
+20311;Chou vert, bouilli/cuit à l'eau;1,83;;20311
+30131;Saucisse de volaille, type Knack;1,82;;30131
+20020;Courgette, pulpe et peau, crue;1,8;;20020
+40062;Coeur, veau, cru;1,8;;40062
+30155;Merguez, boeuf et mouton, cuite;1,8;;30155
+30301;Saucisson sec pur porc;1,79;;30301
+30304;Rosette ou Fuseau;1,79;;30304
+10025;Crabe ou Tourteau, bouilli/cuit à l'eau;1,79;;10025
+20123;Batavia, crue;1,78;;20123
+30311;Saucisson sec aux noix et/ou noisettes;1,78;;30311
+10048;Pecten d'Amérique ou Peigne du canada, noix, crue;1,78;;10048
+12320;Fromage fondu double crème, environ 31% MG;1,78;;12320
+40207;Langue, agneau, crue;1,75;;40207
+20299;Asperge verte, bouillie/cuite à l'eau;1,73;;20299
+20054;Cardon, cru;1,7;;20054
+20057;Brocoli, cru;1,7;;20057
+20296;Brèdes chou de Chine ou bok choy ou pak choï, tiges et feuilles, cuites à la vapeur, prélevées à La Réunion (Brassica rapa subsp. Chinensis);1,7;;20296
+28910;Jambon cuit, choix;1,7;;28910
+30309;Saucisse sèche;1,7;;30309
+5201;Vin blanc mousseux;1,7;;5201
+11302;Sauce à l'oseille, préemballée;1,7;;11302
+2030;Jus de citron vert, maison;1,69;;2030
+20167;Chou chinois ou pak-choi ou pé-tsai, cru;1,65;;20167
+30302;Saucisson sec pur porc, qualité supérieure;1,65;;30302
+8082;Rillettes de thon, préemballées;1,65;;8082
+10037;Calmar ou calamar ou encornet, bouilli/cuit à l'eau;1,64;;10037
+20004;Bette ou blette, crue;1,63;;20004
+20277;Asperge blanche, bouillie/cuite à l'eau;1,63;;20277
+30700;Saucisson à l'ail;1,63;;30700
+22502;Oeuf, brouillé, avec matière grasse;1,62;;22502
+28913;Jambon cuit, choix, découenné dégraissé;1,61;;28913
+20111;Oseille, crue;1,6;;20111
+20139;Courge, crue;1,6;;20139
+20162;Chicorée rouge, crue;1,6;;20162
+20017;Chou-fleur, cuit;1,6;;20017
+30351;Salami pur porc;1,6;;30351
+5216;Vin rosé;1,6;;5216
+28929;Dés, allumettes, râpé ou haché de jambon de volaille;1,58;;28929
+8350;Galantine (aliment moyen);1,57;;8350
+20204;Brocoli, surgelé, cru;1,56;;20204
+13009;Citron, pulpe, cru;1,56;;13009
+30352;Salami porc et boeuf;1,56;;30352
+30730;Cervelas;1,56;;30730
+30790;Mortadelle, pur porc;1,55;;30790
+20045;Radis rouge, cru;1,53;;20045
+10024;Langoustine, crue;1,53;;10024
+20906;Tofu soyeux, préemballé;1,53;;20906
+25540;Brochette de crevettes;1,5;;25540
+20114;Champignon, pleurote, crue;1,5;;20114
+25604;Salade verte, crue, sans assaisonnement;1,5;;25604
+8211;Pâté ou terrine de campagne;1,5;;8211
+26119;Saumon, appertisé, égoutté;1,5;;26119
+26275;Oeufs de saumon, semi-conserve;1,5;;26275
+25999;Anchois, filets roulés aux câpres, semi-conserve, égoutté;1,48;;25999
+13047;Rhubarbe, tige, crue;1,47;;13047
+30900;Charcuterie (aliment moyen);1,47;;30900
+10006;Crevette grise, cuite;1,47;;10006
+30746;Saucisse cocktail;1,46;;30746
+22507;Omelette aux lardons;1,46;;22507
+6003;Boeuf, basse-côte, crue;1,45;;6003
+8201;Pâté au poivre vert;1,45;;8201
+18025;Kombucha, préemballé;1,45;;18025
+20076;Asperge, appertisée, égouttée;1,43;;20076
+20301;Bette ou blette, côte et feuille, bouillie/cuite à l'eau;1,43;;20301
+12060;Fromage type feta, au lait de vache;1,42;;12060
+8328;Foie gras de canard, cru;1,41;;8328
+26262;Salade grecque, avec sauce, préemballée;1,4;;26262
+20021;Courgette, pulpe et peau, cuite;1,4;;20021
+28917;Rond de jambon cuit;1,4;;28917
+30789;Mortadelle;1,4;;30789
+22070;Oeuf d'oie, cru;1,4;;22070
+12340;Spécialité fromagère non affinée environ 20% MG, type fromage en barquette à tartiner ou coque fromagère;1,4;;12340
+18305;Boisson plate aux fruits (10 à 50% de jus), non sucrée, avec édulcorants;1,4;;18305
+25586;Brochette de volaille, cuite;1,39;;25586
+28963;Jambon de poulet ou Blanc de poulet en tranche;1,39;;28963
+30742;Saucisse de Strasbourg ou Knack;1,39;;30742
+18051;Boisson gazeuse aux fruits (de 10 à 50% de jus), non sucrée, avec édulcorants;1,39;;18051
+20078;Céleri branche, appertisé, égoutté;1,38;;20078
+21525;Agneau, côte découverte, crue;1,38;;21525
+26035;Sardine, sauce tomate, appertisée, égouttée;1,38;;26035
+40601;Abat, cuit (aliment moyen);1,36;;40601
+30366;Salami type danois;1,35;;30366
+18004;Café, non instantané, non sucré, prêt à boire;1,35;;18004
+25930;Bouillon de boeuf, déshydraté reconstitué;1,33;;25930
+20031;Laitue, crue;1,33;;20031
+22009;Oeuf, jaune (jaune d'oeuf), cuit;1,31;;22009
+22060;Oeuf de cane, cru;1,31;;22060
+18220;Citron ou Lime, spécialité à diluer pour boissons, sans sucres ajoutés;1,31;;18220
+30701;Saucisson cuit pur porc;1,3;;30701
+10022;Langouste, bouillie/cuite à l'eau;1,3;;10022
+28964;Jambon de dinde ou Blanc de dinde en tranche;1,29;;28964
+10008;Escargot, cru;1,29;;10008
+28976;Rôti de volaille en salaison, cuit;1,28;;28976
+30134;Saucisse de Francfort;1,24;;30134
+2031;Jus de citron vert, pur jus;1,24;;2031
+20005;Bette ou blette, cuite;1,23;;20005
+20302;Brocoli, bouilli/cuit à l'eau, croquant;1,23;;20302
+25175;Meloukhia, plat à base de boeuf et corete, fait maison;1,2;;25175
+20171;Laitue romaine, crue;1,2;;20171
+20024;Céleri branche, cuit;1,2;;20024
+30130;Saucisse de volaille, façon charcutière;1,19;;30130
+30797;Mortadelle pistachée pur porc;1,16;;30797
+10036;Huître plate, crue;1,16;;10036
+18071;Café expresso, non instantané, non sucré, prêt à boire;1,16;;18071
+10045;Coquille Saint-Jacques, noix, crue;1,15;;10045
+40108;Foie, volaille, cru;1,13;;40108
+40407;Rognon, agneau, cru;1,13;;40407
+22080;Oeuf de dinde, cru;1,13;;22080
+22008;Oeuf, blanc (blanc d'oeuf), cuit;1,12;;22008
+19556;Yaourt au lait de chèvre, nature, 5% MG environ;1,12;;19556
+20283;Salicorne (Salicornia sp.), fraîche;1,1;;20283
+20006;Brocoli, cuit;1,1;;20006
+40111;Foie, poulet, cru;1,1;;40111
+40404;Rognon, porc, cru;1,1;;40404
+26142;Foie de morue, appertisé, égoutté;1,1;;26142
+19694;Dessert au soja, nature, non sucré, enrichi en calcium, fermenté, préemballé;1,1;;19694
+26096;Maquereau, filet sauce moutarde, appertisé, égoutté;1,09;;26096
+22002;Oeuf, jaune (jaune d'oeuf), cru;1,09;;22002
+18155;Thé vert, infusé, non sucré;1,09;;18155
+28925;Jambon cuit, de Paris, découenné dégraissé;1,08;;28925
+22014;Oeuf, à la coque;1,08;;22014
+10015;Langouste, crue;1,07;;10015
+26040;Sardine, à l'huile d'olive, appertisée, égouttée;1,06;;26040
+20122;Chou-fleur, surgelé, cuit;1,05;;20122
+30350;Salami;1,05;;30350
+1027;Spécialité végétale type fromage à tartiner, au soja, préemballée;1,05;;1027
+20295;Salade feuille de chêne, crue;1,03;;20295
+20303;Brocoli, bouilli/cuit à l'eau, fondant;1,03;;20303
+28906;Jambon cuit, supérieur, découenné dégraissé;1,03;;28906
+8026;Rillettes de canard;1,03;;8026
+8406;Museau de porc vinaigrette;1,02;;8406
+25505;Brochette de boeuf;1,02;;25505
+25506;Brochette mixte de viande;1,02;;25506
+28501;Lardon nature, cru;1,01;;28501
+26179;Thon germon ou thon blanc, à l'huile d'olive, appertisé, égoutté;1,01;;26179
+22505;Oeuf, au plat, sans matière grasse;1,01;;22505
+20158;Tétragone cornue, cuite;1;;20158
+28850;Coppa;1;;28850
+30104;Saucisse de Morteau;1;;30104
+30105;Saucisse de Montbéliard;1;;30105
+30110;Saucisse de Toulouse, crue;1;;30110
+30115;Chipolata, crue;1;;30115
+30764;Saucisse de jambon pur porc;1;;30764
+8550;Andouillette, à cuire;1;;8550
+8551;Andouillette, sautée/poêlée;1;;8551
+25610;Museau de boeuf en vinaigrette;1;;25610
+28860;Viande des Grisons;1;;28860
+30731;Cervelas obernois;1;;30731
+8083;Rillettes de maquereau, préemballées;1;;8083
+26004;Oeufs de lompe, semi-conserve;1;;26004
+1011;Apéritif anisé sans alcool;1;;1011
+1023;Eau de vie de vin, type armagnac, cognac;1;;1023
+11205;Sauce rouille, préemballée;1;;11205
+20000;Artichaut, cuit;0,99;;20000
+8030;Rillettes d'oie;0,99;;8030
+16414;Beurre ou assimilé à teneur en matière grasse inconnue, doux (aliment moyen);0,99;;16414
+28801;Jambon cru, fumé;0,98;;28801
+10018;Poulpe, cru;0,97;;10018
+11069;Sauge, fraîche;0,97;;11069
+28720;Lardon fumé, cru;0,96;;28720
+18021;Boisson plate aux fruits, (à moins de 10% de jus), non sucrée, avec édulcorants;0,96;;18021
+18353;Boisson énergisante, non sucrée, avec édulcorants;0,95;;18353
+10010;Homard, cru;0,94;;10010
+20060;Épinard, appertisé, égoutté;0,93;;20060
+11090;Vinaigre de cidre;0,93;;11090
+21521;Agneau, côte ou côtelette, crue (aliment moyen);0,92;;21521
+15029;Luzerne, graine germée;0,91;;15029
+28901;Jambon cuit, supérieur, avec couenne;0,91;;28901
+26037;Saumon fumé;0,91;;26037
+20022;Cresson de fontaine, cru;0,9;;20022
+40204;Langue, veau, crue;0,9;;40204
+40402;Rognon, boeuf, cru;0,9;;40402
+30176;Saucisse de foie;0,9;;30176
+16400;Beurre à 82% MG, doux;0,9;;16400
+20083;Épinard, surgelé, cru;0,89;;20083
+30780;Saucisse (aliment moyen);0,88;;30780
+11094;Coriandre, fraiche;0,87;;11094
+25539;Brochette de poisson;0,86;;25539
+36206;Canard, magret, cru;0,85;;36206
+22001;Oeuf, blanc (blanc d'oeuf), cru;0,85;;22001
+13004;Avocat, pulpe, cru;0,83;;13004
+20228;Champignon de Paris ou champignon de couche, surgelé, cru;0,83;;20228
+20001;Asperge, bouillie/cuite à l'eau;0,81;;20001
+28900;Jambon cuit, supérieur;0,81;;28900
+10030;Écrevisse, crue;0,81;;10030
+20118;Fenouil, bouilli/cuit à l'eau;0,8;;20118
+40003;Cervelle, agneau, cuite;0,8;;40003
+40116;Foie, poulet, cuit;0,8;;40116
+36301;Dinde, viande, crue;0,8;;36301
+40002;Cervelle, agneau, crue;0,8;;40002
+40600;Sang, boeuf, cru;0,8;;40600
+30005;Chipolata, cuite;0,8;;30005
+28725;Lardon fumé, cuit;0,8;;28725
+25504;Brochette de volaille;0,8;;25504
+11176;Gelée au madère;0,8;;11176
+28803;Jambon cuit, fumé;0,79;;28803
+28502;Poitrine de porc, fumée, crue;0,79;;28502
+6240;Boeuf, collier, cru;0,78;;6240
+10003;Coquille Saint-Jacques, noix et corail, crue;0,78;;10003
+11004;Cornichon, au vinaigre;0,78;;11004
+28902;Jambon cuit, supérieur, découenné;0,77;;28902
+28800;Jambon cru;0,76;;28800
+28845;Jambon sec Serrano;0,76;;28845
+26180;Thon à l'huile de tournesol, entier, appertisé, égoutté;0,76;;26180
+20221;Chou chinois (pak-choi ou pé-tsai), cuit;0,75;;20221
+28003;Porc, longe, crue;0,75;;28003
+28858;Pancetta ou Poitrine roulée sèche;0,75;;28858
+28550;Poitrine de porc demi-sel;0,75;;28550
+19590;Mozzarella au lait de vache;0,75;;19590
+6564;Veau, viande, cuite (aliment moyen);0,74;;6564
+28907;Jambon cuit, supérieur, à teneur réduite en sel;0,74;;28907
+10038;Crevette, surgelée, crue;0,74;;10038
+22501;Oeuf, au plat, frit, salé;0,74;;22501
+22011;Oeuf, poché;0,71;;22011
+8602;Tripes à la mode de Caen, préemballées;0,7;;8602
+20079;Champignon de Paris ou champignon de couche, appertisé, égoutté;0,7;;20079
+36030;Poulet, cuisse, viande, bouilli/cuit à l'eau;0,7;;36030
+36600;Pigeon, cru;0,7;;36600
+40052;Coeur, boeuf, cru;0,7;;40052
+40054;Coeur, poulet, cru;0,7;;40054
+28727;Filet de bacon;0,7;;28727
+8373;Roulade de porc pistachée;0,7;;8373
+30791;Mortadelle, porc et boeuf;0,7;;30791
+18900;Boisson au soja, nature, non enrichie, préemballée;0,7;;18900
+16410;Beurre à 60-62% MG, à teneur réduite en matière grasse, doux;0,7;;16410
+27029;Truite d'élevage, fumée;0,69;;27029
+18107;Boisson à l'amande, nature, non sucrée, non enrichie, préemballée;0,68;;18107
+16403;Beurre à 80% MG, salé;0,68;;16403
+34001;Lapin, viande crue;0,66;;34001
+34500;Grenouille, cuisse, crue;0,66;;34500
+25948;Bouillon de légumes, déshydraté reconstitué;0,65;;25948
+28301;Porc, rôti, cuit;0,65;;28301
+12066;Feta AOP;0,65;;12066
+28811;Jambon de Bayonne;0,63;;28811
+6204;Boeuf, onglet, cru;0,62;;6204
+26231;Sardine, filets sans arêtes à l'huile d'olive, appertisés, égouttés;0,62;;26231
+11018;Vinaigre;0,62;;11018
+13147;Olives vertes, fourrées ou farcies (anchois, poivrons, etc.);0,61;;13147
+8612;Tripes à la tomate ou à la provençale;0,6;;8612
+28105;Porc, carré, cuit;0,6;;28105
+6111;Boeuf, faux-filet, cru;0,6;;6111
+28400;Porc, travers, cru;0,6;;28400
+6900;Cheval, viande, crue;0,6;;6900
+40700;Gésier, poulet, cru;0,6;;40700
+30050;Chair à saucisse, crue;0,6;;30050
+28530;Oreille de porc demi-sel;0,6;;28530
+30705;Saucisson de Paris;0,6;;30705
+30706;Saucisson de Paris, fumé;0,6;;30706
+18070;Café décaféiné, non instantané, non sucré, prêt à boire;0,6;;18070
+16743;Matière grasse mélangée (végétale et laitière) à 50-63% MG;0,6;;16743
+16744;Matière grasse mélangée (végétale et laitière) à 50-63% MG, demi-sel;0,6;;16744
+6521;Veau, escalope, crue;0,58;;6521
+26181;Thon albacore ou thon jaune, au naturel, appertisé, égoutté;0,58;;26181
+6160;Boeuf, tende de tranche, crue;0,57;;6160
+10031;Écrevisse, cuite;0,56;;10031
+12999;Fromage (aliment moyen);0,56;;12999
+25538;Carpaccio de boeuf, avec marinade;0,55;;25538
+28912;Jambon cuit, choix, avec couenne;0,55;;28912
+8111;Canard, magret fumé;0,55;;8111
+25995;Maquereau, filet grillé, appertisé, nature, égoutté;0,55;;25995
+16402;Beurre à 80% MG, demi-sel;0,55;;16402
+16413;Beurre à teneur en matière grasse inconnue (allégé ou non), demi-sel (aliment moyen);0,55;;16413
+22010;Oeuf, dur;0,52;;22010
+20121;Épinard, surgelé, cuit;0,51;;20121
+36304;Dinde, escalope, crue;0,51;;36304
+10016;Seiche, crue;0,51;;10016
+25947;Bouillon de volaille, déshydraté reconstitué;0,5;;25947
+25063;Lapin à la moutarde, préemballé;0,5;;25063
+20099;Mâche, crue;0,5;;20099
+20163;Chicorée verte, crue;0,5;;20163
+20027;Épinard, cuit;0,5;;20027
+6531;Veau, filet, rôti/cuit au four;0,5;;6531
+36308;Dinde, escalope, rôtie/cuite au four;0,5;;36308
+34002;Lapin, viande cuite;0,5;;34002
+28300;Porc, rôti, cru;0,5;;28300
+36101;Caille, viande, crue;0,5;;36101
+40006;Cervelle, veau, crue;0,5;;40006
+40205;Langue, porc, crue;0,5;;40205
+8552;Andouillette de Troyes, à cuire;0,5;;8552
+26013;Hareng fumé, au naturel;0,5;;26013
+12325;Cancoillotte (spécialité fromagère fondue);0,5;;12325
+16404;Beurre à 82% MG, doux, tendre;0,5;;16404
+16411;Beurre à 60-62% MG, à teneur réduite en matière grasse, demi-sel;0,5;;16411
+8040;Rillettes de poulet;0,49;;8040
+26034;Sardine, à l'huile, appertisée, égouttée;0,49;;26034
+25213;Paupiette de veau, préemballée,  cuite au four;0,48;;25213
+21502;Agneau, gigot, cru;0,48;;21502
+8429;Jambon persillé en gelée;0,48;;8429
+28812;Jambon sec;0,48;;28812
+6254;Boeuf, steak haché 15% MG, cru;0,47;;6254
+21504;Agneau, épaule, crue;0,45;;21504
+18340;Boisson gazeuse aux fruits (à moins de 10% de jus), non sucrée, avec édulcorants;0,45;;18340
+5009;Bière blanche;0,43;;5009
+22050;Oeuf de caille, cru;0,41;;22050
+25210;Saumon farci, préemballé;0,4;;25210
+6140;Boeuf, joue, crue;0,4;;6140
+6206;Boeuf, rumsteck, cru;0,4;;6206
+6513;Veau, carré, cru;0,4;;6513
+6535;Veau, steak haché 20% MG, cru;0,4;;6535
+28104;Porc, carré, cru;0,4;;28104
+28204;Porc, filet mignon, cru;0,4;;28204
+36307;Dinde, cuisse, viande sans peau, crue;0,4;;36307
+6901;Cheval, steak, cru;0,4;;6901
+36000;Poule, viande et peau, crue;0,4;;36000
+40055;Coeur, dinde, cru;0,4;;40055
+40058;Coeur, agneau, cru;0,4;;40058
+40060;Coeur, porc, cru;0,4;;40060
+40202;Langue, boeuf, crue;0,4;;40202
+28960;Jambonneau, cuit;0,4;;28960
+18013;Tonic ou bitter, non sucré, avec édulcorants;0,4;;18013
+18072;Café décaféiné, instantané, non sucré, prêt à boire;0,4;;18072
+6106;Boeuf, rond de gîte, cru;0,38;;6106
+28001;Porc, épaule, crue;0,38;;28001
+28100;Porc, côte, crue;0,38;;28100
+28480;Porc, rôti filet avec chaînette, cru;0,37;;28480
+1001;Eau de vie;0,37;;1001
+18065;Boisson au thé, aromatisée, non sucrée, avec édulcorants;0,34;;18065
+25585;Brochette de boeuf, cuite;0,33;;25585
+8601;Tripes à la mode de Caen;0,3;;8601
+20090;Scarole, crue;0,3;;20090
+6210;Boeuf, rosbif, rôti/cuit au four;0,3;;6210
+6250;Boeuf, steak haché 5% MG, cru;0,3;;6250
+36016;Poulet, viande et peau, cru;0,3;;36016
+28905;Jambon à l'os braisé;0,3;;28905
+28802;Jambon sec, découenné, dégraissé;0,3;;28802
+28844;Jambon sec de Parme;0,3;;28844
+8500;Andouille;0,3;;8500
+8080;Rillettes de poisson, préemballées;0,3;;8080
+18073;Café, instantané, non sucré, prêt à boire;0,3;;18073
+18154;Thé noir, infusé, non sucré;0,3;;18154
+16615;Matière grasse végétale ou margarine, 80% MG, doux;0,3;;16615
+36900;Volaille, cuite (aliment moyen);0,28;;36900
+28473;Porc, jambon sans jarret, sans bateau, découenné, dégraissé, désossé, cru;0,28;;28473
+28474;Porc, jambonneau arrière, découenné, dégraisssé, désossé, cru;0,28;;28474
+18030;Boisson à l'eau minérale ou de source, aromatisée, non sucrée, avec édulcorants;0,28;;18030
+22000;Oeuf, cru;0,27;;22000
+6584;Viande blanche, cuite (aliment moyen);0,26;;6584
+28476;Porc, maigre 80/20, cru;0,26;;28476
+28477;Porc, palette, découennée, dégraissée, désossée, crue;0,25;;28477
+6999;Viande cuite (aliment moyen);0,24;;6999
+28205;Porc, viande, cuite (aliment moyen);0,24;;28205
+28475;Porc, maigre 90/10, cru;0,24;;28475
+19591;"Mozzarella au lait de bufflonne ou buflesse (""di bufala"")";0,24;;19591
+16616;Matière grasse végétale (type margarine) à 70% MG, doux;0,24;;16616
+16719;Matière grasse végétale (type margarine), teneur en matière grasse inconue, doux (aliment moyen);0,24;;16719
+16725;Matière grasse végétale (type margarine), teneur réduite en matière grasse inconnue, doux (aliment moyen);0,24;;16725
+6311;Boeuf, queue, crue;0,23;;6311
+28472;Porc, hachage sans jarret, sans bateau, découenné, dégraissé, désossé, cru;0,23;;28472
+10099;Escargot, sans matière grasse ajoutée, cuit;0,23;;10099
+6116;Boeuf, filet, cru;0,22;;6116
+28479;Porc, poitrine cutter, sans mouille, crue;0,22;;28479
+25537;Carpaccio de saumon avec marinade;0,22;;25537
+6104;Boeuf, gîte à la noix, cuit;0,2;;6104
+6271;Boeuf, paleron, braisé ou bouilli;0,2;;6271
+36008;Poulet fermier, viande et peau, cru;0,2;;36008
+40409;Rognon, veau, cru;0,2;;40409
+8000;Rillettes traditionnelles de porc;0,2;;8000
+8400;Fromage de tête;0,2;;8400
+30732;Cervelas à l'ail, pur porc;0,2;;30732
+18068;Cola, non sucré, avec édulcorants, sans caféine;0,2;;18068
+18022;Tisane infusée, non sucrée;0,2;;18022
+51502;Meloukhia, sauce, artisanale;0,2;;51502
+16737;Matière grasse végétale (type margarine) à 50-63% MG, allégée, doux, riche en oméga 3;0,18;;16737
+16741;Matière grasse végétale (type margarine) à 50-63% MG, allégée, doux;0,18;;16741
+12063;Fromage type feta, au lait de vache, à l'huile et aux aromates;0,16;;12063
+18001;Boisson gazeuse, sans jus de fruit, non sucrée, avec édulcorants;0,16;;18001
+40053;Coeur, boeuf, cuit;0,15;;40053
+8110;Confit de canard;0,15;;8110
+6257;Boeuf, steak haché 20% MG, cuit;0,14;;6257
+28471;Porc, gorge, découennée, crue;0,14;;28471
+18028;Boisson à l'eau minérale ou de source, aromatisée, non sucrée, sans édulcorant;0,14;;18028
+28401;Porc, travers, braisé;0,13;;28401
+8001;Rillettes pur porc;0,13;;8001
+16740;Matière grasse végétale (type margarine) à 50-63% MG, allégée, demi-sel, riche en oméga 3;0,12;;16740
+10009;Homard, bouilli/cuit à l'eau;0,11;;10009
+18060;Cola, non sucré, avec édulcorants;0,11;;18060
+25909;Bouillon de viande et légumes type pot-au-feu, prêt à consommer;0,1;;25909
+20105;Champignon, morille, crue;0,1;;20105
+40056;Coeur, poulet, cuit;0,1;;40056
+28302;Porc, échine, crue;0,1;;28302
+28470;Porc, bardière découennée, crue;0,1;;28470
+21003;Mouton, épaule, crue;0,1;;21003
+28804;Jambon cru, fumé, allégé en matière grasse;0,1;;28804
+26056;Oeufs de cabillaud, fumés, semi-conserve;0,1;;26056
+18035;Limonade, non sucrée, avec édulcorants;0,1;;18035
+1005;Whisky;0,096;;1005
+13186;Olive noire (aliment moyen);0,05;;13186
+13184;Olive (aliment moyen);0,043;;13184
+6585;Viande rouge, cuite (aliment moyen);0,027;;6585
+10039;Crabe, cru;0,027;;10039
+21523;Agneau, viande, cuite (aliment moyen);0,011;;21523
+28540;Pied de porc demi-sel;0,01;;28540
+6259;Boeuf, steak haché, cuit (aliment moyen);0,0018;;6259
+8240;Pâté de lapin;0,00027;;8240
+26140;Poisson cuit (aliment moyen);0;;26140
+26249;Poisson blanc, cuit (aliment moyen);0;;26249
+26250;Poisson blanc, de mer, cuit (aliment moyen);0;;26250
+20135;Fondue de poireau;0;;20135
+6101;Boeuf, braisé;0;;6101
+6110;Boeuf, faux-filet, grillé/poêlé;0;;6110
+6123;Boeuf, plat de côtes, braisé;0;;6123
+6251;Boeuf, steak haché 5% MG, cuit;0;;6251
+6253;Boeuf, steak haché 10% MG, cuit;0;;6253
+6255;Boeuf, steak haché 15% MG, cuit;0;;6255
+6511;Veau, côte, grillée/poêlée;0;;6511
+6551;Veau, rôti, cuit;0;;6551
+28007;Porc, longe, cuite;0;;28007
+28010;Porc, épaule, cuite;0;;28010
+28101;Porc, côte, grillée;0;;28101
+28202;Porc, filet, maigre, en rôti, cuit;0;;28202
+36006;Poulet, cuisse, viande, rôti/cuit au four;0;;36006
+36018;Poulet, filet, sans peau, sauté/poêlé;0;;36018
+36032;Poulet, poitrine, viande et peau, rôti/cuit au four;0;;36032
+36033;Poulet, aile, viande et peau, rôti/cuit au four;0;;36033
+36041;Poulet, filet, sans peau, sauté/poêlé, bio;0;;36041
+36302;Dinde, viande, rôtie/cuite au four;0;;36302
+36306;Dinde, escalope, sautée/poêlée;0;;36306
+21503;Agneau, gigot, rôti/cuit au four;0;;21503
+21507;Agneau, épaule, maigre, rôtie/cuite au four;0;;21507
+21512;Agneau, côte première, grillée/poêlée;0;;21512
+21513;Agneau, selle, partie maigre, rôtie/cuite au four;0;;21513
+21522;Agneau, côte ou côtelette, cuite (aliment moyen);0;;21522
+21524;Agneau, côte ou côtelette, grillée/poêlée (aliment moyen);0;;21524
+14000;Chevreuil, rôti/cuit au four;0;;14000
+14003;Sanglier, rôti/cuit au four;0;;14003
+14007;Cerf, rôti/cuit au four;0;;14007
+14008;Gibier à poil, cuit (aliment moyen);0;;14008
+36402;Faisan, viande, rôtie/cuite au four;0;;36402
+36603;Gibier à plumes, viande, cuit (aliment moyen);0;;36603
+6902;Cheval, viande, rôtie/cuite au four;0;;6902
+21801;Chevreau, cuit;0;;21801
+34000;Lapin, viande braisée;0;;34000
+34004;Lapin de garenne, viande, cuite;0;;34004
+36051;Chapon, viande et peau, rôti/cuit au four;0;;36051
+36102;Caille, viande et peau, cuite;0;;36102
+36200;Canard, viande et peau, rôti/cuit au four;0;;36200
+36202;Canard, viande, rôtie/cuite au four;0;;36202
+36502;Oie, viande, rôtie/cuite au four;0;;36502
+36503;Oie, viande et peau, rôtie/cuite au four;0;;36503
+36602;Pigeon, viande, rôtie/cuite au four;0;;36602
+36801;Autruche, viande cuite;0;;36801
+40007;Cervelle, veau, cuite;0;;40007
+40057;Coeur, dinde, cuit;0;;40057
+40109;Foie, volaille, cuit;0;;40109
+40118;Foie, dinde, cuit;0;;40118
+40201;Langue, veau, cuite;0;;40201
+40203;Langue, boeuf, cuite;0;;40203
+40303;Ris, agneau, cuit;0;;40303
+40305;Ris, veau, braisé ou sauté/poêlé;0;;40305
+40401;Rognon, cuit (aliment moyen);0;;40401
+40403;Rognon, boeuf, cuit;0;;40403
+40405;Rognon, porc, cuit;0;;40405
+40406;Rognon, agneau, braisé;0;;40406
+40408;Rognon, veau, braisé ou sauté/poêlé;0;;40408
+40701;Gésier, canard, confit, appertisé;0;;40701
+6002;Boeuf, épaule, crue;0;;6002
+6102;Boeuf, gîte à la noix, cru;0;;6102
+6103;Boeuf, entrecôte, crue;0;;6103
+6122;Boeuf, plat de côtes, cru;0;;6122
+6130;Boeuf, hampe, crue;0;;6130
+6150;Boeuf, jarret, cru;0;;6150
+6201;Boeuf, steak ou bifteck, cru;0;;6201
+6202;Boeuf, boule de macreuse, crue;0;;6202
+6212;Boeuf, bavette d'aloyau, crue;0;;6212
+6231;Boeuf, à bourguignon ou pot-au-feu, cru;0;;6231
+6256;Boeuf, steak haché 20% MG, cru;0;;6256
+6270;Boeuf, paleron, cru;0;;6270
+6510;Veau, côte, crue;0;;6510
+6522;Veau, noix, crue;0;;6522
+6530;Veau, filet, cru;0;;6530
+6540;Veau, poitrine, crue;0;;6540
+6550;Veau, rôti, cru;0;;6550
+6560;Veau, épaule, crue;0;;6560
+6583;Veau, jarret, cru;0;;6583
+28002;Porc, poitrine, crue;0;;28002
+28004;Porc, jarret, cru;0;;28004
+28102;Porc, rouelle de jambon, crue;0;;28102
+28201;Porc, filet, maigre, cru;0;;28201
+28460;Porc, escalope de jambon, crue;0;;28460
+36002;Poulet, cuisse, viande et peau, cru;0;;36002
+36003;Poulet, viande, crue;0;;36003
+36007;Poulet (var. blanc), viande et peau, cru;0;;36007
+36017;Poulet, filet, sans peau, cru;0;;36017
+36019;Poulet, haut de cuisse, viande, cru;0;;36019
+36022;Poulet, pilon, cru;0;;36022
+36023;Poulet, aile, viande et peau, cru;0;;36023
+36024;Poulet, cuisse, viande, cru;0;;36024
+36029;Poulet, poitrine, viande et peau, cru;0;;36029
+36037;Poulet, cuisse, viande et peau, cru, bio;0;;36037
+36038;Poulet, cuisse, viande et peau, cru, label rouge;0;;36038
+36039;Poulet, filet, sans peau, cru, bio;0;;36039
+36040;Poulet, filet, sans peau, cru, label rouge;0;;36040
+36300;Dinde, viande et peau, crue;0;;36300
+36305;Dinde, cuisse, viande et peau, crue;0;;36305
+36310;Dinde, aile, crue;0;;36310
+21500;Agneau, côtelette, crue;0;;21500
+21505;Agneau, épaule, maigre, crue;0;;21505
+21515;Agneau, selle, crue;0;;21515
+21517;Agneau, côte première, crue;0;;21517
+14002;Sanglier, cru;0;;14002
+14004;Lièvre, viande crue;0;;14004
+14005;Chevreuil, cru;0;;14005
+14006;Cerf, cru;0;;14006
+36401;Faisan, viande, cru;0;;36401
+36403;Faisan, viande et peau, cru;0;;36403
+21800;Chevreau, cru;0;;21800
+34003;Lapin de garenne, viande, crue;0;;34003
+36001;Poule, viande ,crue;0;;36001
+36014;Poule, cuisse, crue;0;;36014
+36050;Chapon, viande et peau, cru;0;;36050
+36100;Caille, viande et peau, crue;0;;36100
+36201;Canard, viande, crue;0;;36201
+36500;Oie, viande crue;0;;36500
+36501;Oie, viande et peau, crue;0;;36501
+36700;Pintade, crue;0;;36700
+36702;Pintade, poitrine, crue;0;;36702
+36703;Pintade, cuisse, crue;0;;36703
+36800;Autruche, viande crue;0;;36800
+40005;Cervelle, porc, crue;0;;40005
+40115;Foie, dinde, cru;0;;40115
+40302;Ris, agneau, cru;0;;40302
+40304;Ris, veau, cru;0;;40304
+40502;Tripes, boeuf, crues;0;;40502
+28700;Jambon de porc à cuire ou Jambon à rôtir/cuire au four;0;;28700
+30011;Saucisse de Toulouse, cuite;0;;30011
+30108;Saucisse de Morteau, bouillie/cuite à l'eau;0;;30108
+8450;Museau de boeuf;0;;8450
+8504;Andouille, réchauffée à la poêle;0;;8504
+28503;Bresaola;0;;28503
+25996;Saumon, cuit, sans précision (aliment moyen);0;;25996
+25997;Cabillaud, cuit, sans précision (aliment moyen);0;;25997
+25998;Hareng fumé, filet, doux;0;;25998
+26087;Maquereau, fumé;0;;26087
+26090;Haddock (fumé) ou églefin fumé;0;;26090
+26152;Lieu ou colin d'Alaska, fumé;0;;26152
+26999;Anguille, cuite (aliment moyen);0;;26999
+10059;Crevette rose, crue;0;;10059
+26039;Thon, au naturel, appertisé, égoutté;0;;26039
+26077;Thon germon ou thon blanc, cuit à la vapeur sous pression;0;;26077
+26123;Maquereau, au naturel, appertisé, égoutté;0;;26123
+26177;Anchois au sel (anchoité, semi-conserve);0;;26177
+26245;Thon à l'huile de tournesol, miettes, appertisées, égouttées;0;;26245
+12034;Fromage à pâte molle et croûte lavée (aliment moyen);0;;12034
+12100;Fromage à pâte pressée cuite (aliment moyen);0;;12100
+18008;Eau de source, embouteillée (aliment moyen);0;;18008
+18009;Eau minérale, embouteillée, faiblement minéralisée (aliment moyen);0;;18009
+18044;Eau minérale (aliment moyen);0;;18044
+18045;Eau minérale, plate (aliment moyen);0;;18045
+18046;Eau minérale, gazeuse (aliment moyen);0;;18046
+18066;Eau du robinet;0;;18066
+18430;Eau embouteillée de source;0;;18430
+76000;Eau minérale Abatilles, embouteillée, non gazeuse, faiblement minéralisée (Arcachon, 33);0;;76000
+76001;Eau minérale Aix-les-Bains, embouteillée, non gazeuse, faiblement minéralisée (Aix-les-Bains, 73);0;;76001
+76002;Eau minérale Aizac, embouteillée, gazeuse, faiblement minéralisée (Aizac, 07);0;;76002
+76004;Eau minérale Amanda, embouteillée, non gazeuse, fortement minéralisée (St-Amand, 59);0;;76004
+76006;Eau minérale Arcens, embouteillée, gazeuse, moyennement minéralisée (Arcens, 07);0;;76006
+76007;Eau minérale Ardesy, embouteillée, gazeuse, fortement minéralisée (Ardes, 63);0;;76007
+76010;Eau minérale Celtic, embouteillée, gazeuse ou non gazeuse, très faiblement minéralisée (Niederbronn, 67);0;;76010
+76011;Eau minérale Chambon, embouteillée, non gazeuse, faiblement minéralisée (Chambon, 45);0;;76011
+76012;Eau minérale Chantemerle, embouteillée, non gazeuse, faiblement minéralisée (Le Pestrin, 07);0;;76012
+76013;Eau minérale Chateauneuf, embouteillée, gazeuse, fortement minéralisée (Chateauneuf, 63);0;;76013
+76014;Eau minérale Chateldon, embouteillée, gazeuse, fortement minéralisée (Chateldon, 63);0;;76014
+76015;Eau minérale Clos de l'Abbaye, embouteillée, non gazeuse, moyennement minéralisée (St-Amand, 59);0;;76015
+76016;Eau minérale Contrex, embouteillée, non gazeuse, fortement minéralisée (Contrexéville, 88);0;;76016
+76017;Eau minérale Dax, embouteillée, non gazeuse, moyennement minéralisée (Dax, 40);0;;76017
+76018;Eau minérale Didier, embouteillée, gazeuse, fortement minéralisée (Martinique);0;;76018
+76019;Eau minérale Didier, embouteillée non gazeuse, fortement minéralisée (Martinique);0;;76019
+76020;Eau minérale Evian, embouteillée, non gazeuse, faiblement minéralisée (Evian, 74);0;;76020
+76022;Eau minérale Hépar, embouteillée, non gazeuse, fortement minéralisée (Vittel, 88);0;;76022
+76023;Eau minérale Hydroxydase, embouteillée, gazeuse, fortement minéralisée (Le Breuil sur Couze, 63);0;;76023
+76024;Eau minérale Vernière, embouteillée, gazeuse, moyennement minéralisée (Les Aires, 34);0;;76024
+76025;Eau minérale Luchon, embouteillée, non gazeuse, faiblement minéralisée (Luchon, 31);0;;76025
+76027;Eau minérale Mont-Roucous, embouteillée, très faiblement minéralisée (Lacaune, 81);0;;76027
+76028;Eau de source Ogeu, embouteillée, faiblement minéralisée (Ogeu, 64);0;;76028
+76029;Eau minérale Orée du bois, embouteillée, non gazeuse, moyennement minéralisée (St-Amand, 59);0;;76029
+76030;Eau minérale Orezza, embouteillée, gazeuse, moyennement minéralisée (Rapaggio, 20B);0;;76030
+76031;Eau minérale Parot, embouteillée, gazeuse, moyennement minéralisée (St-Romain-le-Puy, 42);0;;76031
+76032;Eau minérale Plancoet, embouteillée, gazeuse ou non gazeuse, faiblement minéralisée (Plancoet, 22);0;;76032
+76033;Eau minérale Propiac, embouteillée, non gazeuse, fortement minéralisée (Propiac, 26);0;;76033
+76034;Eau minérale Puits St-Georges, embouteillée, gazeuse, moyennement minéralisée (St-Romain-le-Puy, 42);0;;76034
+76035;Eau minérale Quézac, embouteillée, gazeuse, moyennement minéralisée (Quézac, 48);0;;76035
+76036;Eau minérale Reine des basaltes, embouteillée, gazeuse, moyennement minéralisée (Asperjoc, 07);0;;76036
+76037;Eau minérale Rozana, embouteillée, gazeuse, fortement minéralisée (Beauregard, 63);0;;76037
+76038;Eau minérale Sail-les-Bains, embouteillée, non gazeuse, faiblement minéralisée (Sail-les-Bains, 42);0;;76038
+76039;Eau minérale Salvetat, embouteillée, gazeuse, moyennement minéralisée (La Salvetat, 34);0;;76039
+76043;Eau minérale St-Amand, embouteillée, gazeuse ou non gazeuse, moyennement minéralisée (St-Amand, 59);0;;76043
+76044;Eau minérale St-Antonin, embouteillée, non gazeuse, fortement minéralisée (St-Antonin-Noble-Val, 82);0;;76044
+76046;Eau minérale St-Diéry, embouteillée, gazeuse, fortement minéralisée (St-Diéry, 63);0;;76046
+76047;Eau minérale Ste-Marguerite, embouteillée, gazeuse, moyennement minéralisée (St-Maurice, 63);0;;76047
+76049;Eau minérale St-Yorre, embouteillée, gazeuse, fortement minéralisée (Saint-Yorre, 03);0;;76049
+76050;Eau minérale Thonon, embouteillée, non gazeuse, faiblement minéralisée (Thonon, 74);0;;76050
+76053;Eau minérale Ventadour, embouteillée, gazeuse, faiblement minéralisée (Le Pestrin, 07);0;;76053
+76054;Eau minérale Vernet, embouteillée, gazeuse, faiblement minéralisée (Prades, 07);0;;76054
+76055;Eau minérale Vichy Célestins, embouteillée, gazeuse, fortement minéralisée (Saint-Yorre, 03);0;;76055
+76056;Eau minérale Vittel, embouteillée, non gazeuse, moyennement minéralisée (Vittel, 88);0;;76056
+76057;Eau minérale Volvic, embouteillée, non gazeuse, faiblement minéralisée (Volvic, 63);0;;76057
+76058;Eau minérale Volvic active, embouteillée, gazeuse, faiblement minéralisée (Volvic, 63);0;;76058
+76059;Eau minérale Wattwiller, embouteillée, gazeuse ou non gazeuse, faiblement minéraliséee (Wattwiller, 68);0;;76059
+76060;Eau minérale Perrier, embouteillée, gazeuse, faiblement minéralisée (Vergèse, 30);0;;76060
+76061;Eau minérale Badoit, embouteillée, gazeuse, moyennement minéralisée (St-Galmier, 42);0;;76061
+76062;Eau minérale Avra, embouteillée, non gazeuse, faiblement minéralisée (Grèce);0;;76062
+76063;Eau minérale Beckerich, embouteillée, non gazeuse, faiblement minéralisée (Luxembourg);0;;76063
+76065;Eau minérale Chaudfontaine, embouteillée, non gazeuse, faiblement minéralisée (Belgique);0;;76065
+76066;Eau minérale Christinen Brunnen, embouteillée, non gazeuse, moyennement minéralisée (Allemagne);0;;76066
+76067;Eau minérale Courmayeur, embouteillée, non gazeuse, fortement minéralisée (Italie);0;;76067
+76069;Eau minérale Levissima, embouteillée, non gazeuse, faiblement minéralisée (Italie);0;;76069
+76070;Eau minérale Luso, embouteillée, non gazeuse, très faiblement minéralisée (Portugal);0;;76070
+76071;Eau minérale Néro, embouteillée, non gazeuse, faiblement minéralisée (Grèce);0;;76071
+76072;Eau minérale Penacova, embouteillée, non gazeuse, très faiblement minéralisée (Portugal);0;;76072
+76074;Eau minérale San Bernardo, embouteillée, très faiblement minéralisée (Italie);0;;76074
+76075;Eau minérale San Pellegrino, embouteillée, gazeuse, moyennement minéralisée (Italie);0;;76075
+76076;Eau minérale Spa-Reine, embouteillée, gazeuse ou non non gazeuse, moyennement minéralisée (Belgique);0;;76076
+76078;Eau minérale Valvert, embouteillée, non gazeuse, faiblement minéralisée (Belgique);0;;76078
+76079;Eau minérale Appollinaris, embouteillée, non gazeuse, fortement minéralisée (Allemagne);0;;76079
+76080;Eau de source Cristaline, embouteillée, non gazeuse;0;;76080
+76081;Eau minérale Biovive, embouteillée, non gazeuse, faiblement minéralisée (Dax, 40);0;;76081
+76082;Eau minérale La Cairolle, embouteillée, non gazeuse, fortement minéralisée (Les Aires, 34);0;;76082
+76083;Eau minérale Cilaos, embouteillée, gazeuse, fortement minéralisée (Cilaos, 974);0;;76083
+76085;Eau minérale La Française, embouteillée, non gazeuse, fortement minéralisée (Propiac, 26);0;;76085
+76086;Eau minérale Montcalm, embouteillée, non gazeuse, très faiblement minéralisée (Auzat, 09);0;;76086
+76087;Eau minérale Montclar, embouteillée, non gazeuse, faiblement minéralisée (Montclar, 04);0;;76087
+76088;Eau minérale Nessel, embouteillée, gazeuse, moyennement minéralisée (Soultzmatt, 68);0;;76088
+76089;Eau minérale Ogeu, embouteillée, gazeuse, faiblement minéralisée (Ogeu-les-Bains, 64);0;;76089
+76090;Eau minérale Ogeu, embouteillée, non gazeuse, faiblement minéralisée (Ogeu-les-Bains, 64);0;;76090
+76091;Eau minérale Prince Noir, embouteillée, non gazeuse, fortement minéralisée (St-Antonin-Noble-Val, 82);0;;76091
+76092;Eau minérale St-Alban, embouteillée, gazeuse, moyennement minéralisée (St-Alban, 42);0;;76092
+76093;Eau minérale St-Géron, embouteillée, gazeuse, moyennement minéralisée (St-Géron, 43);0;;76093
+76094;Eau minérale St-Michel-de-Mourcairol, embouteillée, gazeuse, moyennement minéralisée (Les Aires, 34);0;;76094
+76095;Eau minérale Treignac, embouteillée, non gazeuse, très faiblement minéralisée (Treignac, 19);0;;76095
+76096;Eau minérale Vals, embouteillée, gazeuse, moyennement minéralisée (Vals-les-Bains, 07);0;;76096
+76097;Eau minérale Vauban, embouteillée, non gazeuse, moyennement minéralisée (St-Amand-les-Eaux, 59);0;;76097
+76100;Eau minérale Carola, embouteillée, gazeuse ou non gazeuse, moyennement minéralisée (Ribeauville, 68);0;;76100
+76101;Eau minérale Mont-Blanc, embouteillée, non gazeuse, faiblement minéralisée (Italie);0;;76101
+76102;Eau minérale Eden (La Goa), embouteillée, non gazeuse, faiblement minéralisée (Suisse);0;;76102
+18020;Thé infusé, non sucré;0;;18020
+18156;Thé oolong, infusé, non sucré;0;;18156
+1002;Gin;0;;1002
+1004;Rhum;0;;1004
+1008;Vodka;0;;1008
+1014;Alcool pur;0;;1014
+1024;Eau de vie, type calvados;0;;1024
+16401;Huile de beurre ou Beurre concentré;0;;16401
+16030;Huile ou beurre de cacao;0;;16030
+16040;Huile ou graisse de coco (coprah), sans précision;0;;16040
+16060;Huile ou graisse de coco (coprah), raffinée;0;;16060
+16080;Matière grasse ou graisse végétale solide (type margarine) pour friture;0;;16080
+16110;Huile ou beurre de karité;0;;16110
+16128;Huile pour friture, sans précision;0;;16128
+16129;Huile de palme, sans précision;0;;16129
+16150;Huile de palme raffinée;0;;16150
+16200;Huile ou graisse de palmiste, sans précision;0;;16200
+17001;Huile végétale (aliment moyen);0;;17001
+17020;Huile d'amandes d'abricot;0;;17020
+17030;Huile d'amande;0;;17030
+17040;Huile d'arachide;0;;17040
+17100;Huile d'avocat;0;;17100
+17110;Huile de germe de blé;0;;17110
+17126;Huile de carthame;0;;17126
+17130;Huile de colza;0;;17130
+17170;Huile de coton;0;;17170
+17180;Huile de lin;0;;17180
+17190;Huile de maïs;0;;17190
+17210;Huile de noisette;0;;17210
+17220;Huile de noix;0;;17220
+17270;Huile d'olive vierge extra;0;;17270
+17325;Huile de pavot;0;;17325
+17350;Huile de pépins de raisin;0;;17350
+17390;Huile de son de riz;0;;17390
+17400;Huile de sésame;0;;17400
+17420;Huile de soja;0;;17420
+17440;Huile de tournesol;0;;17440
+17700;Huile combinée (mélange d'huiles);0;;17700
+17701;Huile combinée, mélange d'huile d'olive et de graines;0;;17701
+17900;Huile d'argan ou d'argane;0;;17900
+16736;Matière grasse végétale (type margarine), à tartiner, à 30-40% MG, légère, doux, riche en oméga 3;0;;16736
+16739;Matière grasse végétale (type margarine) à 50-63% MG, allégée, doux, aux esters de stérol végétal;0;;16739
+17630;Huile de foie de morue;0;;17630
+17640;Huile de sardine;0;;17640
+17645;Huile de saumon;0;;17645
+17650;Huile de hareng;0;;17650
+16520;Saindoux;0;;16520
+16530;Lard gras, cru;0;;16530
+16540;Graisse de poulet;0;;16540
+16550;Graisse de canard;0;;16550
+16560;Graisse d'oie;0;;16560
+16570;Graisse de dinde;0;;16570
+17999;Huile de paraffine;0;;17999
+11017;Sel blanc alimentaire, non iodé, non fluoré (marin, ignigène ou gemme);0;;11017
+11058;Sel blanc alimentaire, iodé, non fluoré (marin, ignigène ou gemme);0;;11058
+11082;Fleur de sel, non iodée, non fluorée;0;;11082
+11083;Sel marin gris, non iodé, non fluoré;0;;11083
+11096;Sel blanc alimentaire, iodé, fluoré à 25 mg /100 g (marin, ignigène ou gemme);0;;11096
+11007;Gélatine, sèche;0;;11007
+11507;Bicarbonate de soude;0;;11507
+9621;Son de blé;;;9621
